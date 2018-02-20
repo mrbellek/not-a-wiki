@@ -320,9 +320,9 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Requirement**: 30000 Max Mana, Any Neutral,Dragon (This game)
 
-**Cost**: 18.27 Tvg (1.827E73)**Effect
+**Cost**: 18.27 Tvg (1.827E73)
 
-**: Increase production bonus from gems based on maximum mana.
+**Effect**: Increase production bonus from gems based on maximum mana.
 
 **Formula**: 2 * x^0.4, where x is max mana
 
