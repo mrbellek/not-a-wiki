@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ###### [![Druid](/realm/img/picks/DruidTopPage.png "Druid")](/realm/Factions/)
 
 ![Champion Trophy](/realm/img/picks/Druid.png "Champion Trophy") **Champion Trophy**
@@ -20,7 +21,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase the production of your least productive building based on the amount of the three most built ones for 20 seconds.
 
-**Formula**: $Round\left( {\frac {\left(\frac{xyz}{729}\right)^{0.9}}{4}} \right)$ where$\, x,y,z \,$are the number of your three most-built buildings. 
+**Formula**: $$Round\left( {\frac {\left(\frac{xyz}{729}\right)^{0.9}}{4}} \right)$$ where$$\, x,y,z \,$$are the number of your three most-built buildings. 
 
 **Spell Trophy & Upgrade**: ![Halls of Balance](/realm/img/picks/HallsofBalanceFactionUpgrade.png "Halls of Balance") **Halls of Balance** 
 
