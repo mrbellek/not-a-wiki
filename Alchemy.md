@@ -38,6 +38,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 **Cost**: 12.63 Dqag (1.263E130) 
 
 **Effect**: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and multiplies its effect by x7.
+*New Formula*: $$Round\left(2200 * x^{0.8}\right)\,$$% where $$\, x \,$$ is your Trophies Unlocked stat.
 
 &nbsp;
 
@@ -49,7 +50,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.
 
-**Formula**: Additive Production increase: floor(1000 * t^1.5); Duration increase: floor(x / 800)^0.8) seconds; where t is how long FC has been active in seconds, and x is the number of Farms, Inns, and Blacksmiths you own.
+**Formula**: Additive Production increase: $$\left\lfloor{1000 * t^{1.5}}\right\rfloor\,$$%; Duration increase: $$\left\lfloor{(x / 800)^{0.8}\right\rfloor\,$$ seconds; where $$\, t \,$$ is how long FC has been active in seconds, and $$\, x \,$$ is the number of Farms, Inns, and Blacksmiths you own.
 
 &nbsp;
 
@@ -61,7 +62,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Heaven's Domains further increase your mana regeneration rate. 
 
-**Formula**: 1.45 * x^0.45, where x is the number of Heaven's Domains you own.
+**Formula**: $$1.45 * x^{0.45}\,$$ where $$\, x \,$$ is the number of Heaven's Domains you own.
 
 &nbsp;
 
@@ -73,7 +74,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Improve offline production based on spells cast. 
 
-**Formula**: round 5 * x ^ 0.85, where x is your Spells Cast (Total) stat.
+**Formula**: $$Round\left(5 * x ^ {0.85}\right)\,$$% where $$\, x \,$$ is your Spells Cast (Total) stat.
 
 &nbsp;
 
@@ -85,7 +86,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increases the production of buildings based on the amount of Faction Coins found this game. 
 
-**Formula**: round(0.7 * ln^3(1 + x))%, where x is your Faction Coins Gained (This Game) stat.
+**Formula**: $$Round\left(0.7 * \ln^3(1 + x)\right)\,$$% where $$\, x \,$$ is your Faction Coins Gained (This Game) stat.
 
 &nbsp;
 
@@ -97,7 +98,8 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Gain additional assistants based on max mana. 
 
-**Formula**: floor(x/15)^0.825), where x is your maximum mana.Tip: Use Fairy with Faceless bloodline.
+**Formula**: $$\left\lfloor{(\frac{x}{15})^{0.825}}\right\rfloor\,$$ where $$\, x \,$$ is your maximum mana.
+*Tip: Use Fairy with Faceless bloodline.*
 
 &nbsp;
 
@@ -109,7 +111,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase the production on all buildings based on total time spent. 
 
-**Formula**: round(c * x^0.7)%, where x is your Playtime (Total) in seconds stat and c is 0.03(2^0.7), which is approximately 0.049.
+**Formula**: $$Round\left(0.03 * (2x)^{0.7}\right)\,$$% where $$\, x \,$$ is your Playtime (Total) stat in seconds.
 
 &nbsp;
 
@@ -121,7 +123,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Whenever you cast a spell, increase the production of your most productive building based on the amount of mana produced in this game for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration. 
 
-**Formula**: round(0.7 * x^0.6)%, where x is your Mana Produced (Total) stat.
+**Formula**: $$Round\left(0.7 * x^{0.6}\right)\,$$% where $$\, x \,$$ is your Mana Produced (Total) stat.
 
 &nbsp;
 
@@ -133,7 +135,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase the production of all buildings based on the amount of times you Reincarnated. 
 
-**Formula**: round(2.5 * x^2.25)%, where x is the amount of times you reincarnated.
+**Formula**: $$Round\left(2.5 * x^{2.25}\right)\,$$% where $$\, x \,$$ is the amount of times you reincarnated.
 
 &nbsp;
 
@@ -145,7 +147,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase clicking reward based on time spent in this game. 
 
-**Formula**: round(c * x^0.75)%, where x is your Playtime (Total) in seconds stat and c is 0.07(2^0.75), which is approximately 0.118.
+**Formula**: $$Round\left(0.07 * (2x)^{0.75}\right)\,$$% where $$\, x \,$$ is your Playtime (Total) stat in seconds.
 
 &nbsp;
 
@@ -157,7 +159,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase production bonus from gems based on the amount of research made. 
 
-**Formula**: floor(x^0.9 / 25)%, where x is the amount of research made.
+**Formula**: $$\left\lfloor{\frac{x^{0.9}}{25}}\right\rfloor\,$$% where $$\, x \,$$ is the amount of research made.
 
 &nbsp;
 
@@ -169,7 +171,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase the production of Stonehenge Circles based on mana produced in this game. 
 
-**Formula**: round(0.75 * x ^0.6)%, where x is your Mana Produced (This Game) stat.
+**Formula**: $$Round\left(0.75 * x ^{0.6}\right)\,$$% where $$\, x \,$$ is your Mana Produced (This Game) stat.
 
 &nbsp;
 
@@ -181,7 +183,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase mana regeneration based on the amount of Faction Coins found in this game. 
 
-**Formula**: floor(12 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.
+**Formula**: $$\frac{\left\lfloor{12 * \ln(1 + x)\right\rfloor}{10}\,$$ where $$\, x \,$$ is your Faction Coins Gained (This Game) stat.
 
 &nbsp;
 
@@ -193,7 +195,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase mana regeneration based on mana produced in this game. 
 
-**Formula**: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
+**Formula**: $$\frac{\left\lfloor{30 * ln^{1.2}(1 + x)}\right\rfloor}{10}\,$$ where $$\, x \,$$ is your Mana Produced (This Game) stat.
 
 &nbsp;
 
@@ -207,11 +209,11 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Also increase Faction Coins find chance by a multiplicative 100%.
 
-**Formula**: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat
+**Formula**: $$\left\lfloor{3.5 * \log^{3.5}_e(1+x)}\right\rfloor\,$$% where $$\, x \,$$ is your Spells Cast (This Game) stat
 
 or approximately
 
-**Formula**: floor((ln(x) + 0.69)^{2.75})%, where x is your Spells Cast (This Game) stat.
+**Formula**: $$\left\lfloor{(\ln(x) + 0.69)^{2.75}}\right\rfloor\,$$% where $$\, x \,$$ is your Spells Cast (This Game) stat.
 
 &nbsp;
 
@@ -223,7 +225,7 @@ or approximately
 
 **Effect**: Increase the production of all buildings based on time spent playing as other factions. 
 
-**Formula**: round(0.05 * x^0.7)%, where x is time spent as other factions.
+**Formula**: $$Round\left(0.05 * x^{0.7}\right)\,$$% where $$\, x \,$$ is time spent as other factions.
 
 &nbsp;
 
@@ -235,7 +237,7 @@ or approximately
 
 **Effect**: Gain additional assistants based on mana produced this game. 
 
-**Formula**: floor(4.5 * ln(1 + x)), where x is your Mana Produced (This Game) stat.
+**Formula**: $$\left\lfloor{4.5 * \ln(1 + x)}\right\rfloor\,$$ where $$\, x \,$$ is your Mana Produced (This Game) stat.
 
 &nbsp;
 
@@ -269,7 +271,7 @@ or approximately
 
 **Effect**: Increase offline production based on the amount of Royal Exchanges you purchased. 
 
-**Formula**: 120 * x ^ 0.85, where x is your Royal Exchanges Made stat.
+**Formula**: $$120 * x ^ {0.85}\,$$% where $$\, x \,$$ is your Royal Exchanges Made stat.
 
 &nbsp;
 
@@ -281,7 +283,7 @@ or approximately
 
 **Effect**: Increase assistants production based on the amount of research made. 
 
-**Formula**: 120 * x^0.42%, where x is the Amount of Researches made.
+**Formula**: $$120 * x^{0.42}\,$$% where $$\, x \,$$ is the Amount of Researches made.
 
 &nbsp;
 
@@ -293,7 +295,7 @@ or approximately
 
 **Effect**: Increases mana regeneration based on Gems you own. 
 
-**Formula**:  log10(x) / 2, where x is Gems you own.
+**Formula**:  $$\frac{\log_{10}x}{2}\,$$ where $$\, x \,$$ is Gems you own.
 
 &nbsp;
 
@@ -305,7 +307,7 @@ or approximately
 
 **Effect**: Increase the production of all buildings based on mana produced and the percentage of offline time spent in this game. 
 
-**Formula**: 0.045 * x^0.45 * p%, where x is your Mana Produced (This Game) stat and p is the percentage of your Time Spent Offline for this game.
+**Formula**: $$0.045 * x^{0.45} * p\,$$% where $$\, x \,$$ is your Mana Produced (This Game) stat and $$\, p \,$$ is the percentage of your Time Spent Offline for this game.
 
 &nbsp;
 
@@ -317,7 +319,7 @@ or approximately
 
 **Effect**: Increase the production of all other buildings per Iron Strongholds owned by 0.35%.
 
-**Formula**: 0.35 * x, where x is Iron Strongholds owned
+**Formula**: $$35 * x\,$$% where $$\, x \,$$ is Iron Strongholds owned
 
 &nbsp;
 
@@ -329,9 +331,9 @@ or approximately
 
 **Effect**: Increase mana regeneration based on the amount of excavations made.
 
-**Formula**:  floor(0.02 * X), where x is current excavations
+**Formula**:  $$\left\lfloor{0.02 * x}\right\rfloor\,$$ where $$\, x \,$$ is current excavations
 
-Tip: E290 and end of R54.
+*Tip: E290 and end of R54.*
 
 &nbsp;
 
@@ -343,7 +345,7 @@ Tip: E290 and end of R54.
 
 **Effect**: Increase Max Mana based on the amount of Unique Buildings you own.
 
-**Formula**: 8 * x^0.8, where x is Unique Buildings owned.
+**Formula**: $$8 * x^{0.8}\,$$ where $$\, x \,$$ is Unique Buildings owned.
 
 &nbsp;
 
@@ -369,4 +371,4 @@ Tip: E290 and end of R54.
 
 **Effect**: Also increases Faction Coin find chance by a multiplicative 350%.
 
-**Formula**: 3 * x ^ 2.25, where x is total Lineage levels.
+**Formula**: $$3 * x ^ {2.25}\,$$% where $$\, x \,$$ is total Lineage levels.

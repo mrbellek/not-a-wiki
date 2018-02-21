@@ -59,7 +59,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 ---
 
-![Fragment of a Titan Statue](/realm/img/picks/ProofNeutralityFactionUpgrade.png "Fragment of a Titan Statue") **Proof Of Neutrality**
+![Proof of Neutrality](/realm/img/picks/ProofNeutralityFactionUpgrade.png "Proof of Neutrality") **Proof Of Neutrality**
 
 **Type**: Alignment Upgrade
 
@@ -85,7 +85,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.
 
-**Formula**: $4000*x$%, where$\, x \,$is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
+**Formula**: $$4000 * x\,$$% where $$\, x \,$$ is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
 
 ![Animal Companions](/realm/img/picks/AnimalCompanionsFactionUpgrade.png "Animal Companions") **Animal Companions**
 
@@ -93,7 +93,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.
 
-**Formula**: $\left\lfloor3+\frac{\sqrt{1+12x}-1}{2}\right\rfloor$ where$\, x \,$is your Playtime (This Game) stat in hours.
+**Formula**: $$\left\lfloor3+\frac{\sqrt{1+12x}-1}{2}\right\rfloor\,$$ where $$\, x \,$$ is your Playtime (This Game) stat in hours.
 
 ![Hours](/realm/img/picks/hours.png "Hours")
 
@@ -103,7 +103,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own..
 
-**Formula**: x ^ 0.35, where x is the amount of the building with the lowest production. (additively and multiplicatively)
+**Formula**: $$x ^ {0.35}\,$$ where $$\, x \,$$ is the amount of the building with the lowest production. (additively and multiplicatively)
 
 ---
 
@@ -127,7 +127,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase the production of all buildings based on your maximum mana.
 
-**Formula**: 1.75 * x ^ 0.9, where x is your maximum mana.
+**Formula**: $$1.75 * x ^ {0.9}\,$$ where $$\, x \,$$ is your maximum mana.
 
 ![Shapeshifting](/realm/img/picks/ShapeshiftingFactionUpgrade.png "Shapeshifting") **Shapeshifting**
 
@@ -135,7 +135,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase mana regeneration based on the amount of assistants you own.
 
-**Formula**: 1.3 * x ^ 0.7, where x is the amount of assistants you own.
+**Formula**: $$1.3 * x ^ {0.7}\,$$ where $$\, x \,$$ is the amount of assistants you own.
 
 ---
 
@@ -153,7 +153,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.
 
-**Formula**: 3.75 * (4.25 * (12 - T)), where T is building tier.
+**Formula**: $$\frac{255}{16} * (12 - x)\,$$ where $$\, x \,$$ is building tier.
 
 ![Earthly Soul](/realm/img/picks/EarthlySoulFactionUpgrade.png "Earthly Soul") **Earthly Soul**
 
@@ -161,7 +161,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Stone Pillars also increase your mana regeneration rate.
 
-**Formula**: x0.25, where x is Stone Pillars.
+**Formula**: $$\frac{x}{4}\,$$ where $$\, x \,$$ is Stone Pillars.
 
 ![Building Jungle](/realm/img/picks/BuildingJungleFactionUpgrade.png "Building Jungle") **Building Jungle**
 
