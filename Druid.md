@@ -48,11 +48,11 @@ Our sorcerers are desperately trying to stabilize the balance of the realm, this
 
 Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.
 
-**Requirements**: 19 Reincarnations, 1000 excavationsElf 3 and Demon 3 challenges completed
+**Requirements**: 19 Reincarnations, 1000 excavations, Elf 3 and Demon 3 challenges completed
 
 **Challenge**: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.
 
-**Effect**: You gain 1.25 additional max mana for every 4 Labyrinths owned.
+**Effect**: You gain 1.5 additional max mana for every 4 Labyrinths owned.
 
 **Upgrade**: Good for Faceless
 

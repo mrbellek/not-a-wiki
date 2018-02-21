@@ -16,11 +16,11 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 &nbsp;
 
-**D1** - **For Angel** - **Research Name**: Blessing 
+**D1** - **For Angel** - **Research Name**: Blessing
 
-**Cost**: 750 Qag (7.50E125) 
+**Cost**: 750 Qag (7.50E125)
 
-**Effect**: Increase the production of Heaven's Domains based on total time spent with at least one active spell. 
+**Effect**: Increase the production of Heaven's Domains based on total time spent with at least one active spell.
 
 **Formula**: round(2.5 * x^0.8)%, where x is total time spent with at least one active spell.
 
@@ -56,7 +56,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase your chance to find Faction Coins based on the amount of Elven Training Grounds you own. 
 
-**Formula**: floor(5 * x^0.85)%, where x is the number of Elven Training Grounds you own.
+**Formula**: floor(1.5 * x^1.05)%, where x is the number of Elven Training Grounds you own.
 
 &nbsp;
 
@@ -92,7 +92,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase chance to find faction coins based on the amount of research made. 
 
-**Formula**: floor(0.05 * x ^ 1.25), where x is the amount of research made.
+**Formula**: floor(x ^ 1.25), where x is the amount of research made.
 
 &nbsp;
 
@@ -326,7 +326,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **D1375** - **For All Factions** - **Research Name**: Sanctification
 
-**Requirement**: 604800s 7 days spent as good (Across all Rs)
+**Requirement**: 604800s (7 days) spent as good (Across all Rs)
 
 **Cost**: 651.9 Qavg (6.519E77)
 

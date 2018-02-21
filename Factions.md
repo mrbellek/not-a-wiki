@@ -172,7 +172,7 @@ Part of the Underworld expansion, Prestige Factions are purchased in "addition t
 
 [![Dwarves](/realm/img/picks/Dwarves.png "Dwarves")](/realm/DwarfFaction)
 
-**Alignement: Good**
+**Alignment: Good**
 
 Enhances the Good Vanilla Faction they are associated with.
 
@@ -184,7 +184,7 @@ Enhances the Good Vanilla Faction they are associated with.
 
 [![Drow](/realm/img/picks/Drow.png "Drow")](/realm/DrowFaction)
 
-**Alignement: Evil**
+**Alignment: Evil**
 
 Enhances the Evil Vanilla Faction they are associated with.
 
@@ -198,7 +198,7 @@ Enhances the Evil Vanilla Faction they are associated with.
 
 [![Dragon](/realm/img/picks/DragonChampionTrophy.png "Dragon")](/realm/DragonFaction)
 
-**Alignement: Neutral**
+**Alignment: Neutral**
 
 Enhances the Neutral Faction they are associated with.
 
@@ -216,7 +216,7 @@ Mercenaries were added in the After-life expansion as an ultimate powerhouse. Se
 
 [![Mercenary](/realm/img/picks/Mercenary.png "Mercenary")](/realm/MercenaryFaction)
 
-**Alignement: Any**
+**Alignment: Any**
 
 Combines the spells and upgrades from all the other factions to create custom cross-faction [mercenary builds](/realm/MercBuilds).
 

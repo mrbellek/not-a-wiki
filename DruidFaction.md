@@ -85,7 +85,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.
 
-**Formula**: $4000*x$%, where$\, x \,$is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
+**Formula**: $$4000 * x$$%, where$$\, x \,$$is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
 
 ![Animal Companions](/realm/img/picks/AnimalCompanionsFactionUpgrade.png "Animal Companions") **Animal Companions**
 
@@ -93,7 +93,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Effect**: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.
 
-**Formula**: $\left\lfloor3+\frac{\sqrt{1+12x}-1}{2}\right\rfloor$ where$\, x \,$is your Playtime (This Game) stat in hours.
+**Formula**: $$\left\lfloor3+\frac{\sqrt{1+12x}-1}{2}\right\rfloor$$ where$$\, x \,$$is your Playtime (This Game) stat in hours.
 
 ![Hours](/realm/img/picks/hours.png "Hours")
 

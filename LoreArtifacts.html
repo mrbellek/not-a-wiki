@@ -4,7 +4,7 @@ layout: default
     <h6><img src="/realm/img/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
     <p><b>Notice</b> Most of the Lore Artifact information comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695"> post</a> by daemonik92
-    <p>There are 44 Lore Artifacts.</p>
+    <p>There are 54 Lore Artifacts.</p>
     <p><b>Note</b>: <b>Getting <u>Lore Artifacts requires</u></b> the <img src="/realm/img/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b>Survey Equipment Upgrade</b></p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
     <p><img src="/realm/img/picks/RoughStone.png" alt="Artifact" align="middle"><b> Rough Stone</b></p>
@@ -260,7 +260,7 @@ layout: default
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
     <h6>Sun Force</h6>
     <p><b>Note</b>: All times are based on <a style="text-decoration: none" class="clock24" id="tz24-1509896147-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
-    <script src="//w.24timezones.com/l.js" async></script>
+    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <p><img src="/realm/img/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
     <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
     <p><b>Formula</b>: floor(ln(1 + x) ^ 1.35).
@@ -272,7 +272,7 @@ layout: default
     <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
     <p><img src="/realm/img/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-    <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+    <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
@@ -288,13 +288,13 @@ layout: default
     <p><b>Chance</b>: 5%
     <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
     <p><b>Note</b>: Only available to Mercenaries
-    <p><b>Formula</b>: 0.065 * x^  0.65 where x is amount of time spent as non-mercenary factions (in seconds).
+    <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).
     <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
     <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game
+    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
@@ -316,8 +316,8 @@ layout: default
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
     <p><b>Requirement</b>: R100+
     <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
-    <p><b>Formula</b>: (x ^ (1 - 0.01 * (y - z / 4) / 36000), where x is seconds this game/since lineage bought, y is lineage level and z is reincarnations.
-    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 if ancient heirloom.
+    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5)) / 10), where x is seconds since buying upgrade (reset when upgrading lineage), y is lineage level and z is reincarnations.
+    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).
     <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
     <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
     <p><b>----------------------------------</b></p>
@@ -325,13 +325,13 @@ layout: default
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Fairy Set.
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Wizard Tower.
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Elven Set.
-    <p><b>Chance</b>: (2 * x ^ 2) / 10000)%, where x is coins per second.
+    <p><b>Chance</b>: (2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
     <p><b>Description</b>: The remains of an Angel fallen to earth.
@@ -343,34 +343,34 @@ layout: default
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Goblin Set.
-    <p><b>Chance</b>: (x - 10000) / 300000)%, where x is Slave Pens.
+    <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Undead Set.
-    <p><b>Chance</b>: (1 / 30 + (x ^ 1.75))%, where x is time this game in seconds.
+    <p><b>Chance</b>: (1 / (30 + x ^ 1.75))%, where x is time this game in seconds.
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/CrystallizedLavaArtifact.png" align="middle"><b> CrystallizedLava</b></p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Demon Set.
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Titan Set.
-    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.
+    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
     <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Druid Set.
-    <p><b>Chance</b>: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.
+    <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.
     <p><b>----------------------------------</b></p>
     <p><img src="/realm/img/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
     <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Faceless Set.
-    <p><b>Chance</b>: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds.
+    <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.

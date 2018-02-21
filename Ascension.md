@@ -44,7 +44,7 @@ Ascend [preview](http://www.kongregate.com/forums/8945-realm-grinder/topics/6076
 
 Values for ascension [upgrades](http://www.kongregate.com/forums/8945-realm-grinder/topics/615701-values-for-ascension-upgrades-assistants-mana-regen-and-no-percent-shown) by [artcrow](http://www.kongregate.com/accounts/artcrow)
 
-**Formula**: ((x / 100 + 1)^0.1^(A – 1)) * 100, where x is original bonus in percentage and A is Ascension count.
+**Formula**: ((x / 100 + 1)^0.1^(A - 1)) * 100, where x is original bonus in percentage and A is Ascension count.
 
 ###### Multiplier reduction
 
@@ -52,6 +52,6 @@ Ascension reduces multipliers for building cost and excavation.
 
 **Formula**: 1 + (M - 1) / 5, where M is old multiplier. 
 
-**----------------------------------**
+---
 
 **Second Ascension**: [(A2 R100+)](/realm/Ascension2)

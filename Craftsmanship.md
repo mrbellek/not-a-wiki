@@ -212,9 +212,9 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Cost**: 6.443 Sxg (6.443E183) 
 
-**Effect**: Increase clicking reward based on the amount of research made. 
+**Effect**: Increase mana regeneration based on the amount of research made. 
 
-**Formula**: round(145 * x^0.38)%, where x is researches made.
+**Formula**: round(3.5 * x^0.35)%, where x is researches made.
 
 &nbsp;
 

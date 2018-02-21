@@ -28,7 +28,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![Temporal Flux](/realm/img/picks/TemporalFlux.png "Temporal Flux")
+![Temporal Flux](/realm/img/picks/TemporalFlux.png "Temporal Flux") **Temporal Flux**
 
 **Cost**: 5000 Mana
 
@@ -36,7 +36,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Also multiplicatively increase Mana Regeneration based on time spent in this game.
 
-**Formula**: (5 * (x/60)^0.7)%, where x is time in seconds this game.
+**Formula**: (5 * (x / 60) ^ 0.7)%, where x is time in seconds this game.
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
-**Requirement**: 2M Mana Regeneration
+**Requirement**: 2M (2e6) Mana Regeneration
 
 **Effect**: Grants access to Unique Building.
 
@@ -68,7 +68,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: (0.08 * x^0.8)%, where x is time in second as good in this R.
+**Formula**: (0.08 * x ^ 0.8)%, where x is time in second as good in this R.
 
 ![Angels Union](/realm/img/picks/AngelsUnion.png "Angels Union") **Angels Union**
 
@@ -78,15 +78,33 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Effect**: Grants access to Union Upgrade.
 
-![Angelix Fortitude](/realm/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
+![Heaven's Brilliance](/realm/img/picks/Heaven'sBrilliance.png "Heaven's Brilliance") **Heaven's Brilliance**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
 **Requirement**: Angels Union
 
-**Effect**: Increase the bonus multiplier for all spells at tier 7 and above based on the amount od Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own.
+**Effect**: Increase the bonus multiplier for all spells at tier 7 and above based on the amount od Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. 
 
-**Formula**: (0.6 * x^0.6), where x is amount of Holy Sites owned.
+**Formula**: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.
+
+![Angelix Fortitude](/realm/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
+
+**Cost**: 1 Spvg (1e85) Emerald Coins
+
+**Requirement**: Angels Union
+
+**Effect**: Increase the production of all buildings based on the sum of all your spells' activity time this R.
+
+**Formula**: (0.035 * x ^ 0.65), where x is seconds in current spells)
+
+![Seraphim Feathers](/realm/img/picks/SeraphimFeathers.png "Seraphim Feathers") **Seraphim Feathers**
+
+**Cost**: 10 Dtg (1e00) Emerald Coins
+
+**Requirement**: Angels Union
+
+**Effect**: Increase mana regeneration by 60%.
 
 &nbsp;
 
@@ -120,7 +138,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: (2 * x^0.6)%, where x is mana regen per second.
+**Formula**: (2 * x ^ 0.6), where x is mana regen per second.
 
 ![Undead Union](/realm/img/picks/UndeadUnion.png "Undead Union") **Undead Union**
 
@@ -138,7 +156,27 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Effect**: Increase assistants based on the amount of Flesh Workshops you own.
 
-**Formula**: 1.2 * x^0.65, where x is amount of Flesh Workshop owned.
+**Formula**: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.
+
+![Zombie Apocalypse](/realm/img/picks/ZombieApocalypse.png "Zombie Apocalypse") **Zombie Apocalypse**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Undead Union
+
+**Effect**: Gain assistants based on the total amount of time spent offline. (This R)
+
+**Formula**: (0.7 * x ^ 0.7), where x is offline time thie R.
+
+![Eternal Servitude](/realm/img/picks/EternalServitude.png "Eternal Servitude") **Eternal Servitude**
+
+**Cost**: 10 Dtg (1e00) Emerald Coins
+
+**Requirement**: Undead Union
+
+**Effect**: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.
+
+**Formula**: (10000 + 25 * (x / 1800) ^ 2), where x is seconds
 
 &nbsp;
 
@@ -152,7 +190,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Effect**: Grants access to Unique Building.
 
-![Mountain Palace](/realm/img/picks/MountainPalaceUniqueBuildingUpgrade.png "Mountain Palace") **Mountain Palace Unique Building Upgrade**
+![Mountain Palace](/realm/img/picks/MountainPalaceUniqueBuildingUpgrade.png "Mountain Palace") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -170,7 +208,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: 0.25 * x^0.75, where x is building owned.
+**Formula**: (0.25 * x ^ 0.75), where x is building owned.
 
 ![Titans Union](/realm/img/picks/TitansUnion.png "Titans Union") **Titans Union**
 
@@ -188,9 +226,29 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Effect**: Increase Royal Exchanges count based on the amount of Mountain Palace you own.
 
-**Formula**: 1.5x^0.5, where x is amount of Mountain Palace owned.
+**Formula**: (1.5 * x ^ 0.5), where x is amount of Mountain Palace owned.
 
-**----------------------------------**
+![Titanic Authority](/realm/img/picks/TitanicAuthority.png "Titanic Authority") **Titanic Authority**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Titan Union
+
+**Effect**: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.
+
+**Formula**: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.
+
+![Colossus Kingdom](/realm/img/picks/ColossusKingdom.png "Colossus Kingdom") **Colossus Kingdom**
+
+**Cost**: 10 Dtg (1e00) Emerald Coins
+
+**Requirement**: Titan Union
+
+**Effect**: Additively gain assistants based on total time spent as Order.
+
+**Formula**: (x ^ 0.7), where x is seconds this R.
+
+---
 
 ![Proof of Chaos](/realm/img/picks/ProofofChaos.png "Proof of Chaos") **Proof of Chaos**
 
@@ -204,7 +262,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![Maelstrom](/realm/img/picks/Maelstrom.png "Maelstrom")
+![Maelstrom](/realm/img/picks/Maelstrom.png "Maelstrom") **Maelstrom**
 
 **Cost**: 3500 Mana
 
@@ -212,13 +270,13 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Formulas**
 
-**Mana** (0.02 * (log10(1+x))^5%, where x is mana produced this game.
+**Mana** (0.02 * (log10(1 + x)) ^ 5), where x is mana produced this game.
 
-**Clicks** (0.075 * (log10(1+x))^2.5)%, where x is clicks this game.
+**Clicks** (0.075 * (log10(1 + x)) ^ 2.5), where x is clicks this game.
 
-**Faction Coins** (0.01 * (log10(1+x))^4)%, where x is faction coins found this game.
+**Faction Coins** (0.01 * (log10(1 + x)) ^ 4), where x is faction coins found this game.
 
-**Assistants**(0.25 * (log10(1+x))^5)%, where x is amount of assistants.
+**Assistants**(0.25 * (log10(1 + x)) ^ 5), where x is amount of assistants.
 
 &nbsp;
 
@@ -232,7 +290,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Grants access to Unique Building.
 
-![Swarming Towers Unique Building Upgrade](/realm/img/picks/SwarmingTowersUniqueBuildingUpgrade.png "Swarming Towers") **Swarming Towers Unique Building Upgrade**
+![Swarming Towers Unique Building Upgrade](/realm/img/picks/SwarmingTowersUniqueBuildingUpgrade.png "Swarming Towers") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -250,7 +308,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: (0.35 * x^2.35)%, where x is active spells.
+**Formula**: (0.35 * x ^ 2.35)%, where x is active spells.
 
 ![Fairies Union](/realm/img/picks/FairiesUnion.png "Fairies Union") **Fairies Union**
 
@@ -268,7 +326,29 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Effect**: Increase maximum mana based on the amount of Swarming Towers you own.
 
-**Formula**: sumofdigits(x) * 100 * x^0.45, where x is amount of Swarming Towers owned.
+**Formula**: (sumOfDigits(x) * 100 * x ^ 0.45, where x is amount of Swarming Towers owned.
+
+&nbsp;
+
+![Pheromones](/realm/img/picks/Pheromones.png ""Pheromones") **Pheromones**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Fairies Union
+
+**Effect**: Gain assistants based on time spent affiliated with Fairies. (All time)
+
+**Formula**: (0.7 * x ^ 0.7), where x is time spent affiliated with Fairies. (All time)
+
+&nbsp;
+
+![Dream Catchers](/realm/img/picks/DreamCatchers.png "Dream Catchers") **Dream Catchers**
+
+**Cost**: 10 Dtg (1e00) Emerald Coins
+
+**Requirement**: Fairies Union
+
+**Effect**: Every 30 minutes, multipicatively increase mana regen by a random amount. (starts at 0% on a new run)
 
 &nbsp;
 
@@ -318,7 +398,27 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Effect**: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.
 
-**Formula**: t^2 * x^0.5, where x is Hall of legends count, T is building tier.
+**Formula**: (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, T is building tier.
+
+![Demonic Fury](/realm/img/picks/DemonicFury.png "Demonic Fury") **Demonic Fury**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Demons Union
+
+**Effect**: Increase production of all buildings based on least time spent between Evil and Chaos this R.
+
+**Formula**: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.
+
+![Devastation](/realm/img/picks/Devastation.png "Devastation") **Devastation**
+
+**Cost**: 10 Dtg (1e00) Emerald Coins
+
+**Requirement**: Demons Union
+
+**Effect**: Increase production of three highest building tiers based on mana regen.
+
+**Formula**:  (0.35 * x ^ 0.65), where x is mana regen.
 
 &nbsp;
 
@@ -368,9 +468,29 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 **Effect**: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time ad resets every 15 minutes.
 
-**Formula**: (Y % 900) / 60 * X ^ 0.4, where x is Forbidden Libraries count, Y is time this game.
+**Formula**: ((Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.
 
-**----------------------------------**
+![Forbidden Language](/realm/img/picks/ForbiddenLanguage.png "Forbidden Language") **Forbidden Language**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Faceless Union
+
+**Effect**: Increase spell durations based on the amount of Reincarnations made.
+
+**Formula**: (x)
+
+![Dimension Door](/realm/img/picks/DimensionDoor.png "Dimension Door") **Dimension Door**
+
+**Cost**: 10 Dtg (1e100) Emerald Coins
+
+**Requirement**: Faceless Union
+
+**Effect**: Increase Unique Building production based on highest max mana this reincarnation.
+
+**Formula**: (0.013 * x ^ 0.7), where x is highest max mana this R.
+
+---
 
 ![Proof of Balance](/realm/img/picks/ProofofBalance.png "Proof of Balance") **Proof of Balance**
 
@@ -384,7 +504,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![All Creation](/realm/img/picks/AllCreation.png "All Creation")
+![All Creation](/realm/img/picks/AllCreation.png "All Creation") **All Creation**
 
 **Cost**: 6000 Mana
 
@@ -392,7 +512,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.
 
-**Formula**: floor(0.2 * x^0.6), where x is mana per seconds.
+**Formula**: floor(0.2 * x ^ 0.6), where x is mana per seconds.
 
 &nbsp;
 
@@ -406,7 +526,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Grants access to Unique Building.
 
-![Arboreal City Unique Building Upgrade](/realm/img/picks/ArborealCityUniqueBuildingUpgrade.png "Arboreal City") **Arboreal City Unique Building Upgrade**
+![Arboreal City Unique Building Upgrade](/realm/img/picks/ArborealCityUniqueBuildingUpgrade.png "Arboreal City") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -424,7 +544,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: floor20 * (log10(1+x))^2), where x is FC chance.
+**Formula**: floor(20 * (log10(1 + x)) ^ 2), where x is FC chance.
 
 ![Elven Union](/realm/img/picks/ElvenUnion.png "Elven Union") **Elven Union**
 
@@ -442,11 +562,33 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Effect**: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.
 
-**Elven Luck Formula**: X ^ 0.3, where x is Arboreal Cities count.
+**Elven Luck Formula**: (x ^ 0.3), where x is Arboreal Cities count.
 
-**Production Formula**: (6 * x^0.6), where x is Arboreal Cities count.
+**Production Formula**: (7 * x^0.7), where x is Arboreal Cities count.
 
-**Faction Coin Formula**: (x^0.7), where x is Arboreal Cities count.
+**Faction Coin Formula**: (1.5 * x ^ 0.7), where x is Arboreal Cities count.
+
+![Camouflage](/realm/img/picks/Camouflage.png "Camouflage") **Camouflage**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Elven Union
+
+**Effect**: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.
+
+**Formula**: (0.68 * x ^ 0.68)
+
+**Note**: Applies to formulas that use Assistant count, but not actual assistants.
+
+![Elven Discipline](/realm/img/picks/ElvenDiscipline.png "Elven Discipline") **Elven Discipline**
+
+**Cost**: 10 Dtg (1e100) Emerald Coins
+
+**Requirement**: Elven Union
+
+**Effect**: Increase mana regeneration based on the amount of Faction Coins found in this game.
+
+**Formula**: (ln(x))
 
 &nbsp;
 
@@ -460,7 +602,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Effect**: Grants access to Unique Building.
 
-![Slave Market Unique Building Upgrade](/realm/img/picks/SlaveMarketUniqueBuildingUpgrade.png "Slave Market") **Slave Market Unique Building Upgrade**
+![Slave Market Unique Building Upgrade](/realm/img/picks/SlaveMarketUniqueBuildingUpgrade.png "Slave Market") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -478,7 +620,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Effect**: Also grants access to Faction Union.
 
-**Formula**: floor(0.25 * x^0.75)%, where x is amount of assistants.
+**Formula**: floor(0.25 * x ^ 0.75)%, where x is amount of assistants.
 
 ![Goblins Union](/realm/img/picks/GoblinsUnion.png "Goblins Union") **Goblins Union**
 
@@ -498,6 +640,27 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Elven Luck Formula**: X ^ 0.5, where x is Slave Market count.
 
+**Formula**: X ^ 0.5, where x is Slave Market you own.
+
+![Money is Magic](/realm/img/picks/MoneyisMagic.png "Money is Magic") **Money is Magic**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Goblins Union
+
+**Effect**: Increase mana regeneration based on the amount of Tax Collections cast in this game.
+
+**Formula**: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.
+
+![Lousy Architecture](/realm/img/picks/LousyArchitecture.png "Lousy Architecture") **Lousy Architecture**
+**Cost**: 10 Dtg (1e100) Emerald Coins
+
+**Requirement**: Goblins Union
+
+**Effect**: Reduce Non-Unique buildings cost multiplier.
+
+**Formula**: (-0.02)
+
 &nbsp;
 
 **Neutral**
@@ -510,7 +673,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Effect**: Grants access to Unique Building.
 
-![Ziggurat Unique Building Upgrade](/realm/img/picks/ZigguratUniqueBuildingUpgrade.png "Ziggurat") **Ziggurat Unique Building Upgrade**
+![Ziggurat Unique Building Upgrade](/realm/img/picks/ZigguratUniqueBuildingUpgrade.png "Ziggurat") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -548,3 +711,24 @@ Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineag
 
 **Formula**: 1.5x^0.5, where x is Ziggurats count.
 
+<b>Formula</b>: (1.5 * x ^ 0.5), where x is Ziggurats count.</p>
+
+![Lunar Cycle](/realm/img/picks/LunarCycle.png "Lunar Cycle") **Lunar Cycle**
+
+**Cost**: 10 Spvg (1e85) Emerald Coins
+
+**Requirement**: Druids Union
+
+**Effect**: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.
+
+**Formula**: ((x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is online time in seconds and y is offline time in seconds.
+
+![Grove Farming](/realm/img/picks/GroveFarming.png "Grove Farming") **Grove Farming**
+
+**Cost**: 10 Dtg (1e100) Emerald Coins
+
+**Requirement**: Druids Union
+
+**Effect**: Increase the production of all buildings based on their tier. Lower tiers get better bonuses.
+
+**Formula**: (10 * (11 - T) ^ 3), where T is building tier.

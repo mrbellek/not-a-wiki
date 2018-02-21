@@ -46,7 +46,7 @@ layout: default
 
 &nbsp;
 
-**S400** - **For**: All Factions - Spell Name Capacity 
+**S400** - **For**: All Factions - **Research Name**: Capacity 
 
 **Requirement**: Research Projection (S215) &amp; Domination (W275) 
 
@@ -90,9 +90,21 @@ layout: default
 
 **Cost**: 12.63 Dqag (1.263E130) 
 
-**Effect**: Increase mana regeneration based on the amount of spells cast. 
+**Effect**: Increase mana regeneration based on the amount of research made. 
 
 **Formula**: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat.
+
+&nbsp;
+
+**C330** - **For**: All Factions - **Research Name**: Overload 
+
+**Requirement**: Research Aeromancy (S250) Critical Strike (W225)  
+
+**Cost**: 36.443 Sxg (6.443E183)  
+
+**Effect**: Increase mana regeneration based on the amount of research made.
+
+**Formula**: (3.5 *  x  ^0.35), where x is researches made.
 
 &nbsp;
 
@@ -272,7 +284,7 @@ Cost: 25.2 Spvg (2.52e85)
 
 **Effect**: Increase maximum mana based on the number of trophies you have unlocked. 
 
-**Formula**: floor(1.25x), where x is the amount of trophies unlocked.
+**Formula**: 1.3 * x ^ 1.1, where x is the amount of trophies unlocked.
 
 &nbsp;
 

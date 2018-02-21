@@ -44,6 +44,10 @@ Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in 
 
 **Formula**: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
 
+**Effect**: Multiplies Faction Coin find chance based on clicks made.
+
+**Formula**: floor(log( 1 + x) * 10)
+
 ---
 
 ![Angel](/realm/img/picks/AngelBloodline.png "Angel") **Angel**

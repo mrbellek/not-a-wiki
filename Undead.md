@@ -16,7 +16,7 @@ The walking dead aren't very fond of a living being among their kind. Fortunatel
 
 **Note**: This takes 11 hours, 6 minutes, 40 seconds.
 
-**Effect**: Undead Heritage works 400% faster.
+**Effect**: Undead Heritage works 1000% faster.
 
 **Upgrade**: Good for Undead
 

@@ -50,7 +50,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **W50** - **For Undead** - **Research Name**: Exertion 
 
-**Requirement**: 2 days of Evil Play Time, Note: Play as any Evil faction, but you must be Demon to unlock this. 
+**Requirement**: 2 days of Evil Play Time this R, Note: Play as any Evil faction, but you must be Demon to unlock this. 
 
 **Cost**: 318.8 Tqag (3.188E134) 
 
@@ -80,7 +80,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Increase maximum mana based on the number of trophies you have unlocked. 
 
-**Formula**: floor(1.25x), where x is the amount of trophies unlocked.
+**Formula**: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked.
 
 &nbsp;
 
@@ -104,7 +104,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: You gain additional assistants based on total amount of evil spells cast. 
 
-**Formula**: floor(0.75 * x ^ 0.6), where x is the amount of evil spells cast.
+**Formula**: floor(0.75 * x ^ 0.75), where x is the amount of evil spells cast.
 
 &nbsp;
 
@@ -182,7 +182,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **Effect**: Also a 50% multiplicative Faction Coin find chance.
 
-**Formula**: floor(125 * x&^0.75), where x is your Assistants (Max) stat.
+**Formula**: floor(125 * x ^0.75), where x is your Assistants (Max) stat.
 
 &nbsp;
 
@@ -316,7 +316,7 @@ Pointing to this ingame will tell you how many slots are available also tells yo
 
 **W1375** - **For All Factions** - **Research Name**: Scavenging
 
-**Requirement**: 604800s  7 days spent as evil (Across all Rs)
+**Requirement**: 604800s (7 days) spent as evil (Across all Rs)
 
 **Cost**: 651.9 Qavg (6.519E77)
 

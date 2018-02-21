@@ -6,7 +6,7 @@ layout: default
 
 **Mana Trophies**
 
-**Note**: All Mana Trophies are (in a single game)
+**Note**: All Mana Trophies are total
 
 ![](/realm/img/picks/ManaDropletTrophy.png "Mana Droplet") **Mana Droplet**
 

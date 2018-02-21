@@ -58,7 +58,7 @@ All Vanilla Factions are enabled by default
 
 **Effect**: Dark Temples also increase your mana production rate.
 
-**Formula**: x^0.275, where x is the number of Dark Temples you own.
+**Formula**: x^0.28, where x is the number of Dark Temples you own.
 
 ---
 
@@ -76,7 +76,7 @@ All Vanilla Factions are enabled by default
 
 **Effect**: Increase offline production based on your total time spent being offline.
 
-**Formula**: round((20 * x)^0.7)%, where x is your Time Spent Offline (Total) stat in hours.
+**Formula**: round((20 * x) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in hours.
 
 ![](/realm/img/picks/CorpseSupplyFactionUpgrade.png "Smiley face") **Corpse Supply**
 
@@ -84,7 +84,7 @@ All Vanilla Factions are enabled by default
 
 **Effect**: You gain additional assistants based on the amount of Necropolises you own.
 
-**Formula**: floor(sqrt(3 * x+1)-1), where x is the number of Necropolis you own.
+**Formula**: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.
 
 ![](/realm/img/picks/PlaguedBuildingsFactionUpgrade.png "Smiley face") **Plagued Buildings**
 

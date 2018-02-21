@@ -30,7 +30,7 @@ layout: default
 
 **Tier 4**: Warrior Barracks : **Base Production** : 65 coins
 
-**Tier 5**: Knights Joust : **Base Production** : 200 coins
+**Tier 5**: Knight's Joust : **Base Production** : 200 coins
 
 **Tier 6**: Wizard Tower : **Base Production** : 650 coins
 
