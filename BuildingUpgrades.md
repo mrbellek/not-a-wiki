@@ -1,13 +1,18 @@
 ---
 layout: default
 ---
-<h6><img src="/realm/img/picks/UpgradesTopPage.png"></h6>
-<p><b>A complete list of building upgrades</p></b>
-<!--<a target="_blank" href="/realm/BuildingUpgrades/textversion.php"><b>Text Version</b></a>-->
-<p>In order from <b>Neutral</b> to <b>Good</b> to <b>Evil</b> with <b>Halls of Legends</b> at the bottom.</p>
-<p>Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
-<p><b>Farm Upgrades (Alignment: Any)</p</b>
-<p><img src="/realm/img/picks/fgroup1.png" usemap="#fgroup1-map">
+
+###### ![](/realm/img/picks/UpgradesTopPage.png)
+
+**A complete list of building upgrades**
+
+In order from **Neutral** to **Good** to **Evil** with **Halls of Legends** at the bottom.
+
+Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
+
+**Farm Upgrades (Alignment: Any)**
+
+<img src="/realm/img/picks/fgroup1.png" usemap="#fgroup1-map">
 <map name="fgroup1-map">
     <area target="" research="Upgrade 1: Crop Rotation<p>Requirement: 5 Farms<p> Cost Pre Ascension: 200<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 100%.<p>Post Ascencion: Increase Farm production by 7.18%.<p>Adds 1 Assistant" coords="5,3,50,51" shape="rect">
     <area target="" research="Upgrade 2: Irrigation<p>Requirement: 25 Farms<p>Cost Pre Ascension: 6,580<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 200%.<p>Post Ascencion: Increase Farm production by 11.6%.<p>Adds 1 Assistant" coords="58,3,103,51" shape="rect">
@@ -33,9 +38,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Lunar Photosynthesis<p>Requirement: 10K Farms<p>Cost: 518.4 Dqag (5.148e131)<p>Increase Farm by 80%" coords="56,111,105,162" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Fairies' Farm building can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests, Boosting their production by 750% per assistant you own and unlocking more unique perks for the building.<p>Requirements: 2250 Farms, Research, Play as Good and Fairy, R16+.<p>Formula: 50 * (750 * x)^0.7, where x is your Assistants stat." coords="354,113,536,158" shape="rect">
 </map>
-</br>
-<p><b>Inn Upgrades (Alignment: Any)</p</b>
-<p><img src="/realm/img/picks/igroup1.png" usemap="#igroup1-map">
+
+**Inn Upgrades (Alignment: Any)**
+
+<img src="/realm/img/picks/igroup1.png" usemap="#igroup1-map">
 <map name="igroup1-map">
     <area target="" research="Upgrade 1: Top Quality Beer<p>Requirement: 5 Inns<p>Cost Pre Ascension: 2,510<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 100%.<p>Post Ascension: Increase Inn production by 17.8%.<p>Adds 1 Assistant" coords="5,4,51,51" shape="rect">
     <area target="" research="Upgrade 2: Cockroach Disinfestation<p>Requirement: 25 Inns<p>Cost Pre Ascension: 82,300<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 200%.<p>Post Ascension: Increase Inn production by 11.6%.<p>Adds 1 Assistant" coords="56,4,105,51" shape="rect">
@@ -60,9 +66,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 21: Ogre Brewery<p>Requirement: 4000 Inns<p>Cost: 4.689Qid (4.689e54)<p>Increase Inn production by 70%." coords="3,111,50,160" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Otherworldly Spirits<p>Requirement: 10K Inns<p>Cost: 6.48 Tqag (6.48e132)<p>Increase Inn by 80%" coords="54,109,105,161" shape="rect">
 </map>
-</br>
-<p><b>Blacksmith Upgrades (Alignment: Any)</p</b>
-<p><img src="/realm/img/picks/bgroup1.png" usemap="#bgroup1-map">
+
+**Blacksmith Upgrades (Alignment: Any)**
+
+<img src="/realm/img/picks/bgroup1.png" usemap="#bgroup1-map">
 <map name="bgroup1-map">
     <area target="" research="Upgrade 1: Heavy Hammer<p>Requirement: 5 Blacksmiths<p>Cost Pre Ascension: 12,070<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Blacksmith production by 100%.<p>Post Ascension: Increase Blacksmith production by 7.18%.<p>Adds 1 Assistant" coords="2,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Stone Molds<p>Requirement: 25 Blacksmiths<p>Cost Pre Ascension: 395,020<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Blacksmith production by 200%.<p>Post Ascension: Increase Blacksmith production by 11.6%.<p>Adds 1 Assistant" coords="58,3,105,51" shape="rect">
@@ -88,8 +95,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Layered Metals<p>Requirement: 10K Blacksmiths<p>Cost: 31.1 Tqag (3.11e133)<p>Increase Blacksmith by 80%" coords="56,110,105,162" shape="rect">
     <area target="" research="Unique Building<p>At R28, The Dwarven Blacksmiths building can be upgraded to a Unique Building: Dwarven Forges, which is required for some challenges and research quests.Boosting their production based on mana regen and unlocking more unique perks for the building.<p>Requirements: 5000 Blacksmiths, Research, Play as Good and Dwarf, R28+<p>Formula: 100 * x^0.9%, where x is your Mana per Second stat. " coords="351,111,536,159" shape="rect">
 </map>
-<p><b>Deep Mine Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/dgroup1.png" usemap="#dgroup1-map">
+
+**Deep Mine Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/dgroup1.png" usemap="#dgroup1-map">
 <map name="dgroup1-map">
     <area target="" research="Upgrade 1: Reinforced Beams<p>Requirement: 5 Deep Mines<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Lifesaving Canary<p>Requirement: 25 Deep Mines<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,52" shape="rect">
@@ -115,8 +124,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Beard Preserving Mask<p>Requirement: 10K Deep Mines<p>Cost: 93.31 Tqag (9.331e133)<p>Increase Deep Mine by 50%" coords="56,110,107,162" shape="rect">
     <area target="" research="Unique Building<p>At R100, Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building. <p>Requirement: R100+, Neutral, Proof of Order, Mountain Palace Quest <p>Effect: Increase production based on buildings owned. <p>Effect: Also grants access to Faction Union. <p>Formula: 0.25 * x ^ 0.75, where x is building owned." coords="351,112,540,161" shape="rect">
 </map>
-<p><b>Stone Pillars Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/sgroup1.png" usemap="#sgroup1-map">
+
+**Stone Pillars Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/sgroup1.png" usemap="#sgroup1-map">
 <map name="sgroup1-map">
     <area target="" research="Upgrade 1: Rune of Saving<p>Requirement: 5 Stone Pillars<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="3,3,50,52" shape="rect">
     <area target="" research="Upgrade 2: Rune of Earning<p>Requirement: 25 Stone Pillars<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,51" shape="rect">
@@ -142,8 +153,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Token of Earning<p>Requirement: 10K Stone Pillars<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Stone Pillar by 50%" coords="56,111,105,162" shape="rect">
     <area target="" research="Unique Building<p>At R22, The Druid's Stone Pillars building can be upgraded to a Unique Building: Stonehenge Circles, which is required for some challenges and research quests,Boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building. <p>Requirements: 2000 Stone Pillars, Research, Play as Neutral and Druid, R22+<p><b>Note</b>: The bonus is not a multiple of 30; this may be due to max. mana appearing as a floating point number instead of an integer." coords="351,111,536,159" shape="rect">
 </map>
-<p><b>Alchemist Lab Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/agroup1.png" usemap="#agroup1-map">
+
+**Alchemist Lab Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/agroup1.png" usemap="#agroup1-map">
 <map name="agroup1-map">
     <area target="" research="Upgrade 1: Copper Transmutation<p>Requirement: 5 Alchemist Labs<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,51" shape="rect">
     <area target="" research="Upgrade 2: Bronze Transmutation<p>Requirement: 25 Alchemist Labs<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="56,3,103,51" shape="rect">
@@ -169,8 +182,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Demirock Transmutation<p>Requirement: 10K Alchemist Labs<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Alchemist Lab by 50%" coords="54,109,107,162" shape="rect">
     <area target="" research="Unique Building<p>At R75, The Mercenaries Alchemist Lab can be upgraded to a Unique Building: Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.<p>Requirement: R75, Neutral Mercenary, Mercenary Encampment Quest<p>Formula: 2 * x ^ 0.95, where x is highest amount of assistants you had in a single game (This R)." coords="347,111,540,162" shape="rect">
 </map>
-<p><b>Monastery Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/mgroup1.png" usemap="#mgroup1-map">
+
+**Monastery Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/mgroup1.png" usemap="#mgroup1-map">
 <map name="mgroup1-map">
     <area target="" research="Upgrade 1: Scheduled Orations<p>Requirement: 5 Monasteries<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Monasteries production by 100%.<p>Post Ascension: Increase Monasteries production by 7.18%.<p>Adds 1 Assistant" coords="5,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Unshakable Faith<p>Requirement: 25 Monasteries<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Monasteries production by 100%.<p>Post Ascension: Increase Monasteries production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,52" shape="rect">
@@ -196,8 +211,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Absolute Meditation<p>Requirement: 10K Monastery<p>Cost: 22.91 Qaqag (2.291e136)<p>Increase Monastery by 50%" coords="54,110,107,162" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building. <p>Requirements: R100+, Neutral, Proof of Chaos, Forbidden Library Quest <p>Effect: Increase production based on spells cast. <p>Effect: Also grants access to Faction Union. <p>Formula: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast." coords="350,110,539,161" shape="rect">
     </map>
-<p><b>Labyrinth Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/lgroup1.png" usemap="#lgroup1-map">
+
+**Labyrinth Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/lgroup1.png" usemap="#lgroup1-map">
 <map name="lgroup1-map">
     <area target="" research="Upgrade 1: Fake Exits<p>Requirement: 5 Labyrinths<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Labyrinths production by 100%.<p>Post Ascension: Increase Labyrinths production by 7.18%.<p>Adds 1 Assistant" coords="5,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Roaming Beasts<p>Requirement: 25 Labyrinths<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Labyrinths production by 100%.<p>Post Ascension: Increase Labyrinths production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,52" shape="rect">
@@ -223,8 +240,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Poisonous Fog<p>Requirement: 10K Labyrinth<p>Cost: 378.4 Qaqag (3.784e137)<p>Increase Labyrinth by 50%" coords="56,110,107,161" shape="rect">
     <area target="" research="Unique Building<p>At R22, The Faceless' Labyrinths building can be upgraded to a Unique Building: Sunken Cities, which is required for some challenges and research quests, Boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.<p>Requirement: 2000 Labyrinths, Research, Play as Neutral and Faceless, R22+<p>Formula: 75 * x^0.9%, where x is your Playtime (Longest Session) stat." coords="351,112,536,159" shape="rect">
 </map>
-<p><b>Iron Stronghold Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/isgroup1.png" usemap="#isgroup1-map">
+
+**Iron Stronghold Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/isgroup1.png" usemap="#isgroup1-map">
 <map name="isgroup1-map">
     <area target="" research="Upgrade 1: Higher Walls<p>Requirement: 5 Iron Strongholds<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Iron Strongholds production by 100%.<p>Post Ascension Increase Iron Strongholds production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Crenellations<p>Requirement: 25 Iron Strongholds<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Iron Strongholds production by 100%.<p>Post Ascension Increase Iron Strongholds production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,52" shape="rect">
@@ -250,8 +269,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Humongous Bridges<p>Requirement: 10K Iron Strongholds<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Iron Stronghold by 50%" coords="54,110,105,161" shape="rect">
     <area target="" research="Unique Building<p>At R46, The Dragons' Iron Stronghold building can be upgraded to a Unique Building: Wyrm's Den, which is required for some challenges and research quests. Boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.<p>Requirements: Play as Neutral and Dragon, R46+, Research, 3572 Iron Strongholds<p>Formula: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)" coords="352,113,538,159" shape="rect">
 </map>
-<p><b>Ancient Pyramid Upgrades (Alignment: Neutral)</p</b>
-<p><img src="/realm/img/picks/apgroup1.png" usemap="#apgroup1-map">
+
+**Ancient Pyramid Upgrades (Alignment: Neutral)**
+
+<img src="/realm/img/picks/apgroup1.png" usemap="#apgroup1-map">
 <map name="apgroup1-map">
     <area target="" research="Upgrade 1: Golden Sarcophagi<p>Requirement: 5 Ancient Pyramids<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Ancient Pyramids production by 100%.<p>Post Ascension: Increase Ancient Pyramids production by 7.18%.<p>Adds 1 Assistant" coords="2,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Wandering Mummies<p>Requirement: 25 Ancient Pyramids<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Ancient Pyramids production by 100%.<p>Post Ascension: Increase Ancient Pyramids production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,52" shape="rect">
@@ -277,8 +298,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Sun Chariot<p>Requirement: 10K Ancient Pyramids<p>Cost: 165.9 Qiqag(1.659e140)<p>Increase Ancient Pyramid by 50%" coords="54,110,105,160" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building. <p>Requirements: R100+, Neutral, Proof of Balance, Ziggurat Quest <p>Effect: Increase production based on based on total lineage levels. <p>Effect: Also grants access to Faction Union. <p>Formula: floor(x^1.1)%, where x is total number of lineage levels" coords="349,110,540,163" shape="rect">
 </map>
-<p><b>Warrior Barracks Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/wbgroup1.png" usemap="#wbgroup1-map">
+
+**Warrior Barracks Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/wbgroup1.png" usemap="#wbgroup1-map">
 <map name="wbgroup1-map">
     <area target="" research="Upgrade 1: Bronze Weapons<p>Requirement: 5 Warrior Barracks<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,52" shape="rect">
     <area target="" research="Upgrade 2: Iron Weapons<p>Requirement: 25 Warrior Barracks<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,51" shape="rect">
@@ -304,8 +327,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Obsidium Weapons<p>Requirement: 10K Warrior Barracks<p>Cost: 93.31 Tqag (9.331e133)<p>Increase Warrior Barrack by 50%" coords="54,110,105,161" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Elves' Warrior Barracks building can be upgraded to a Unique Building: Elven Training Grounds, which is required for some challenges and research quests. Boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.<p>Requirements: 1750 Barracks, Good, Research, Play as Good and Elf, R16+<p>Formula: ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your clicks (Total) stat." coords="352,112,538,159" shape="rect">
 </map>
-<p><b>Knights Joust Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/kjgroup1.png" usemap="#kjgroup1-map">
+
+**Knights Joust Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/kjgroup1.png" usemap="#kjgroup1-map">
 <map name="kjgroup1-map">
     <area target="" research="Upgrade 1: Pointy Lances<p>Requirement: 5 Knights Jousts<p>Cost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="5,4,52,51" shape="rect">
     <area target="" research="Upgrade 2: Stallion Horses<p>Requirement: 25 Knights Jousts<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
@@ -331,8 +356,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Giant Banners<p>Requirement: 10K Knights Joust<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Knights Joust by 50%" coords="54,110,105,160" shape="rect">
     <area target="" research="Unique Building<p>At R75, The Mercenaries Knights Joust can be upgraded to a Unique Building: Mercenary Camp, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.<p>Requirement: R75, Good Mercenary, Mercenary Encampment Quest<p>Formula: 1.5 * (1 + x) where X is number of Non-Unique Buildings" coords="348,109,539,162" shape="0">
 </map>
-<p><b>Wizard Tower Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
+
+**Wizard Tower Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
 <map name="wizardtowergroup1-map">
     <area target="" research="Upgrade 1: Arcane Circle<p>Requirement: 5 Wizard Towers<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Wizard Towers production by 100%.<p>Post Ascension: Increase Wizard Towers production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Magic Channeling<p>Requirement: 25 Wizard Towers<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Wizard Towers production by 100%.<p>Post Ascension: Increase Wizard Towers production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,51" shape="rect">
@@ -358,8 +385,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Enchanted Wands<p>Requirement: 10K Wizard Towers<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Wizard Tower by 50%" coords="56,111,107,162" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building. <p>Requirement: R100+, Good, Proof of Chaos, Swarming Towers Quest <p>Effect: Increase production based on the amount of active spells. <p>Effect: Also grants access to Faction Union. <p>Formula: 0.35 * x ^ 2.35%, where x is active spells." coords="351,112,538,160" shape="rect">
 </map>
-<p><b>Cathedral Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/cathedralgroup1.png" usemap="#cathedralgroup1-map">
+
+**Cathedral Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/cathedralgroup1.png" usemap="#cathedralgroup1-map">
 <map name="cathedralgroup1-map">
     <area target="" research="Upgrade 1: Golden Cross<p>Requirement: 5 Cathedrals<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Cathedral production by 100%.<p>Post Ascension: Increase Cathedrals production by 7.18%.<p>Adds 1 Assistant" coords="2,1,51,52" shape="rect">
     <area target="" research="Upgrade 2: Mausoleum<p>Requirement: 25 Cathedrals<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Cathedral production by 100%.<p>Post Ascension: Increase Cathedrals production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,52" shape="rect">
@@ -385,8 +414,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Council Of Saints<p>Requirement: 10K Cathedrals<p>Cost: 22.91 Qaqag (2.291e136)<p>Increase Cathedral production by 50%" coords="56,111,107,160" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building. <p>Requirements: R100+, Good, Proof of Order, Holy Site Quest <p>Effect: Increase production based on time spent as good. <p>Effect: Also grants access to Faction Union. <p>Formula: 0.08 * x ^ 0.8, where x is time in second as good in this R." coords="351,109,540,162" shape="rect">
 </map>
-<p><b>Citadel Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/citadelgroup1.png" usemap="#citadelgroup1-map">
+
+**Citadel Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/citadelgroup1.png" usemap="#citadelgroup1-map">
 <map name="citadelgroup1-map">
     <area target="" research="Upgrade 1: Guard Training<p>Requirement: 5 Citadels<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Citadels production by 100%.<p>Post Ascension: Increase Citadels production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Lookouts<p>Requirement: 25 Citadels<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Citadels production by 100%.<p>Post Ascension: Increase Citadels production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,51" shape="rect">
@@ -412,8 +443,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Contingency Plans<p>Requirement: 10K Citadels<p>Cost: 378.4 Qaqag (3.784e137)<p>Increase Citadel production by 50%" coords="54,110,105,160" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building. <p>Requirements: R100+, Good, Proof of Balance, Arboreal City Quest <p>Effect: Increase production production based on Faction Coin find chance. <p>Effect: Also grants access to Faction Union. <p>Formula: floor20*(log10(1+x))^2), where x is FC chance." coords="350,109,539,162" shape="rect">
 </map>
-<p><b>Royal Castle Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/royalcastlegroup1.png" usemap="#royalcastlegroup1-map">
+
+**Royal Castle Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/royalcastlegroup1.png" usemap="#royalcastlegroup1-map">
 <map name="royalcastlegroup1-map">
     <area target="" research="Upgrade 1: Reinforced Walls<p>Requirement: 5 Royal Castles<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="3,4,51,52" shape="rect">
     <area target="" research="Upgrade 2: Court Jesters<p>Requirement: 25 Royal Castles<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
@@ -438,8 +471,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 21: Dance Hall<p>Requirement: 4000 Royal Castles<p>Cost: 68Nod (6.8e61)<p>Increase Royal Castles production by 50%." coords="2,111,51,159" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Mirror Hallway<p>Requirement: 10K Royal Castles<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Royal Castle production by 50%" coords="54,109,107,160" shape="rect">
 </map>
-<p><b>Heaven's Gate Upgrades (Alignment: Good)</p</b>
-<p><img src="/realm/img/picks/heavensgategroup1.png" usemap="#heavensgategroup1-map">
+
+**Heaven's Gate Upgrades (Alignment: Good)**
+
+<img src="/realm/img/picks/heavensgategroup1.png" usemap="#heavensgategroup1-map">
 <map name="heavensgategroup1-map">
     <area target="" research="Upgrade 1: Golden Key<p>Requirement: 5 Heaven's Gates<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Heaven's Gates production by 100%.<p>Post Ascension: Increase Heaven's Gates production by 7.18%.<p>Adds 1 Assistant" coords="7,4,51,50" shape="rect">
     <area target="" research="Upgrade 2: Flying Clouds<p>Requirement: 25 Heaven's Gates<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Heaven's Gates production by 100%.<p>Post Ascension: Increase Heaven's Gates production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,50" shape="rect">
@@ -465,8 +500,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Allowed Fruit<p>Requirement: 10K Heaven's Gates<p>Cost: 165.9 Qiqag(1.659e140)<p>Increase Heaven's Gate production by 50%" coords="54,110,107,160" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Angels' building Heaven Gates can be upgraded to a Unique Building: Heaven Domain, which is required for some challenges and research quests.Boosting their production by x250 per spell affecting them and unlocking more unique perks for the building.<p>Requirements: 1500 Heaven's Gates, Research, Play as Good and Angel, R16+" coords="348,111,536,160" shape="rect">
 </map>
-<p><b>Slave Pen Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/slavepengroup1.png" usemap="#slavepengroup1-map">
+
+**Slave Pen Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/slavepengroup1.png" usemap="#slavepengroup1-map">
 <map name="slavepengroup1-map">
     <area target="" research="Upgrade 1: Smaller Cells<p>Requirement: 5 Slave Pens<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="2,4,51,54" shape="rect">
     <area target="" research="Upgrade 2: Punishment Whips<p>Requirement: 25 Slave Pens<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="54,3,105,53" shape="rect">
@@ -492,8 +529,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Sensory Deprivation<p>Requirement: 10K Slave Pens<p>Cost: 93.31 (9.331e133)<p>Increase Slave Pen production by 50%" coords="54,110,107,163" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building. <p>Requirements: R100+, Evil, Proof of Balance, Slave Market Quest <p>Effect: Increase production based on assistants. <p>Effect: Also grants access to Faction Union. <p>Formula: floor(0.25*x^0.75)%, where x is amount of assistants." coords="349,110,540,161" shape="rect">
 </map>
-<p><b>Orcish Arena Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/orcisharenagroup1.png" usemap="#orcisharenagroup1-map">
+
+**Orcish Arena Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/orcisharenagroup1.png" usemap="#orcisharenagroup1-map">
 <map name="orcisharenagroup1-map">
     <area target="" research="Upgrade 1: Unfair Judge<p><p>Requirement: 5 Orcish ArenasCost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,54" shape="rect">
     <area target="" research="Upgrade 2: Rule Abolition<p>Requirement: 25 Orcish Arenas<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="56,4,105,52" shape="rect">
@@ -519,8 +558,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Dramatic Twist<p>Requirement: 10K Orcish Arenas<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Orcish Arena production by 50%" coords="54,111,107,162" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building. <p>Requirement: R100+, Evil, Proof of Order, Flesh Workshop Quest <p>Effect: Increase production based on mana regen. <p>Effect: Also grants access to Faction Union. <p>Formula: 2 * x ^ 0.6, where x is mana regen per second." coords="349,111,538,161" shape="rect">
 </map>
-<p><b>Witch Conclave Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/witchconclavegroup1.png" usemap="#witchconclavegroup1-map">
+
+**Witch Conclave Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/witchconclavegroup1.png" usemap="#witchconclavegroup1-map">
 <map name="witchconclavegroup1-map">
     <area target="" research="Upgrade 1: Witch Sabbath<p>Requirement: 5 Witch Conclaves<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Witch Conclaves production by 100%.<p>Post Ascension: Increase Witch Conclaves production by 7.18%.<p>Adds 1 Assistant" coords="1,2,52,52" shape="rect">
     <area target="" research="Upgrade 2: Black Magic<p>Requirement: 25 Witch Conclaves<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Witch Conclaves production by 100%.<p>Post Ascension: Increase Witch Conclaves production by 7.18%.<p>Adds 1 Assistant" coords="54,2,105,53" shape="rect">
@@ -546,8 +587,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Black Cats<p>Requirement: 10K Witch Conclaves<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Witch Conclave production by 50%" coords="56,110,107,162" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests. Boosting their production based on the amount of gold you own and unlocking more unique perks for the building.<p>Requirement: 1750 Witch Conclaves, Research, Play as Evil and Goblin, R16+<p>Formula: 650 + 10000 * log^1.5(1 + x), where x is your current amount of Coins. " coords="351,112,538,162" shape="rect">
 </map>
-<p><b>Dark Temple Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/darktemplesgroup1.png" usemap="#darktemplesgroup1-map">
+
+**Dark Temple Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/darktemplesgroup1.png" usemap="#darktemplesgroup1-map">
 <map name="darktemplesgroup1-map">
     <area target="" research="Upgrade 1: Sacrificial Altar<p>Requirement: 5 Dark Temples<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Dark Temples production by 100%.<p>Post Ascension: Increase Dark Temples production by 7.18%.<p>Adds 1 Assistant" coords="2,4,51,54" shape="rect">
     <area target="" research="Upgrade 2: Dark Rituals<p>Requirement: 25 Dark Temples<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Dark Temples production by 100%.<p>Post Ascension: Increase Dark Temples production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,53" shape="rect">
@@ -573,8 +616,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Silky Death<p>Requirement: 10K Dark Temples<p>Cost: 22.91 Qaqag (2.291e136)<p>Increase Dark Temple production by 50%" coords="56,110,107,162" shape="rect">
     <area target="" research="Unique Building<p>At R29, The Drow's Dark temples building can be upgraded to a Unique Building: Spider Sanctuary, which is required for some challenges and research quests. Boosting their production based on time spent offline and unlocking more unique perks for the building.<p>Requirements: 3333 Dark Temples, Research, Play as Evil and Drow, R29+, Earth Core Artifact, Spider Sanctuary Quest<p>Formula: 30 * x ^ 0.8, where x is your Time Spent Offline (Total) stat." coords="351,111,538,161" shape="rect">
 </map>
-<p><b>Necropolis Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/necropolisgroup1.png" usemap="#necropolisgroup1-map">
+
+**Necropolis Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/necropolisgroup1.png" usemap="#necropolisgroup1-map">
 <map name="necropolisgroup1-map">
     <area target="" research="Upgrade 1: Desecrated Crypt<p>Requirement: 5 Necropolises<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Necropolises production by 100%.<p>Pre Ascension: Increase Necropolises production by 7.18%.<p>Adds 1 Assistant" coords="2,2,52,53" shape="rect">
     <area target="" research="Upgrade 2: Rotting Corpses<p>Requirement: 25 Necropolises<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Necropolises production by 100%.<p>Pre Ascension: Increase Necropolises production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,51" shape="rect">
@@ -600,8 +645,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Will-o'-the-wisp<p>Requirement: 10K Necropolises<p>Cost: 378.4 Qaqag (3.784e137)<p>Increase Necropolis production by 50%" coords="56,110,105,162" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests. Boosting their production based on time spent in this game and unlocking more unique perks for the building.<p>Requirements: 2500 Necropolises, Play as Evil and Undead, R16+<p>Formula: (12 * (2.5 * x)^0.75)%, where x is your Playtime (This Game) stat." coords="351,111,538,160" shape="rect">
 </map>
-<p><b>Evil Fortress Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/evilfortressgroup1.png" usemap="#evilfortressgroup1-map">
+
+**Evil Fortress Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/evilfortressgroup1.png" usemap="#evilfortressgroup1-map">
 <map name="evilfortressgroup1-map">
     <area target="" research="Upgrade 1: Spiked Walls<p>Requirement: 5 Evil Fortresses<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Evil Fortresses production by 100%.<p>Pre Ascension: Increase Evil Fortresses production by 7.18%.<p>Adds 1 Assistant" coords="2,4,50,51" shape="rect">
     <area target="" research="Upgrade 2: Deep Dungeons<p>Requirement: 25 Evil Fortresses<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Evil Fortresses production by 100%.<p>Pre Ascension: Increase Evil Fortresses production by 7.18%.<p>Adds 1 Assistant" coords="56,4,105,52" shape="rect">
@@ -627,8 +674,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Horrific Battlements<p>Requirement: 10K Evil Fortresses<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Evil Fortress production by 50%" coords="54,110,107,163" shape="rect">
     <area target="" research="Unique Building<p>At R75, The Mercenaries Evil Fortress can be upgraded to a Unique Building: Tyrant Garrison, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.<p>Requirement: R75, Evil Mercenary, Mercenary Encampment Quest<p>Formula: 0.5 * (log10( 1 + x)) ^ 4.5 where x is Offline Production Bonus. " coords="347,111,538,162" shape="rect">
 </map>
-<p><b>Hell Portal Upgrades (Alignment: Evil)</p</b>
-<p><img src="/realm/img/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
+
+**Hell Portal Upgrades (Alignment: Evil)**
+
+<img src="/realm/img/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
 <map name="hellportalgroup1-map">
     <area target="" research="Upgrade 1: Continuous Pain<p>Requirement: 5 Hell Portals<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Hell Portals production by 100%.<p>Post Ascension: Increase Hell Portals production by 7.18%.<p>Adds 1 Assistant" coords="3,2,52,53" shape="rect">
     <area target="" research="Upgrade 2: Endless Sorrow<p>Requirement: 25 Hell Portals<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Hell Portals production by 100%.<p>Post Ascension: Increase Hell Portals production by 7.18%.<p>Adds 1 Assistant" coords="56,4,107,53" shape="rect">
@@ -654,8 +703,10 @@ layout: default
     <area target="" research="Post Ascension Only<p>Upgrade 22: Unbearable Calamity<p>Requirement: 10K Hell Portals<p>Cost: 165.9 Qiqag (1.659e140)<p>Increase Hell Portal production by 50%" coords="56,111,107,161" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Demon's building Hell Portals can be upgraded to a Unique Building: Infernal Realm, which is required for some challenges and research quests. Boosting their production by 125% per Trophy you unlocked and unlocking more unique perks for the building.<p>Requirement: 1500 Hell Portals, Research, Play as Evil and Demon, R16+<p>Formula: 125% *x, where x is trophy count." coords="351,111,536,162" shape="rect">
 </map>
-<p><b>Hall of Legends Upgrades (Alignment: Any)</p</b>
-<p><img src="/realm/img/picks/halloflegendsgroup1.png" usemap="#halloflegendsgroup1-map">
+
+**Hall of Legends Upgrades (Alignment: Any)**
+
+<img src="/realm/img/picks/halloflegendsgroup1.png" usemap="#halloflegendsgroup1-map">
 <map name="halloflegendsgroup1-map">
     <area target="" research="Upgrade 1: Legendary Representatives<p>Requirement: 5 Halls of Legends<p>Cost Pre Ascension: 40T (4e13)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="5,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Legendary League<p>Requirement: 25 Halls of Legends<p>Cost Pre Ascension: 1.3Qa (1.3e15)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="58,3,105,52" shape="rect">
