@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head> 
+    {% include _header.html %}
+    {% include _piwik.html %}
+
+    <style>
+        #outer { width: 950px; }
+        #header { width: 950px; height: 166px; background-image: url(/realm/img/picks/ResearchTreeHeader.png); }
+        #navbox { margin: 1; border: 5px solid #000; width: 938px; height: 23px; }
+        .parent { width: 950px; overflow: auto; }
+        #navlist2 li { margin: 10; }
+        #rightcolumn { margin: 27px 10px 3px 1px; }
+        .rightbox { width: 145px; text-align: left; font-size: 1.2em; color: transparent; background: url(/realm/img/picks/RealmGrinderGameRL.png) no-repeat; position: 10px 10px 10px 10px; }
+        .rightboxcontent { padding: 10px; margin: -11px; }
+        .menu { width: 950px; margin: 10; font-size: 112px; margin: 1.9px 1px 10px -2px; z-index: 50; }
+        .menu ul li a, .menu ul li a:visited, .menu ul li:hover a { width: 129px; margin-right: -1px; line-height: 22px; overflow: relative; }
+        .menu ul { margin: 5px 0px -7px 0px; }
+        .menu ul li { margin-right: 3px; }
+        .menu ul li:hover ul li ul { 1px -1px 0px 28px; }
+    </style>
+</head>
+<body>
+    <div id="outer">
+        <div class="parent">
+            <div id="header" align="center">
+                {% include _top_freefind.html %}
+            </div>
+        </div>
+        {% include _top_navbox.html %}
+        <div class="parent">
+            {% include _left.html %}
+            <div id="rightcolumn">
+                {% include _discord.html %}
+                {{ content }}
+
+            </div>
+            <div id="footer">
+            </div>
+        </div>
+    </div> 
+
+    {% include _footer_links.html %}
+    {% include _footer_thanks.html %}
+</body>
+</html>
