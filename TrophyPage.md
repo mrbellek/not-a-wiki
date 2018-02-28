@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-<h6><img src="/realm/img/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
-<p>All have tooltips--just point</p>
-<p>Some of these trophies will be easy, others will need special builds to complete</p>
-<p>If a build is needed I will add a link to that build</p>
-</p><img src="/realm/img/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
-</p><img src="/realm/img/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
-</p><img src="/realm/img/picks/NonSecretTrophiesnew.png" usemap="#NonSecretTrophiesnew-map">
-</p><img src="/realm/img/picks/MagicTrophyMapnew.png" usemap="#MagicTrophyMapnew-map">
+
+###### ![](/realm/img/picks/TrophyTopPage.png)
+
+All have tooltips--just point.
+
+Some of these trophies will be easy, others will need special builds to complete.
+
+If a build is needed I will add a link to that build.
+
+<img src="/realm/img/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
+<img src="/realm/img/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
+<img src="/realm/img/picks/NonSecretTrophiesnew.png" usemap="#NonSecretTrophiesnew-map">
+<img src="/realm/img/picks/MagicTrophyMapnew.png" usemap="#MagicTrophyMapnew-map">
 <map name="SecretTrophyMapnew-map">
     <area target="" research="Leet<p>Requirement: Have exactly 1337 Coins at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.337%" coords="5,47,62,103" shape="rect">
     <area target="" research="Unitary<p>Requirement: Have exactly 1 of each building at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p> This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.11111111%" coords="69,45,126,103" shape="rect">
