@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-###### [![Druid](/realm/img/picks/DruidTopPage.png "Druid")](/realm/Factions/)
+###### [![Druid](/realm/assets/img/picks/DruidTopPage.png "Druid")](/realm/Factions/)
 
-![Champion Trophy](/realm/img/picks/Druid.png "Champion Trophy") **Champion Trophy**
+![Champion Trophy](/realm/assets/img/picks/Druid.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -23,7 +23,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: round(0.25 * (x * y * z/729)^0.9) where x,y, and z are the number of your three most-built buildings.
 
-**Spell Trophy & Upgrade**: ![Halls of Balance](/realm/img/picks/HallsofBalanceFactionUpgrade.png "Halls of Balance") **Halls of Balance** 
+**Spell Trophy & Upgrade**: ![Halls of Balance](/realm/assets/img/picks/HallsofBalanceFactionUpgrade.png "Halls of Balance") **Halls of Balance** 
 
 **Effect**: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.
 
@@ -33,7 +33,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Unlock Requirements**:
 
-![Fossilized Piece of Bark 1](/realm/img/picks/FossilizedPieceofBark1FactionUpgrade.png "Fossilized Piece of Bark 1") **Fossilized Piece of Bark 1**
+![Fossilized Piece of Bark 1](/realm/assets/img/picks/FossilizedPieceofBark1FactionUpgrade.png "Fossilized Piece of Bark 1") **Fossilized Piece of Bark 1**
 
 **Type**: Quest Artifact
 
@@ -41,7 +41,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Description**: 1st clue required to unlock the Druid Alliance.
 
-![Fossilized Piece of Bark 2](/realm/img/picks/FossilizedPieceofBark2FactionUpgrade.png "Fossilized Piece of Bark 2") **Fossilized Piece of Bark 2**
+![Fossilized Piece of Bark 2](/realm/assets/img/picks/FossilizedPieceofBark2FactionUpgrade.png "Fossilized Piece of Bark 2") **Fossilized Piece of Bark 2**
 
 **Type**: Quest Artifact
 
@@ -49,7 +49,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Description**: 2nd clue required to unlock the Druid Alliance.
 
-![Druidic Runestone](/realm/img/picks/DruidicRunestone.png "Druidic Runestone") **Druidic Runestone**
+![Druidic Runestone](/realm/assets/img/picks/DruidicRunestone.png "Druidic Runestone") **Druidic Runestone**
 
 **Type**: Upgrade
 
@@ -59,7 +59,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 ---
 
-![Fragment of a Titan Statue](/realm/img/picks/ProofNeutralityFactionUpgrade.png "Fragment of a Titan Statue") **Proof Of Neutrality**
+![Fragment of a Titan Statue](/realm/assets/img/picks/ProofNeutralityFactionUpgrade.png "Fragment of a Titan Statue") **Proof Of Neutrality**
 
 **Type**: Alignment Upgrade
 
@@ -73,13 +73,13 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Tier 1 Upgrades**
 
-![Druid Trade Treaty](/realm/img/picks/DruidsTradeTreatyFactionUpgrade.png "Druid Trade Treaty") **Druid Trade Treaty**
+![Druid Trade Treaty](/realm/assets/img/picks/DruidsTradeTreatyFactionUpgrade.png "Druid Trade Treaty") **Druid Trade Treaty**
 
 **Cost**: 500 Elven Coins + 500 Demon Coins
 
 **Effect**: Unlocks Tier 1 Druid Upgrades.
 
-![Druidic Vocabulary](/realm/img/picks/DruidicVocabularyFactionUpgrade.png "Druidic Vocabulary") **Druidic Vocabulary**
+![Druidic Vocabulary](/realm/assets/img/picks/DruidicVocabularyFactionUpgrade.png "Druidic Vocabulary") **Druidic Vocabulary**
 
 **Cost**: 500 Qi (5E20)
 
@@ -87,7 +87,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: 4000 * x%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
 
-![Animal Companions](/realm/img/picks/AnimalCompanionsFactionUpgrade.png "Animal Companions") **Animal Companions**
+![Animal Companions](/realm/assets/img/picks/AnimalCompanionsFactionUpgrade.png "Animal Companions") **Animal Companions**
 
 **Cost**: 5 Sx (5E21)
 
@@ -95,9 +95,9 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: floor((sqrt(1+12 * x)-1)/2), where x is your Playtime (This Game) stat in hours.
 
-![Hours](/realm/img/picks/hours.png "Hours")
+![Hours](/realm/assets/img/picks/hours.png "Hours")
 
-![Natural Recycling](/realm/img/picks/NaturalRecyclingFactionUpgrade.png "Natural Recycling") **Natural Recycling**
+![Natural Recycling](/realm/assets/img/picks/NaturalRecyclingFactionUpgrade.png "Natural Recycling") **Natural Recycling**
 
 **Cost**: 50 Sx (5E22)
 
@@ -109,19 +109,19 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Tier 2 Upgrades**
 
-![Druid Friendship Pact](/realm/img/picks/DruidsFriendshipPactFactionUpgrade.png "Druid Friendship Pact") **Druid Friendship Pact**
+![Druid Friendship Pact](/realm/assets/img/picks/DruidsFriendshipPactFactionUpgrade.png "Druid Friendship Pact") **Druid Friendship Pact**
 
 **Cost**: 2,500 Elven Coins + 2,500 Demon Coins
 
 **Effect**: Unlocks Tier 2 Druid Upgrades.
 
-![Earthly Bond](/realm/img/picks/EarthlyBondFactionUpgrade.png "Earthly Bond") **Earthly Bond**
+![Earthly Bond](/realm/assets/img/picks/EarthlyBondFactionUpgrade.png "Earthly Bond") **Earthly Bond**
 
 **Cost**: 5 Sp (5E24)
 
 **Effect**: Increase maximum mana by 2.0 for each Stone Pillars you own.
 
-![Bardic Knowledge](/realm/img/picks/BardicKnowledgeFactionUpgrade.png "Bardic Knowledge") **Bardic Knowledge**
+![Bardic Knowledge](/realm/assets/img/picks/BardicKnowledgeFactionUpgrade.png "Bardic Knowledge") **Bardic Knowledge**
 
 **Cost**: 50 Sp (5E25)
 
@@ -129,7 +129,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: 1.75 * x ^ 0.9, where x is your maximum mana.
 
-![Shapeshifting](/realm/img/picks/ShapeshiftingFactionUpgrade.png "Shapeshifting") **Shapeshifting**
+![Shapeshifting](/realm/assets/img/picks/ShapeshiftingFactionUpgrade.png "Shapeshifting") **Shapeshifting**
 
 **Cost**: 500 Sp (5E26)
 
@@ -141,13 +141,13 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Tier 3 Upgrades**
 
-![Druid Alliance](/realm/img/picks/DruidsAllianceFactionUpgrade.png "Druid Alliance") **Druid Alliance**
+![Druid Alliance](/realm/assets/img/picks/DruidsAllianceFactionUpgrade.png "Druid Alliance") **Druid Alliance**
 
 **Cost**: 10,000 Elven Coins + 10,000 Demon Coins
 
 **Effect**: Unlocks Tier 3 Druid Upgrades.
 
-![Mabinogion](/realm/img/picks/MabinogionFactionUpgrade.png "Mabinogion") **Mabinogion**
+![Mabinogion](/realm/assets/img/picks/MabinogionFactionUpgrade.png "Mabinogion") **Mabinogion**
 
 **Cost**: 50 Oc (5E28)
 
@@ -155,7 +155,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: 3.75 * (4.25 * (12 - T)), where T is building tier.
 
-![Earthly Soul](/realm/img/picks/EarthlySoulFactionUpgrade.png "Earthly Soul") **Earthly Soul**
+![Earthly Soul](/realm/assets/img/picks/EarthlySoulFactionUpgrade.png "Earthly Soul") **Earthly Soul**
 
 **Cost**: 500 Oc (5E29)
 
@@ -163,7 +163,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Formula**: x0.25, where x is Stone Pillars.
 
-![Building Jungle](/realm/img/picks/BuildingJungleFactionUpgrade.png "Building Jungle") **Building Jungle**
+![Building Jungle](/realm/assets/img/picks/BuildingJungleFactionUpgrade.png "Building Jungle") **Building Jungle**
 
 **Cost**: 5 No (5E30)
 
@@ -171,7 +171,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 ---
 
-![Druid Heritage](/realm/img/picks/DruidHeritage.png "Druid Heritage") **Druid Heritage**
+![Druid Heritage](/realm/assets/img/picks/DruidHeritage.png "Druid Heritage") **Druid Heritage**
 
 **Cost**: 25,000 Elven Coins, 25,000 Demon Coins
 
@@ -183,7 +183,7 @@ The Druids feature a powerful Heritage that increases maximum mana, and their fi
 
 **Druid Research Requirements**
 
-![Stonehenge Circles Quest](/realm/img/picks/StonehengeCirclesQuestFactionUpgrade.png "Stonehenge Circles Quest") **Stonehenge Circles Quest**
+![Stonehenge Circles Quest](/realm/assets/img/picks/StonehengeCirclesQuestFactionUpgrade.png "Stonehenge Circles Quest") **Stonehenge Circles Quest**
 
 Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.
 
@@ -191,7 +191,7 @@ Hello, friend. The balance of nature requires more magic to sustain it. Build en
 
 **Cost**: 10 Dtg (1E100)
 
-![Stonehenge Circles](/realm/img/picks/StonehengeCircleFactionUpgrade.png "Stonehenge Circles") **Stonehenge Circles**
+![Stonehenge Circles](/realm/assets/img/picks/StonehengeCircleFactionUpgrade.png "Stonehenge Circles") **Stonehenge Circles**
 
 Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.
 
@@ -199,13 +199,13 @@ Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% pe
 
 **Cost**: 10 Ttg (1E103)
 
-![Key to the Lost City](/realm/img/picks/KeytotheLostCityFactionUpgrade.png "Key to the Lost City") **Key to the Lost City**
+![Key to the Lost City](/realm/assets/img/picks/KeytotheLostCityFactionUpgrade.png "Key to the Lost City") **Key to the Lost City**
 
 **Effect**: Unlocks the Secrets of the Ancients.
 
 **Requirements**: Found on the 1500th excavation +R23
 
-![Secrets of the Ancients](/realm/img/picks/SecretsoftheAncientsFactionUpgrade.png "Secrets of the Ancients") **Secrets of the Ancients**
+![Secrets of the Ancients](/realm/assets/img/picks/SecretsoftheAncientsFactionUpgrade.png "Secrets of the Ancients") **Secrets of the Ancients**
 
 **Effect**: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.
 
@@ -215,7 +215,7 @@ Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% pe
 
 **Cost**: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins
 
-![Ancient Device](/realm/img/picks/AncientDeviceFactionUpgrade.png "Ancient Device") **Ancient Device**
+![Ancient Device](/realm/assets/img/picks/AncientDeviceFactionUpgrade.png "Ancient Device") **Ancient Device**
 
 **Description**: Quest Artifact and Upgrade
 
@@ -229,7 +229,7 @@ Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% pe
 
 **Unique Building**
 
-![Druid Unique Building](/realm/img/picks/DruidUniqueBuilding.png "Druid Unique Building")
+![Druid Unique Building](/realm/assets/img/picks/DruidUniqueBuilding.png "Druid Unique Building")
 
 Upgraded from Stone Pillars
 

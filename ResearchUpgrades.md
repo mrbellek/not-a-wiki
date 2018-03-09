@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/ResearchTopPage.png)
+###### ![](/realm/assets/img/picks/ResearchTopPage.png)
 
 ###### Research Upgrade Slots by effect
 

@@ -4,7 +4,7 @@ layout: default
 
 **Prestige Research**
 
-![](/realm/img/picks/SecretsoftheUnderworldr.png "Secrets of the Underworld") **Secrets of the Underworld**
+![](/realm/assets/img/picks/SecretsoftheUnderworldr.png "Secrets of the Underworld") **Secrets of the Underworld**
 
 **In-game Description**
 
@@ -16,7 +16,7 @@ layout: default
 
 **Tip**: Try Fairy/Dwarf and Excavations to reach 100 QiSxg (1E200), 10M of each faction coin
 
-![](/realm/img/picks/EarthCore.png "Earth Core") **Earth Core**
+![](/realm/assets/img/picks/EarthCore.png "Earth Core") **Earth Core**
 
 **Clues**: This piece of rock is continuously shifting its shape, responding to mysterious energy sources.
 
@@ -28,7 +28,7 @@ layout: default
 
 **Dwarf**
 
-![](/realm/img/picks/DwravenForgeQuestr.png "Dwarven Forge Quest") **Dwarven Forge Quest**
+![](/realm/assets/img/picks/DwravenForgeQuestr.png "Dwarven Forge Quest") **Dwarven Forge Quest**
 
 **In-game Description**
 
@@ -38,7 +38,7 @@ Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Bl
 
 **Cost**: 10 Sxg (1E184)
 
-![](/realm/img/picks/DwarvenForges.png "Dwarven Forges") **Dwarven Forges**
+![](/realm/assets/img/picks/DwarvenForges.png "Dwarven Forges") **Dwarven Forges**
 
 **In-game Description**
 
@@ -54,7 +54,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Drow**
 
-![](/realm/img/picks/SpiderSanctuaryQuestr.png "Spider Sanctuary Quest") **Spider Sanctuary Quest**
+![](/realm/assets/img/picks/SpiderSanctuaryQuestr.png "Spider Sanctuary Quest") **Spider Sanctuary Quest**
 
 **In-game Description**
 
@@ -66,7 +66,7 @@ Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen
 
 **Cost**: 10 Sxg (1E184)
 
-![](/realm/img/picks/SpiderSanctuary.png "Spider Sanctuary") **Spider Sanctuary**
+![](/realm/assets/img/picks/SpiderSanctuary.png "Spider Sanctuary") **Spider Sanctuary**
 
 **In-game Description**
 

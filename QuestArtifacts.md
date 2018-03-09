@@ -2,13 +2,13 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/ArcheologyTopPage.png)
+###### ![](/realm/assets/img/picks/ArcheologyTopPage.png)
 
 **Quest Artifacts [Lore Artifacts](/realm/LoreArtifacts)**
 
 There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Research Slots.
 
-![](/realm/img/picks/AncientStoneSlab1.png "Artifacts") **Ancient Stone Slab 1**
+![](/realm/assets/img/picks/AncientStoneSlab1.png "Artifacts") **Ancient Stone Slab 1**
 
 **Clues**: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.
 
@@ -18,7 +18,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/FossilizedPieceofBark1.png "Artifacts") **Fossilized Piece of Bark 1**
+![](/realm/assets/img/picks/FossilizedPieceofBark1.png "Artifacts") **Fossilized Piece of Bark 1**
 
 **Clues**: We discovered a fossilized piece of Bark with the image of a Faction Coin carved into it.
 
@@ -28,7 +28,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/BoneFragment1.png "Artifacts") **Bone Fragment 1**
+![](/realm/assets/img/picks/BoneFragment1.png "Artifacts") **Bone Fragment 1**
 
 **Clues**: We discovered a sundial shaped artefact, probably made of animal bones.
 
@@ -38,7 +38,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/AncientStoneSlab2.png "Artifacts") **Ancient Stone Slab 2**
+![](/realm/assets/img/picks/AncientStoneSlab2.png "Artifacts") **Ancient Stone Slab 2**
 
 **Clues**: We discovered an ancient stone slab written in old scriptures.We can recognize the number 300.
 
@@ -48,7 +48,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/FossilizedPieceofBark2.png "Artifacts") **Fossilized Piece of Bark 2**
+![](/realm/assets/img/picks/FossilizedPieceofBark2.png "Artifacts") **Fossilized Piece of Bark 2**
 
 **Clues**: We discovered a fossilized piece of Bark with the symbol of One Million.
 
@@ -58,7 +58,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/BoneFragment2.png "Artifacts") **Bone Fragment 2**
+![](/realm/assets/img/picks/BoneFragment2.png "Artifacts") **Bone Fragment 2**
 
 **Clues**: We discovered an artefact shaped like the number 36, probably made of animal bones.
 
@@ -68,7 +68,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/KeytotheLostCity.png "Artifacts") **Key to the Lost City**
+![](/realm/assets/img/picks/KeytotheLostCity.png "Artifacts") **Key to the Lost City**
 
 **Clues**: Despite being thousands of years old, it's still shiny.
 
@@ -78,7 +78,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/AncientDevice.png "Artifacts") **Ancient Device**
+![](/realm/assets/img/picks/AncientDevice.png "Artifacts") **Ancient Device**
 
 **Clues**: This strange Device seems to react to the Ancient Races magical capabilities. We may channel its power to increase their research potential!
 
@@ -96,7 +96,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/EarthCore.png "Earth Core") **Earth Core**
+![](/realm/assets/img/picks/EarthCore.png "Earth Core") **Earth Core**
 
 **Clues**: This piece of rock is continuously shifting its shape, responding to mysterious enery sources.
 
@@ -106,7 +106,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/HornoftheKings.png "Horn of the Kings") **Horn of the Kings**
+![](/realm/assets/img/picks/HornoftheKings.png "Horn of the Kings") **Horn of the Kings**
 
 **Clues**: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the Wind.
 
@@ -120,7 +120,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/FlameofBondelnar.png "Flame of Bondelnar") **Flame of Bondelnar**
+![](/realm/assets/img/picks/FlameofBondelnar.png "Flame of Bondelnar") **Flame of Bondelnar**
 
 **Clues**: 
 
@@ -134,7 +134,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/SpikyRoughEggArtifact.png "SpikyRoughEgg") **Spiky Rough Egg**
+![](/realm/assets/img/picks/SpikyRoughEggArtifact.png "SpikyRoughEgg") **Spiky Rough Egg**
 
 **Clues**: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?
 
@@ -144,7 +144,7 @@ There are 13 Quest Artifacts that unlock the Neutral Alignment, Research and Res
 
 ---
 
-![](/realm/img/picks/ObsidianShardArtifact.png "Obsidian Shard") **Obsidian Shard**
+![](/realm/assets/img/picks/ObsidianShardArtifact.png "Obsidian Shard") **Obsidian Shard**
 
 **Description**: Extremely hard and black as darkness itself, this material cannot apparently be carved or melted. It is a mystery how you can make this thing into a sword.
 

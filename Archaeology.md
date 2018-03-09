@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### ![Trophies](/realm/img/picks/TrophiesTopPage.png "Trophies")
+###### ![Trophies](/realm/assets/img/picks/TrophiesTopPage.png "Trophies")
 
 **Archaeology Trophy**
 
-![Archaeology Expedition](/realm/img/picks/ArchaeologyExpedition.png "Archaeology Expedition") **Archaeology Expedition**
+![Archaeology Expedition](/realm/assets/img/picks/ArchaeologyExpedition.png "Archaeology Expedition") **Archaeology Expedition**
 
 **In-game description**
 

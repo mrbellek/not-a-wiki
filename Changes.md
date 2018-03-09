@@ -19,7 +19,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Added**  2 Secret Trophies
 
-![](/realm/img/picks/HolyFrenzySecretTrophy.png) **Holy Frenzy**
+![](/realm/assets/img/picks/HolyFrenzySecretTrophy.png) **Holy Frenzy**
 
 **Requirement**: In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.
 
@@ -33,7 +33,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/UniformitySecretTrophy.png) **Uniformity**
+![](/realm/assets/img/picks/UniformitySecretTrophy.png) **Uniformity**
 
 **Requirement**: With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.
 
@@ -53,7 +53,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Changed**: 1 Artifact
 
-![](/realm/img/picks/WallChunckArtifact.png "Wall Chunck") **Wall Chunk**
+![](/realm/assets/img/picks/WallChunckArtifact.png "Wall Chunck") **Wall Chunk**
 
 **Description**: A bigger piece of the infamous Ascension Wall.
 
@@ -73,7 +73,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Added**: 10 Artifacts, 9 that unlock Faction Sets
 
-![](/realm/img/picks/AncestralHourglassArtifact.png) **Ancestral Hourglass**
+![](/realm/assets/img/picks/AncestralHourglassArtifact.png) **Ancestral Hourglass**
 
 **Description**: The silver sands contained within seem to never stop flowing.
 
@@ -91,7 +91,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/SilkClothArtifact.png) **Silk Cloth**
+![](/realm/assets/img/picks/SilkClothArtifact.png) **Silk Cloth**
 
 **Description**: The purest silk made for Fairies, by Fairies, of Fairies.
 
@@ -101,7 +101,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x - 10000) / 200000)%, where x is Wizard Tower.
 
-![](/realm/img/picks/FairySet.png) **Fairy Set**
+![](/realm/assets/img/picks/FairySet.png) **Fairy Set**
 
 **Requirement**: A2+
 
@@ -115,7 +115,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/RawEmeraldArtifact.png) **Raw Emerald**
+![](/realm/assets/img/picks/RawEmeraldArtifact.png) **Raw Emerald**
 
 **Description**: Just slightly less precious than a raw Ruby.
 
@@ -125,7 +125,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).
 
-![](/realm/img/picks/ElvenSet.png) **Elven Set**
+![](/realm/assets/img/picks/ElvenSet.png) **Elven Set**
 
 **Requirement**: A2+
 
@@ -139,7 +139,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/FossilizedWingArtifact.png) **Fossilized Wing**
+![](/realm/assets/img/picks/FossilizedWingArtifact.png) **Fossilized Wing**
 
 **Description**: The remains of an Angel fallen to earth.
 
@@ -149,7 +149,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
 
-![](/realm/img/picks/AngelSet.png) **Angel Set**
+![](/realm/assets/img/picks/AngelSet.png) **Angel Set**
 
 **Requirement**: A2+
 
@@ -163,7 +163,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/SpikedWhipArtifact.png) **Spiked Whip**
+![](/realm/assets/img/picks/SpikedWhipArtifact.png) **Spiked Whip**
 
 **Description**: Use with caution. You do not want to exterminate all your slaves.
 
@@ -173,7 +173,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x - 10000) / 300000)%, where x is Slave Pens.
 
-![](/realm/img/picks/GoblinSet.png) **Goblin Set**
+![](/realm/assets/img/picks/GoblinSet.png) **Goblin Set**
 
 **Requirement**: A2+
 
@@ -187,7 +187,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/DustyCoffinArtifact.png) **DustyCoffin**
+![](/realm/assets/img/picks/DustyCoffinArtifact.png) **DustyCoffin**
 
 **Description**: Sealed since forever, yet you can hear a strange noise from within.
 
@@ -199,7 +199,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: 1 in 3000 in 0 seconds 1 in 132349 at 60 seconds. 1 in 438078 at 120 seconds.
 
-![](/realm/img/picks/UndeadSet.png) **Undead Set**
+![](/realm/assets/img/picks/UndeadSet.png) **Undead Set**
 
 **Requirement**: A2+
 
@@ -213,7 +213,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/CrystallizedLavaArtifact.png) **CrystallizedLava**
+![](/realm/assets/img/picks/CrystallizedLavaArtifact.png) **CrystallizedLava**
 
 **Description**: Incandescent but still. Can be used efficiently as a desk lamp.
 
@@ -223,7 +223,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x - 10000) / 200000)%, where x is Hall of  Legends.
 
-![](/realm/img/picks/DemonSet.png) **Demon Set**
+![](/realm/assets/img/picks/DemonSet.png) **Demon Set**
 
 **Requirement**: A2+
 
@@ -237,7 +237,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/TitanHelmetArtifact.png) **Titan Helmet**
+![](/realm/assets/img/picks/TitanHelmetArtifact.png) **Titan Helmet**
 
 **Description**: Made of enough metal to craft a human-sized full plate.
 
@@ -247,7 +247,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.
 
-![](/realm/img/picks/TitanSet.png) **Titan Set**
+![](/realm/assets/img/picks/TitanSet.png) **Titan Set**
 
 **Requirement**: A2+
 
@@ -261,7 +261,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/BranchoftheLifeTreeArtifact.png) **Branch of the Life Tree**
+![](/realm/assets/img/picks/BranchoftheLifeTreeArtifact.png) **Branch of the Life Tree**
 
 **Description**: Despite being torn from its source tree, it keeps growing buds and leaves.
 
@@ -271,7 +271,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.
 
-![](/realm/img/picks/DruidSet.png) **Druid Set**
+![](/realm/assets/img/picks/DruidSet.png) **Druid Set**
 
 **Requirement**: A2+
 
@@ -285,7 +285,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 ---
 
-![](/realm/img/picks/NightmareFigmentArtifact.png) **Nightmare Figment**
+![](/realm/assets/img/picks/NightmareFigmentArtifact.png) **Nightmare Figment**
 
 **Description**: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
 
@@ -295,7 +295,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Chance**: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds.
 
-![](/realm/img/picks/FacelessSet.png) **Faceless Set**
+![](/realm/assets/img/picks/FacelessSet.png) **Faceless Set**
 
 **Requirement**: A2+
 
@@ -427,7 +427,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/AllCreation.png "All Creation")
+![](/realm/assets/img/picks/AllCreation.png "All Creation")
 
 **Cost**: 6000 Mana
 
@@ -441,7 +441,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/WoodenDices.png "Wooden Dices") **Wooden Dice**
+![](/realm/assets/img/picks/WoodenDices.png "Wooden Dices") **Wooden Dice**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -463,7 +463,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Angel**
 
-![](/realm/img/picks/Heaven'sBrilliance.png "Heaven's Brilliance") **Heaven's Brilliance**
+![](/realm/assets/img/picks/Heaven'sBrilliance.png "Heaven's Brilliance") **Heaven's Brilliance**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -475,7 +475,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
+![](/realm/assets/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -487,7 +487,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/SeraphimFeathers.png "Seraphim Feathers") **Seraphim Feathers**
+![](/realm/assets/img/picks/SeraphimFeathers.png "Seraphim Feathers") **Seraphim Feathers**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -499,7 +499,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Undead**
 
-![](/realm/img/picks/ZombieApocalypse.png "Zombie Apocalypse") **Zombie Apocalypse**
+![](/realm/assets/img/picks/ZombieApocalypse.png "Zombie Apocalypse") **Zombie Apocalypse**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -511,7 +511,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/EternalServitude.png "Eternal Servitude") **Eternal Servitude**
+![](/realm/assets/img/picks/EternalServitude.png "Eternal Servitude") **Eternal Servitude**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -525,7 +525,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Titan**
 
-![](/realm/img/picks/TitanicAuthority.png "Titanic Authority") **Titanic Authority**
+![](/realm/assets/img/picks/TitanicAuthority.png "Titanic Authority") **Titanic Authority**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -537,7 +537,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/ColossusKingdom.png "Colossus Kingdom") **Colossus Kingdom**
+![](/realm/assets/img/picks/ColossusKingdom.png "Colossus Kingdom") **Colossus Kingdom**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -551,7 +551,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Fairy**
 
-![](/realm/img/picks/Pheromones.png "Pheromones") **Pheromones**
+![](/realm/assets/img/picks/Pheromones.png "Pheromones") **Pheromones**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -563,7 +563,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/DreamCatchers.png "Dream Catchers") **Dream Catchers**
+![](/realm/assets/img/picks/DreamCatchers.png "Dream Catchers") **Dream Catchers**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -575,7 +575,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Demon**
 
-![](/realm/img/picks/DemonicFury.png "Demonic Fury") **Demonic Fury**
+![](/realm/assets/img/picks/DemonicFury.png "Demonic Fury") **Demonic Fury**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -587,7 +587,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/Devastation.png "Devastation") **Devastation**
+![](/realm/assets/img/picks/Devastation.png "Devastation") **Devastation**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -601,7 +601,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Faceless**
 
-![](/realm/img/picks/ForbiddenLanguage.png "Forbidden Language") **Forbidden Language**
+![](/realm/assets/img/picks/ForbiddenLanguage.png "Forbidden Language") **Forbidden Language**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -613,7 +613,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/DimensionDoor.png "Dimension Door") **Dimension Door**
+![](/realm/assets/img/picks/DimensionDoor.png "Dimension Door") **Dimension Door**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
@@ -627,7 +627,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Elven**
 
-![](/realm/img/picks/Camouflage.png "Camouflage") **Camouflage**
+![](/realm/assets/img/picks/Camouflage.png "Camouflage") **Camouflage**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -641,7 +641,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/ElvenDiscipline.png "Elven Discipline") **Elven Discipline**
+![](/realm/assets/img/picks/ElvenDiscipline.png "Elven Discipline") **Elven Discipline**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
@@ -655,7 +655,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Goblin**
 
-![](/realm/img/picks/MoneyisMagic.png "Money is Magic") **Money is Magic**
+![](/realm/assets/img/picks/MoneyisMagic.png "Money is Magic") **Money is Magic**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -667,7 +667,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/LousyArchitecture.png "Lousy Architecture") **Lousy Architecture**
+![](/realm/assets/img/picks/LousyArchitecture.png "Lousy Architecture") **Lousy Architecture**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
@@ -681,7 +681,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 **Druid**
 
-![](/realm/img/picks/LunarCycle.png "Lunar Cycle") **Lunar Cycle**
+![](/realm/assets/img/picks/LunarCycle.png "Lunar Cycle") **Lunar Cycle**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -693,7 +693,7 @@ Research associated 'Secret Trophies' moved to 'Misc Trophies'
 
 &nbsp;
 
-![](/realm/img/picks/GroveFarming.png "Grove Farming") **Grove Farming**
+![](/realm/assets/img/picks/GroveFarming.png "Grove Farming") **Grove Farming**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Research Facilities](/realm/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
+###### [![Research Facilities](/realm/assets/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
 
 ###### Divine Facilities
 
-![Divine](/realm/img/picks/Diviner.png "Divine") **Divine**
+![Divine](/realm/assets/img/picks/Diviner.png "Divine") **Divine**
 
 Harness the power of the eternals, increasing your spell affinity and bestowing Divine power on all your productivity.
 

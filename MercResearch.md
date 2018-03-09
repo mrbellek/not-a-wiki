@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/ResearchTopPage.png)
+###### ![](/realm/assets/img/picks/ResearchTopPage.png)
 
 ###### Mercenary Research
 
-![](/realm/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
+![](/realm/assets/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
 
 We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.
 
@@ -24,7 +24,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Good**
 
-![](/realm/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
+![](/realm/assets/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -38,7 +38,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Effect 3**: Unlocks Round Table
 
-![](/realm/img/picks/RoundTable.png "Round Table") **Round Table** (Spell Upgrade)
+![](/realm/assets/img/picks/RoundTable.png "Round Table") **Round Table** (Spell Upgrade)
 
 **Requirement**: Mercenary Camp
 
@@ -50,7 +50,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Faction Spell**: Tax Collection
 
-![](/realm/img/picks/ShareBenefits.png "Round Table") **Good**
+![](/realm/assets/img/picks/ShareBenefits.png "Round Table") **Good**
 
 **Requirement**: Mercenary Camp
 
@@ -64,7 +64,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 &nbsp;
 
-![](/realm/img/picks/GoodMercenaryUpgrade13.png "Round Table") **Good Mercenary Upgrade 13**
+![](/realm/assets/img/picks/GoodMercenaryUpgrade13.png "Round Table") **Good Mercenary Upgrade 13**
 
 You can purchase any upgrade from any Good Faction for an increased price
 
@@ -74,7 +74,7 @@ You can purchase any upgrade from any Good Faction for an increased price
 
 **Evil**
 
-![](/realm/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
+![](/realm/assets/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -88,7 +88,7 @@ You can purchase any upgrade from any Good Faction for an increased price
 
 **Formula**: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus
 
-![](/realm/img/picks/ReapInterests.png "Tyrant Garrison") **Evil**
+![](/realm/assets/img/picks/ReapInterests.png "Tyrant Garrison") **Evil**
 
 **Requirement**: Tyrant Garrison
 
@@ -104,7 +104,7 @@ You can purchase any upgrade from any Good Faction for an increased price
 
 &nbsp;
 
-![](/realm/img/picks/DarkCovenant.png "Dark Covenant") **Dark Covenant** (Spell Upgrade)
+![](/realm/assets/img/picks/DarkCovenant.png "Dark Covenant") **Dark Covenant** (Spell Upgrade)
 
 **Requirement**: Tyrant Garrison
 
@@ -114,7 +114,7 @@ You can purchase any upgrade from any Good Faction for an increased price
 
 **Effect 2**: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.
 
-![](/realm/img/picks/EvilMercenaryUpgrade13.png "Round Table") **Evil Mercenary Upgrade 13**
+![](/realm/assets/img/picks/EvilMercenaryUpgrade13.png "Round Table") **Evil Mercenary Upgrade 13**
 
 You can purchase any upgrade from any Evil Faction for an increased price.
 
@@ -124,7 +124,7 @@ You can purchase any upgrade from any Evil Faction for an increased price.
 
 **Neutral**
 
-![](/realm/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
+![](/realm/assets/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -138,7 +138,7 @@ You can purchase any upgrade from any Evil Faction for an increased price.
 
 **Effect 3**: Unlocks Secret Exchange
 
-![](/realm/img/picks/SecretExchange.png "Secret Exchange") **Secret Exchange** (Spell Upgrade)
+![](/realm/assets/img/picks/SecretExchange.png "Secret Exchange") **Secret Exchange** (Spell Upgrade)
 
 **Requirement**: Freemason's Hall
 
@@ -146,7 +146,7 @@ You can purchase any upgrade from any Evil Faction for an increased price.
 
 **Effect**: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast
 
-![](/realm/img/picks/AppraisalVantage.png "Freemason's Hall") **Neutral**
+![](/realm/assets/img/picks/AppraisalVantage.png "Freemason's Hall") **Neutral**
 
 **Requirement**: Freemason's Hall
 
@@ -158,7 +158,7 @@ You can purchase any upgrade from any Evil Faction for an increased price.
 
 &nbsp;
 
-![](/realm/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
+![](/realm/assets/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
 
 **Requirement**: 8000th Excavation as any Faction, R75+
 
@@ -168,7 +168,7 @@ You can purchase any upgrade from any Evil Faction for an increased price.
 
 &nbsp;
 
-![](/realm/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
+![](/realm/assets/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
 
 **Requirement**: Obsidian Shard
 

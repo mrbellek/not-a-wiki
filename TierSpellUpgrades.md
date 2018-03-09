@@ -34,25 +34,25 @@ Unlocking Tier spell upgrades only need to be done once, but you will still need
 
 **Call to Arms**
 
-![](/realm/img/picks/CalltoArmsTier2.png "Calltoarms2") **Tier**: 2 - **coins** 51 Sxd (5.1E52) - **FC** 0
+![](/realm/assets/img/picks/CalltoArmsTier2.png "Calltoarms2") **Tier**: 2 - **coins** 51 Sxd (5.1E52) - **FC** 0
 
-![](/realm/img/picks/CalltoArmsTier3.png "Calltoarms3") **Tier**: 3 - **coins** 766.4 Vg (7.664E65) - **FC** 0
+![](/realm/assets/img/picks/CalltoArmsTier3.png "Calltoarms3") **Tier**: 3 - **coins** 766.4 Vg (7.664E65) - **FC** 0
 
-![](/realm/img/picks/CalltoArmsTier4.png "Calltoarms4") **Tier**: 4 - **coins** 11.52 Qivg (1.152E79) - **FC** 0
+![](/realm/assets/img/picks/CalltoArmsTier4.png "Calltoarms4") **Tier**: 4 - **coins** 11.52 Qivg (1.152E79) - **FC** 0
 
-![](/realm/img/picks/CalltoArmsTier5.png "Calltoarms5") **Tier**: 5 - **coins** 173.1 Novg (1.731E92) - **FC** 0
+![](/realm/assets/img/picks/CalltoArmsTier5.png "Calltoarms5") **Tier**: 5 - **coins** 173.1 Novg (1.731E92) - **FC** 0
 
 ---
 
 **Spiritual Surge**
 
-![](/realm/img/picks/SpiritualSurgeTier2.png "Spiritual Surge") **Tier**: 2 - **coins** 66 Vg (6.6E64) - **FC** 1 Qa (1E15)
+![](/realm/assets/img/picks/SpiritualSurgeTier2.png "Spiritual Surge") **Tier**: 2 - **coins** 66 Vg (6.6E64) - **FC** 1 Qa (1E15)
 
-![](/realm/img/picks/SpiritualSurgeTier3.png "Spiritual Surge") **Tier**: 3 - **coins** 5.949 Spvg (5.949E84) - **FC** 5.623 Qi (5.623E18)
+![](/realm/assets/img/picks/SpiritualSurgeTier3.png "Spiritual Surge") **Tier**: 3 - **coins** 5.949 Spvg (5.949E84) - **FC** 5.623 Qi (5.623E18)
 
-![](/realm/img/picks/SpiritualSurgeTier4.png "Spiritual Surge") **Tier**: 4 - **coins** 53.61 Utg (5.361E97) - **FC** 31 Sx (3.16E22)
+![](/realm/assets/img/picks/SpiritualSurgeTier4.png "Spiritual Surge") **Tier**: 4 - **coins** 53.61 Utg (5.361E97) - **FC** 31 Sx (3.16E22)
 
-![](/realm/img/picks/SpiritualSurgeTier5.png "Spiritual Surge") **Tier**: 5 - **coins** 48.32 Octg (4.832E118) - **FC** 178 Sp (1.78E26)
+![](/realm/assets/img/picks/SpiritualSurgeTier5.png "Spiritual Surge") **Tier**: 5 - **coins** 48.32 Octg (4.832E118) - **FC** 178 Sp (1.78E26)
 
 
 
@@ -62,13 +62,13 @@ Unlocking Tier spell upgrades only need to be done once, but you will still need
 
 **Holy Light**
 
-![](/realm/img/picks/BloodfrenzyTier2.png "Bloodfrenzytier") **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 1 B (1E9)
+![](/realm/assets/img/picks/BloodfrenzyTier2.png "Bloodfrenzytier") **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 1 B (1E9)
 
-![](/realm/img/picks/BloodfrenzyTier3.png "Bloodfrenzytier") **Tier**: 3 - **coins** 4.629 Dvg (4.629E69) - **FC** 178 B (1.78E11)
+![](/realm/assets/img/picks/BloodfrenzyTier3.png "Bloodfrenzytier") **Tier**: 3 - **coins** 4.629 Dvg (4.629E69) - **FC** 178 B (1.78E11)
 
-![](/realm/img/picks/BloodfrenzyTier4.png "Bloodfrenzytier") **Tier**: 4 - **coins** 396.8 Sxvg (3.968E83) - **FC** 31.62 T (3.162E13)
+![](/realm/assets/img/picks/BloodfrenzyTier4.png "Bloodfrenzytier") **Tier**: 4 - **coins** 396.8 Sxvg (3.968E83) - **FC** 31.62 T (3.162E13)
 
-![](/realm/img/picks/BloodfrenzyTier5.png "Bloodfrenzytier") **Tier**: 5 - **coins** 34.01 Utg (3.401E97) - **FC** 5 Qa (5.62E15)
+![](/realm/assets/img/picks/BloodfrenzyTier5.png "Bloodfrenzytier") **Tier**: 5 - **coins** 34.01 Utg (3.401E97) - **FC** 5 Qa (5.62E15)
 
 **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 1 B (1E9)
 
@@ -84,13 +84,13 @@ Unlocking Tier spell upgrades only need to be done once, but you will still need
 
 **Gem Grinder**
 
-![](/realm/img/picks/GemGrinderTier2.png "Gem Grinder") **Tier**: 2 - **coins** 60 Nod (6E61) - **FC** 5 B (5E9)
+![](/realm/assets/img/picks/GemGrinderTier2.png "Gem Grinder") **Tier**: 2 - **coins** 60 Nod (6E61) - **FC** 5 B (5E9)
 
-![](/realm/img/picks/GemGrinderTier3.png "Gem Grinder") **Tier**: 3 - **coins** 166.9 Qavg (1.669E77) - **FC** 1 T (1.33E12)
+![](/realm/assets/img/picks/GemGrinderTier3.png "Gem Grinder") **Tier**: 3 - **coins** 166.9 Qavg (1.669E77) - **FC** 1 T (1.33E12)
 
-![](/realm/img/picks/GemGrinderTier4.png "Gem Grinder") **Tier**: 4 - **coins** 464.7 Novg (4.647E92) - **FC** 354 T (3.54E14)
+![](/realm/assets/img/picks/GemGrinderTier4.png "Gem Grinder") **Tier**: 4 - **coins** 464.7 Novg (4.647E92) - **FC** 354 T (3.54E14)
 
-![](/realm/img/picks/GemGrinderTier5.png "Gem Grinder") **Tier**: 5 - **coins** 1.293 Qitg (1.293E108) - **FC** 94 Qa (9.4E16)
+![](/realm/assets/img/picks/GemGrinderTier5.png "Gem Grinder") **Tier**: 5 - **coins** 1.293 Qitg (1.293E108) - **FC** 94 Qa (9.4E16)
 
 ---
 
@@ -98,13 +98,13 @@ Unlocking Tier spell upgrades only need to be done once, but you will still need
 
 **Fairy Chanting, Moon Blessing, Goblin's Greed ect.**
 
-![](/realm/img/picks/FairyChantingTier2.png "FairyChanting") **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 10 B (1E10)
+![](/realm/assets/img/picks/FairyChantingTier2.png "FairyChanting") **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 10 B (1E10)
 
-![](/realm/img/picks/FairyChantingTier3.png "FairyChanting") **Tier**: 3 - **coins** 4.629 Dvg (4.629E69) - **FC** 3 T (3.16E12)
+![](/realm/assets/img/picks/FairyChantingTier3.png "FairyChanting") **Tier**: 3 - **coins** 4.629 Dvg (4.629E69) - **FC** 3 T (3.16E12)
 
-![](/realm/img/picks/FairyChantingTier4.png "FairyChanting") **Tier**: 4 - **coins** 396.8 Sxvg (3.968E83) - **FC** 1 Qa (1E15)
+![](/realm/assets/img/picks/FairyChantingTier4.png "FairyChanting") **Tier**: 4 - **coins** 396.8 Sxvg (3.968E83) - **FC** 1 Qa (1E15)
 
-![](/realm/img/picks/FairyChantingTier5.png "FairyChanting") **Tier**: 5 - **coins** 34.01 Utg (3.401E97) - **FC** 316 Qa (3.16E17)
+![](/realm/assets/img/picks/FairyChantingTier5.png "FairyChanting") **Tier**: 5 - **coins** 34.01 Utg (3.401E97) - **FC** 316 Qa (3.16E17)
 
 **Tier**: 2 - **coins** 54 Spd (5.4E55) - **FC** 10 B (1E10)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/realm/img/picks/FactionGrid.png" usemap="#FactionGrid-map">
+<img src="/realm/assets/img/picks/FactionGrid.png" usemap="#FactionGrid-map">
 <map name="FactionGrid-map">
     <area target="_self" research="Fairy" href="/realm/FairyFaction" coords="6,8,58,59" shape="rect">
     <area target="_self" research="Elf" href="/realm/ElfFaction" coords="66,7,115,59" shape="rect">
@@ -44,7 +44,7 @@ Good Factions are oriented to a more active game-play, focusing on spells and tr
 
 **[Fairy](/realm/FairyFaction)**
 
-[![Fairy](/realm/img/picks/Fairy.png "Fairy")](/realm/FairyFaction)
+[![Fairy](/realm/assets/img/picks/Fairy.png "Fairy")](/realm/FairyFaction)
 
 Focuses on assistants and boosts the three lowest tier buildings.
 
@@ -56,7 +56,7 @@ Focuses on assistants and boosts the three lowest tier buildings.
 
 **[Elf](/realm/ElfFaction)**
 
-[![Elf](/realm/img/picks/Elf.png "Elf")](/realm/ElfFaction)
+[![Elf](/realm/assets/img/picks/Elf.png "Elf")](/realm/ElfFaction)
 
 Focuses on clicking and faction coins
 
@@ -68,7 +68,7 @@ Focuses on clicking and faction coins
 
 **[Angel](/realm/AngelFaction)**
 
-[![Angel](/realm/img/picks/Angel.png "Angel")](/realm/AngelFaction)
+[![Angel](/realm/assets/img/picks/Angel.png "Angel")](/realm/AngelFaction)
 
 Increases mana regen
 
@@ -84,7 +84,7 @@ Evil Factions are oriented to a more idle game-play, focusing on steady and pass
 
 **[Goblin](/realm/GoblinFaction)**
 
-[![Goblin](/realm/img/picks/Goblin.png "Goblin")](/realm/GoblinFaction)
+[![Goblin](/realm/assets/img/picks/Goblin.png "Goblin")](/realm/GoblinFaction)
 
 Cheaper buildings and greed for money
 
@@ -96,7 +96,7 @@ Cheaper buildings and greed for money
 
 **[Undead](/realm/UndeadFaction)**
 
-[![Undead](/realm/img/picks/Undead.png "Undead")](/realm/UndeadFaction)
+[![Undead](/realm/assets/img/picks/Undead.png "Undead")](/realm/UndeadFaction)
 
 Focuses on long plays increasing production and assistants based on time
 
@@ -108,7 +108,7 @@ Focuses on long plays increasing production and assistants based on time
 
 **[Demon](/realm/DemonFaction)**
 
-[![Demon](/realm/img/picks/Demon.png "Demon")](/realm/DemonFaction)
+[![Demon](/realm/assets/img/picks/Demon.png "Demon")](/realm/DemonFaction)
 
 Increases the highest tiers of building productions and trophy perks.
 
@@ -124,7 +124,7 @@ The Neutral Factions were added in the Ancient Races expansion, they cover a mix
 
 **[Titan](/realm/TitanFaction)**
 
-[![Titan](/realm/img/picks/Titan.png "Titan")](/realm/TitanFaction)
+[![Titan](/realm/assets/img/picks/Titan.png "Titan")](/realm/TitanFaction)
 
 Can be very powerful... when lucky.
 
@@ -138,7 +138,7 @@ Can be very powerful... when lucky.
 
 **[Druid](/realm/DruidFaction)**
 
-[![Druid](/realm/img/picks/Druid.png "Druid")](/realm/DruidFaction)
+[![Druid](/realm/assets/img/picks/Druid.png "Druid")](/realm/DruidFaction)
 
 About magic and balance.
 
@@ -152,7 +152,7 @@ About magic and balance.
 
 **[Faceless](/realm/FacelessFaction)**
 
-[![Faceless](/realm/img/picks/Faceless.png "Faceless")](/realm/FacelessFaction)
+[![Faceless](/realm/assets/img/picks/Faceless.png "Faceless")](/realm/FacelessFaction)
 
 Feature perks that becomes stronger with time.
 
@@ -170,7 +170,7 @@ Part of the Underworld expansion, Prestige Factions are purchased in "addition t
 
 **[Dwarf](/realm/DwarfFaction)**
 
-[![Dwarves](/realm/img/picks/Dwarves.png "Dwarves")](/realm/DwarfFaction)
+[![Dwarves](/realm/assets/img/picks/Dwarves.png "Dwarves")](/realm/DwarfFaction)
 
 **Alignment: Good**
 
@@ -182,7 +182,7 @@ Enhances the Good Vanilla Faction they are associated with.
 
 **[Drow](/realm/DrowFaction)**
 
-[![Drow](/realm/img/picks/Drow.png "Drow")](/realm/DrowFaction)
+[![Drow](/realm/assets/img/picks/Drow.png "Drow")](/realm/DrowFaction)
 
 **Alignment: Evil**
 
@@ -196,7 +196,7 @@ Enhances the Evil Vanilla Faction they are associated with.
 
 **[Dragon](/realm/DragonFaction)**
 
-[![Dragon](/realm/img/picks/DragonChampionTrophy.png "Dragon")](/realm/DragonFaction)
+[![Dragon](/realm/assets/img/picks/DragonChampionTrophy.png "Dragon")](/realm/DragonFaction)
 
 **Alignment: Neutral**
 
@@ -214,7 +214,7 @@ Mercenaries were added in the After-life expansion as an ultimate powerhouse. Se
 
 **[Mercenary](/realm/MercenaryFaction)**
 
-[![Mercenary](/realm/img/picks/Mercenary.png "Mercenary")](/realm/MercenaryFaction)
+[![Mercenary](/realm/assets/img/picks/Mercenary.png "Mercenary")](/realm/MercenaryFaction)
 
 **Alignment: Any**
 

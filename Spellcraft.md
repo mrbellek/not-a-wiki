@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
+###### [![](/realm/assets/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
 
 ###### Spellcraft Facility
 
-![](/realm/img/picks/Spellcraftr.png "Spellcraft") **Spellcraft**
+![](/realm/assets/img/picks/Spellcraftr.png "Spellcraft") **Spellcraft**
 
 Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.
 

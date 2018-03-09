@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Spellcraft](/realm/img/picks/DemonTopPage.png "Spellcraft")](/realm/Factions/)
+###### [![Spellcraft](/realm/assets/img/picks/DemonTopPage.png "Spellcraft")](/realm/Factions/)
 
-![Champion Trophy](/realm/img/picks/Demon.png "Champion Trophy") **Champion Trophy**
+![Champion Trophy](/realm/assets/img/picks/Demon.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -26,7 +26,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: 200 * x ^ 0.8, where x is your Trophies Unlocked stat.
 
-**Spell Trophy & Upgrade**: ![Hell Rush](/realm/img/picks/HellRushFactionUpgrade.png "Hell Rush")  **Hell Rush**
+**Spell Trophy & Upgrade**: ![Hell Rush](/realm/assets/img/picks/HellRushFactionUpgrade.png "Hell Rush")  **Hell Rush**
 
 **Effect**: Hellfire Blast also boosts Halls of Legends.
 
@@ -36,25 +36,25 @@ All Vanilla Factions are enabled by default
 
 **Tier 1 Upgrades**
 
-![Demon Trade Treaty](/realm/img/picks/DemonsTradeTreaty.png "Demon Trade Treaty") **Demon Trade Treaty**
+![Demon Trade Treaty](/realm/assets/img/picks/DemonsTradeTreaty.png "Demon Trade Treaty") **Demon Trade Treaty**
 
 **Cost**: 20 Demon Coins
 
 **Effect**: Unlocks Demon Upgrades.
 
-![Torture Chambers](/realm/img/picks/TortureChambersFactionUpgrade.png "Torture Chambers") **Torture Chambers**
+![Torture Chambers](/realm/assets/img/picks/TortureChambersFactionUpgrade.png "Torture Chambers") **Torture Chambers**
 
 **Cost**: 50 M (5E7)
 
 **Effect**: Increase the production of Evil Fortresses by 5% per assistants you own.
 
-![Devil Tyrant](/realm/img/picks/DevilTyrantFactionUpgrade.png "Devil Tyrant") **Devil Tyrant**
+![Devil Tyrant](/realm/assets/img/picks/DevilTyrantFactionUpgrade.png "Devil Tyrant") **Devil Tyrant**
 
 **Cost**: 500 M (5E8)
 
 **Effect**: Increase the production of the three highest tier buildings by 0.5% per Trophy
 
-![Evil Conquerors](/realm/img/picks/EvilConquerorsFactionUpgrade.png "Evil Conquerors") **Evil Conquerors**
+![Evil Conquerors](/realm/assets/img/picks/EvilConquerorsFactionUpgrade.png "Evil Conquerors") **Evil Conquerors**
 
 **Cost**: 5 B (5E9)
 
@@ -64,25 +64,25 @@ All Vanilla Factions are enabled by default
 
 **Tier 2 Upgrades**
 
-![Demon Friendship Pact](/realm/img/picks/DemonsFriendshipPact.png "Demon Friendship Pact") **Demon Friendship Pact**
+![Demon Friendship Pact](/realm/assets/img/picks/DemonsFriendshipPact.png "Demon Friendship Pact") **Demon Friendship Pact**
 
 **Cost**: 100 Demon Coins
 
 **Effect**: Unlocks more Demon Upgrades.
 
-![Lava Pits](/realm/img/picks/LavaPitsFactionUpgrade.png "Lava Pits") **Lava Pits**
+![Lava Pits](/realm/assets/img/picks/LavaPitsFactionUpgrade.png "Lava Pits") **Lava Pits**
 
 **Cost**: 500 B (5E11)
 
 **Effect**: Increase the base production of Evil Fortresses and Hell Portals by +200,000.
 
-![Demon Overseers](/realm/img/picks/DemonOverseersFactionUpgrade.png "Demon Overseers") **Demon Overseers**
+![Demon Overseers](/realm/assets/img/picks/DemonOverseersFactionUpgrade.png "Demon Overseers") **Demon Overseers**
 
 **Cost**: 5 T (5E12)
 
 **Effect**: Increase the production of the three highest tier buildings by 0.5% per Trophy.
 
-![Demonic Presence](/realm/img/picks/DemonicPresenceFactionUpgrade.png "Demonic Presence") **Demonic Presence**
+![Demonic Presence](/realm/assets/img/picks/DemonicPresenceFactionUpgrade.png "Demonic Presence") **Demonic Presence**
 
 **Cost**: 50 T (5E13)
 
@@ -92,13 +92,13 @@ All Vanilla Factions are enabled by default
 
 **Tier 3 Upgrades**
 
-![Demon Alliance](/realm/img/picks/DemonsAllianceFactionUpgrade.png "Demon Alliance") **Demon Alliance**
+![Demon Alliance](/realm/assets/img/picks/DemonsAllianceFactionUpgrade.png "Demon Alliance") **Demon Alliance**
 
 **Cost**: 500 Demons Coins
 
 **Effect**: Unlocks more Demon Upgrades.
 
-![Infernal Magic](/realm/img/picks/InfernalMagicFactionUpgrade.png "Infernal Magic") **Infernal Magic**
+![Infernal Magic](/realm/assets/img/picks/InfernalMagicFactionUpgrade.png "Infernal Magic") **Infernal Magic**
 
 **Cost**: 5 Qa (5E15)
 
@@ -106,7 +106,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: x^0.325, where x is the number of Hell Portals you own.
 
-![Burning Legion](/realm/img/picks/BurningLegionFactionUpgrade.png "Burning Legion") **Burning Legion**
+![Burning Legion](/realm/assets/img/picks/BurningLegionFactionUpgrade.png "Burning Legion") **Burning Legion**
 
 **Cost**: 50 Qa (5E16)
 
@@ -114,7 +114,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: floor(sqrt(1+2.5 * x)-1), where x is the number of Hell Portals you own.
 
-![Very Bad Guys](/realm/img/picks/VeryBadGuysFactionUpgrade.png "Very Bad Guys") **Very Bad Guys**
+![Very Bad Guys](/realm/assets/img/picks/VeryBadGuysFactionUpgrade.png "Very Bad Guys") **Very Bad Guys**
 
 **Cost**: 500 Qa (5E17)
 
@@ -122,7 +122,7 @@ All Vanilla Factions are enabled by default
 
 ---
 
-![Demonic Heritage](/realm/img/picks/DemonicHeritage.png "Demonic Heritage") **Demonic Heritage**
+![Demonic Heritage](/realm/assets/img/picks/DemonicHeritage.png "Demonic Heritage") **Demonic Heritage**
 
 **Cost**: 5000 Demon Coins
 
@@ -134,7 +134,7 @@ All Vanilla Factions are enabled by default
 
 **Demon Research Requirements**
 
-![Infernal Realm Quest](/realm/img/picks/InfernalRealmQuestFactionUpgrade.png "Infernal Realm Quest") **Infernal Realm Quest**
+![Infernal Realm Quest](/realm/assets/img/picks/InfernalRealmQuestFactionUpgrade.png "Infernal Realm Quest") **Infernal Realm Quest**
 
 Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!
 
@@ -142,7 +142,7 @@ Useless underling, be warned! The Demons are going to invade your world with all
 
 **Cost**: 10 Dtg (1E100)
 
-![Infernal Realm](/realm/img/picks/InfernalRealmFactionUpgrade.png "Infernal Realm") **Infernal Realm**
+![Infernal Realm](/realm/assets/img/picks/InfernalRealmFactionUpgrade.png "Infernal Realm") **Infernal Realm**
 
 Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.
 
@@ -152,7 +152,7 @@ Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per T
 
 **Cost**: 10 Ttg (1E103)
 
-![Strategy Room](/realm/img/picks/StrategyRoomFactionUpgrade.png "Strategy Room") **Strategy Room**
+![Strategy Room](/realm/assets/img/picks/StrategyRoomFactionUpgrade.png "Strategy Room") **Strategy Room**
 
 **Effect**: Unlocks the Warfare research facility and increases Demon production by 100000%, plus an additional bonus based on Warfare research points.
 
@@ -164,7 +164,7 @@ Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per T
 
 **Unique Building**
 
-![Demon Unique Building](/realm/img/picks/DemonUniqueBuilding.png "Demon Unique Building")
+![Demon Unique Building](/realm/assets/img/picks/DemonUniqueBuilding.png "Demon Unique Building")
 
 Upgraded from Hell Portals
 

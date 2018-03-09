@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Faceless Challenge 1**
 
-![](/realm/img/picks/RecruitmentChallenges.png "Recruitment") **Recruitment**
+![](/realm/assets/img/picks/RecruitmentChallenges.png "Recruitment") **Recruitment**
 
 You are always growing - but what to do when you can only start from a single cell with no means of survival?
 
@@ -36,7 +36,7 @@ Buy **All** Faceless upgrades and click 1 at a time when buying upgrades, be sur
 
 **Faceless Challenge 2**
 
-![](/realm/img/picks/MysticMazeChallenges.png "Mystic Maze") **Mystic Maze**
+![](/realm/assets/img/picks/MysticMazeChallenges.png "Mystic Maze") **Mystic Maze**
 
 Your hive superiors have ordered you to setup a base without alerting any nearby enemies
 
@@ -54,7 +54,7 @@ Your hive superiors have ordered you to setup a base without alerting any nearby
 
 **Faceless Challenge 3**
 
-![](/realm/img/picks/CyclopeanArmyChallenges.png "Cyclopean Army") **Cyclopean Army**
+![](/realm/assets/img/picks/CyclopeanArmyChallenges.png "Cyclopean Army") **Cyclopean Army**
 
 Our enemies, the Outer Gods, have returned. Use mind control to enhance our forces and repel this threat.
 
@@ -72,7 +72,7 @@ Our enemies, the Outer Gods, have returned. Use mind control to enhance our forc
 
 **Faceless Challenge 4**
 
-![](/realm/img/picks/OmnipresenceChallenges.png "Omnipresence") **Omnipresence**
+![](/realm/assets/img/picks/OmnipresenceChallenges.png "Omnipresence") **Omnipresence**
 
 We are suffering attacks from another Hive. It's time to remind them the power of our master.
 
@@ -96,7 +96,7 @@ TC2 adds 10% of the playtime of **all other factions** to the Hive Mind calculat
 
 **In-Game Challenge Final Reward**
 
-![](/realm/img/picks/FocusedThoughtsChallenges.png "Focused Thoughts") **Focused Thoughts**
+![](/realm/assets/img/picks/FocusedThoughtsChallenges.png "Focused Thoughts") **Focused Thoughts**
 
 **Effect**: Give Brainwave a headstart based on the amount of times you cast it in this game, with a minimum of 1 minute,then grows up to maximum.
 

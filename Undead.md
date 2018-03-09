@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Undead Challenge 1**
 
-![](/realm/img/picks/DeadlyImpatienceChallenges.png "Deadly Impatience") **Deadly Impatience**
+![](/realm/assets/img/picks/DeadlyImpatienceChallenges.png "Deadly Impatience") **Deadly Impatience**
 
 The walking dead aren't very fond of a living being among their kind. Fortunately for you, an army of shambling corpses is slow to both think and move.
 
@@ -28,7 +28,7 @@ Awarded if your playtime is at least 11h, 6m, 40s and you have True Night and th
 
 **Undead Challenge 2**
 
-![](/realm/img/picks/ExperiencedHelpersChallenges.png "Experienced Helpers") **Experienced Helpers**
+![](/realm/assets/img/picks/ExperiencedHelpersChallenges.png "Experienced Helpers") **Experienced Helpers**
 
 The walking dead, pleased with your newfound strenghs, send you on a mission to reap as many souls as possible under the cover of the Night to bolster their forces.
 
@@ -44,7 +44,7 @@ The walking dead, pleased with your newfound strenghs, send you on a mission to 
 
 **Undead Challenge 3**
 
-![](/realm/img/picks/DeathKnightsChallenges.png "Death Knights") **Death Knights**
+![](/realm/assets/img/picks/DeathKnightsChallenges.png "Death Knights") **Death Knights**
 
 The walking dead are prepared for a zombie invasion.Their last task for you is to loot the local cemeteries for possible equipment.
 
@@ -62,7 +62,7 @@ The walking dead are prepared for a zombie invasion.Their last task for you is t
 
 **In-Game Challenge Final Reward**
 
-![](/realm/img/picks/MidnightTimeChallenges.png "Midnight Time") **Midnight Time**
+![](/realm/assets/img/picks/MidnightTimeChallenges.png "Midnight Time") **Midnight Time**
 
 **Effect**: Increase Night Time assistant bonus based on total time spent offline.
 

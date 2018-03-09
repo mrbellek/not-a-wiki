@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/TrophiesTopPage.png)
+###### ![](/realm/assets/img/picks/TrophiesTopPage.png)
 
-![](/realm/img/picks/1Reincarnation.png "1 Reincarnation") **1 Reincarnation**
+![](/realm/assets/img/picks/1Reincarnation.png "1 Reincarnation") **1 Reincarnation**
 
 **Requirement**: Reincarnate 1 time
 
@@ -12,7 +12,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/3Reincarnations.png "3 Reincarnations") **3 Reincarnations**
+![](/realm/assets/img/picks/3Reincarnations.png "3 Reincarnations") **3 Reincarnations**
 
 **Requirement**: Reincarnate 3 times
 
@@ -20,7 +20,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/5Reincarnations.png "5 Reincarnations") **5 Reincarnations**
+![](/realm/assets/img/picks/5Reincarnations.png "5 Reincarnations") **5 Reincarnations**
 
 **Requirement**: Reincarnate 5 times
 
@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/7Reincarnations.png "7 Reincarnations") **7 Reincarnations**
+![](/realm/assets/img/picks/7Reincarnations.png "7 Reincarnations") **7 Reincarnations**
 
 **Requirement**: Reincarnate 7 times
 
@@ -36,7 +36,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/10Reincarnations.png "10 Reincarnations") **10 Reincarnations**
+![](/realm/assets/img/picks/10Reincarnations.png "10 Reincarnations") **10 Reincarnations**
 
 **Requirement**: Reincarnate 10 times
 
@@ -44,13 +44,13 @@ layout: default
 
 ---
 
-![](/realm/img/picks/12Reincarnations.png "12 Reincarnations") **12 Reincarnations**
+![](/realm/assets/img/picks/12Reincarnations.png "12 Reincarnations") **12 Reincarnations**
 
 **Requirement**: Reincarnate 12 times
 
 ---
 
-![](/realm/img/picks/15Reincarnations.png "15 Reincarnations") **15 Reincarnations**
+![](/realm/assets/img/picks/15Reincarnations.png "15 Reincarnations") **15 Reincarnations**
 
 **Requirement**: Reincarnate 15 times
 
@@ -58,7 +58,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/20Reincarnations.png "20 Reincarnations") **20 Reincarnations**
+![](/realm/assets/img/picks/20Reincarnations.png "20 Reincarnations") **20 Reincarnations**
 
 **Requirement**: Reincarnate 20 times
 
@@ -66,7 +66,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/25Reincarnations.png "25 Reincarnations") **25 Reincarnations**
+![](/realm/assets/img/picks/25Reincarnations.png "25 Reincarnations") **25 Reincarnations**
 
 **Requirement**: Reincarnate 25 times
 
@@ -74,7 +74,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/30Reincarnations.png "30 Reincarnations") **30 Reincarnations**
+![](/realm/assets/img/picks/30Reincarnations.png "30 Reincarnations") **30 Reincarnations**
 
 **Requirement**: Reincarnate 30 times
 
@@ -82,7 +82,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/35Reincarnations.png "35 Reincarnations") **35 Reincarnations**
+![](/realm/assets/img/picks/35Reincarnations.png "35 Reincarnations") **35 Reincarnations**
 
 **Requirement**: Reincarnate 35 times
 
@@ -90,7 +90,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/40Reincarnations.png "40 Reincarnations") **40 Reincarnations**
+![](/realm/assets/img/picks/40Reincarnations.png "40 Reincarnations") **40 Reincarnations**
 
 **Requirement**: Reincarnate 40 times
 
@@ -98,7 +98,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/45Reincarnations.png "45 Reincarnations") **45 Reincarnations**
+![](/realm/assets/img/picks/45Reincarnations.png "45 Reincarnations") **45 Reincarnations**
 
 **Requirement**: Reincarnate 45 times
 
@@ -106,7 +106,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/50Reincarnations.png "50 Reincarnations") **50 Reincarnations**
+![](/realm/assets/img/picks/50Reincarnations.png "50 Reincarnations") **50 Reincarnations**
 
 **Requirement**: Reincarnate 50 times
 
@@ -114,7 +114,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/60Reincarnations.png "60 Reincarnations") **60 Reincarnations**
+![](/realm/assets/img/picks/60Reincarnations.png "60 Reincarnations") **60 Reincarnations**
 
 **Requirement**: Reincarnate 60 times
 
@@ -122,7 +122,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/70Reincarnations.png "70  Reincarnations") **70 Reincarnations**
+![](/realm/assets/img/picks/70Reincarnations.png "70  Reincarnations") **70 Reincarnations**
 
 **Requirement**: Reincarnate 70 times
 
@@ -130,7 +130,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/85Reincarnations.png "85  Reincarnations") **85 Reincarnations**
+![](/realm/assets/img/picks/85Reincarnations.png "85  Reincarnations") **85 Reincarnations**
 
 **Requirement**: Reincarnate 85 times
 
@@ -138,7 +138,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/100Reincarnations.png "100  Reincarnations") **100 Reincarnations**
+![](/realm/assets/img/picks/100Reincarnations.png "100  Reincarnations") **100 Reincarnations**
 
 **Requirement**: Reincarnate 100 times
 

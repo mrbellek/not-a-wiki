@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/TrophiesTopPage.png)
+###### ![](/realm/assets/img/picks/TrophiesTopPage.png)
 
 ###### Secret Trophies
 
@@ -18,7 +18,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/LeetSecretTrophy.png "Leet") **Leet**
+![](/realm/assets/img/picks/LeetSecretTrophy.png "Leet") **Leet**
 
 **Requirement**: Have exactly 1337 Coins at any given time.
 
@@ -30,7 +30,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/UnitarySecretTrophy.png "Unitary") **Unitary**
+![](/realm/assets/img/picks/UnitarySecretTrophy.png "Unitary") **Unitary**
 
 **Requirement**: Have exactly 1 of each building at any given time.
 
@@ -42,7 +42,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/BuildingHaterSecretTrophy.png "Building Hater") **Building Hater**
+![](/realm/assets/img/picks/BuildingHaterSecretTrophy.png "Building Hater") **Building Hater**
 
 **Requirement**: Reach 100'000 coins without building anything.
 
@@ -58,7 +58,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/GrandDiplomatSecretTrophy.png "Grand Diplomat") **Grand Diplomat**
+![](/realm/assets/img/picks/GrandDiplomatSecretTrophy.png "Grand Diplomat") **Grand Diplomat**
 
 **Requirement**: Ally with each Vanilla, Neutral and Prestige factions at least once.
 
@@ -70,7 +70,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/ExchangeMasterSecretTrophy.png "Exchange Master") **Exchange Master**
+![](/realm/assets/img/picks/ExchangeMasterSecretTrophy.png "Exchange Master") **Exchange Master**
 
 **Requirement**: Purchase 500 Royal Exchanges in a single game.
 
@@ -82,7 +82,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/LuckyNeutralSecretTrophy.png "Lucky Neutral") **Lucky Neutral**
+![](/realm/assets/img/picks/LuckyNeutralSecretTrophy.png "Lucky Neutral") **Lucky Neutral**
 
 **Requirement**: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)
 
@@ -96,7 +96,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/PerfectlyGoodSecretTrophy.png "Perfectly Good") **Perfectly Good**
+![](/realm/assets/img/picks/PerfectlyGoodSecretTrophy.png "Perfectly Good") **Perfectly Good**
 
 **Requirement**: Spend 333 hours being Good across all reincarnations.(= 13d 21h)
 
@@ -110,7 +110,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/DiabolicalEvilSecretTrophy.png "Diabolical Evil") **Diabolical Evil**
+![](/realm/assets/img/picks/DiabolicalEvilSecretTrophy.png "Diabolical Evil") **Diabolical Evil**
 
 **Requirement**: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s)
 
@@ -124,7 +124,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/AssistantSquasherSecretTrophy.png "Assistant Squasher") **Assistant Squasher**
+![](/realm/assets/img/picks/AssistantSquasherSecretTrophy.png "Assistant Squasher") **Assistant Squasher**
 
 **Requirement**: Click 100 times on the little assistant in the background.
 
@@ -136,7 +136,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/RewindSecretTrophy.png "Rewind") **Rewind**
+![](/realm/assets/img/picks/RewindSecretTrophy.png "Rewind") **Rewind**
 
 **Requirement**: Abdicate after producing at least 1 Oc (1E27) Coins.
 
@@ -152,7 +152,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/FactionGrinderSecretTrophy.png "Faction Grinder") **Faction Grinder**
+![](/realm/assets/img/picks/FactionGrinderSecretTrophy.png "Faction Grinder") **Faction Grinder**
 
 **Requirement**: Purchase all the Vanilla Faction Heritage upgrades in a single game.
 
@@ -164,7 +164,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/MasterArcheologistSecretTrophy.png "Master Archeologist") **Master Archeologist**
+![](/realm/assets/img/picks/MasterArcheologistSecretTrophy.png "Master Archeologist") **Master Archeologist**
 
 **Requirement**: Titans, Druids, and Faceless)
 
@@ -180,7 +180,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/SpellfurySecretTrophy.png "Spellfury") **Spellfury**
+![](/realm/assets/img/picks/SpellfurySecretTrophy.png "Spellfury") **Spellfury**
 
 **Requirement**: Cast the Tax Collection spell while having 3 other spells active.
 
@@ -192,7 +192,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speedrun**
+![](/realm/assets/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speedrun**
 
 **Requirement**: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.
 
@@ -206,7 +206,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/EqualitySecretTrophy.png "Equality") **Equality**
+![](/realm/assets/img/picks/EqualitySecretTrophy.png "Equality") **Equality**
 
 **Requirement**: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments (Good, Evil, Neutral) (This R).
 
@@ -224,7 +224,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/BeardCarpetSecretTrophy.png "Beard Carpet") **Beard Carpet**
+![](/realm/assets/img/picks/BeardCarpetSecretTrophy.png "Beard Carpet") **Beard Carpet**
 
 **Requirement**: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade.
 
@@ -239,7 +239,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 **Note**: This takes 3d 11h 20m and can be done at R0.
 ---
 
-![](/realm/img/picks/PremeditationSecretTrophy.png "Premeditation") **Premeditation**
+![](/realm/assets/img/picks/PremeditationSecretTrophy.png "Premeditation") **Premeditation**
 
 **Requirement**: Buy 850 Dark Temples on any individual run before affiliating with the Drow.
 
@@ -251,7 +251,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/FastForwardSecretTrophy.png "Fast Forward") **Fast Forward**
+![](/realm/assets/img/picks/FastForwardSecretTrophy.png "Fast Forward") **Fast Forward**
 
 **Requirement**: Accumulate a total offline time of at least 88 hours. The sum of all your offlie nreports counts towards this purpose. (3d 16h, This R)
 
@@ -267,7 +267,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/NeedaHeadStartSecretTrophy.png "Need a Head Start?") **Need a Head Start?**
+![](/realm/assets/img/picks/NeedaHeadStartSecretTrophy.png "Need a Head Start?") **Need a Head Start?**
 
 **Requirement**: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything.
 
@@ -279,7 +279,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/RealmDiggerSecretTrophy.png "Realm Digger") **Realm Digger**
+![](/realm/assets/img/picks/RealmDiggerSecretTrophy.png "Realm Digger") **Realm Digger**
 
 **Requirement**: Excavate 400 times.
 
@@ -291,7 +291,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/HarlequinSecretTrophy.png "Harlequin") **Harlequin**
+![](/realm/assets/img/picks/HarlequinSecretTrophy.png "Harlequin") **Harlequin**
 
 **Requirement**: As a Mercenary, purchase one upgrade from 11 different factions.
 
@@ -303,7 +303,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/LuciferSecretTrophy.png "Lucifer") **Lucifer**
+![](/realm/assets/img/picks/LuciferSecretTrophy.png "Lucifer") **Lucifer**
 
 **Requirement**: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.
 
@@ -317,7 +317,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/MathematicianSecretTrophy.png "Mathematician") **Mathematician**
+![](/realm/assets/img/picks/MathematicianSecretTrophy.png "Mathematician") **Mathematician**
 
 **Requirement**: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms. (1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)
 
@@ -329,7 +329,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/MercenarySpiritSecretTrophy.png "Mercenary Spirit") **Mercenary Spirit**
+![](/realm/assets/img/picks/MercenarySpiritSecretTrophy.png "Mercenary Spirit") **Mercenary Spirit**
 
 **Requirement**: Reincarnate while playing as a Mercenary.
 
@@ -341,7 +341,7 @@ All upgrades bought with gold pre-Ascension are free post-Ascension.
 
 ---
 
-![](/realm/img/picks/BloodstreamSecretTrophy.png "Bloodstream") **Bloodstream**
+![](/realm/assets/img/picks/BloodstreamSecretTrophy.png "Bloodstream") **Bloodstream**
 
 **Requirement**: Unlock all Bloodlines. (excluding the Dragon bloodline)
 
@@ -357,7 +357,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/UnlimitedManaSecretTrophy.png "Unlimited Mana") **Unlimited Mana**
+![](/realm/assets/img/picks/UnlimitedManaSecretTrophy.png "Unlimited Mana") **Unlimited Mana**
 
 **Requirement**: Have at least 300 mana per second.
 
@@ -367,7 +367,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ForScience!SecretTrophy.png "For Science!") **For Science!**
+![](/realm/assets/img/picks/ForScience!SecretTrophy.png "For Science!") **For Science!**
 
 **Requirement**: Purchase all the research facilities.
 
@@ -383,7 +383,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ExchangeLordSecretTrophy.png "Exchange Lord") **Exchange Lord**
+![](/realm/assets/img/picks/ExchangeLordSecretTrophy.png "Exchange Lord") **Exchange Lord**
 
 **Requirement**: Purchase 1500 Royal Exchanges in a single game.
 
@@ -393,7 +393,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/MagicianSecretTrophy.png "Magician") **Magician**
+![](/realm/assets/img/picks/MagicianSecretTrophy.png "Magician") **Magician**
 
 **Requirement**: Discover at least 10 Spellcraft Researches.
 
@@ -403,7 +403,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ArtisanSecretTrophy.png "Artisan") **Artisan**
+![](/realm/assets/img/picks/ArtisanSecretTrophy.png "Artisan") **Artisan**
 
 **Requirement**: Discover at least 10 Craftsmanship Researches.
 
@@ -413,7 +413,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/DemigodSecretTrophy.png "Demigod") **Demigod**
+![](/realm/assets/img/picks/DemigodSecretTrophy.png "Demigod") **Demigod**
 
 **Requirement**: Discover at least 10 Divine Researches.
 
@@ -423,7 +423,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/BusinessmanSecretTrophy.png "Businessman") **Businessman**
+![](/realm/assets/img/picks/BusinessmanSecretTrophy.png "Businessman") **Businessman**
 
 **Requirement**: Discover at least 10 Economics Researches.
 
@@ -433,7 +433,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ApothecarySecretTrophy.png "Apothecary") **Apothecary**
+![](/realm/assets/img/picks/ApothecarySecretTrophy.png "Apothecary") **Apothecary**
 
 **Requirement**: Discover at least 10 Alchemy Researches.
 
@@ -443,7 +443,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/WarlordSecretTrophy.png "Warlord") **Warlord**
+![](/realm/assets/img/picks/WarlordSecretTrophy.png "Warlord") **Warlord**
 
 **Requirement**: Discover at least 10 Warfare Researches.
 
@@ -453,7 +453,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/FactionRunSecretTrophy.png "Faction Run") **Faction Run**
+![](/realm/assets/img/picks/FactionRunSecretTrophy.png "Faction Run") **Faction Run**
 
 **Requirement**: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell. (Can be done from around R20+)
 
@@ -477,7 +477,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/NoRecruitingSecretTrophy.png "NoRecruiting") **No Recruiting**
+![](/realm/assets/img/picks/NoRecruitingSecretTrophy.png "NoRecruiting") **No Recruiting**
 
 **Requirement**: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.
 
@@ -491,7 +491,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ThatExcavatedQuicklySecretTrophy.png "That Excavated Quickly") **That Excavated Quickly**
+![](/realm/assets/img/picks/ThatExcavatedQuicklySecretTrophy.png "That Excavated Quickly") **That Excavated Quickly**
 
 **Requirement**: Excavate 1000 times in the first 30 seconds of a run (This Game)
 
@@ -503,7 +503,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/glhokohhlsnodSecretTrophy.png "glho kohhl snod") **glho kohhl snod**
+![](/realm/assets/img/picks/glhokohhlsnodSecretTrophy.png "glho kohhl snod") **glho kohhl snod**
 
 **Requirement**: Import 'glho kohhl snod' into your game without the quotes.
 
@@ -515,7 +515,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ManaMatrixSecretTrophy.png "Mana Matrix") **Mana Matrix**
+![](/realm/assets/img/picks/ManaMatrixSecretTrophy.png "Mana Matrix") **Mana Matrix**
 
 **Requirement**: Have exactly 4767 maximum Mana.
 
@@ -525,7 +525,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/SuggestionMasterSecretTrophy.png "Suggestion Master") **Suggestion Master**
+![](/realm/assets/img/picks/SuggestionMasterSecretTrophy.png "Suggestion Master") **Suggestion Master**
 
 **Requirement**: Open the changelog and ponder about what could be added in there for 3 minutes.
 
@@ -539,7 +539,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/Rule'disSecretTrophy.png "Rule 'dis") **Rule 'dis**
+![](/realm/assets/img/picks/Rule'disSecretTrophy.png "Rule 'dis") **Rule 'dis**
 
 **Requirement**: Abdicate 10 times within 3 minutes.
 
@@ -551,7 +551,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/BecauseILiketoGrindSecretTrophy.png "Because I Like to Grind") **Because I Like to Grind**
+![](/realm/assets/img/picks/BecauseILiketoGrindSecretTrophy.png "Because I Like to Grind") **Because I Like to Grind**
 
 **Requirement**: Spend at least 3 hours playing in this game.
 
@@ -563,7 +563,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/TripleWeirdnessSecretTrophy.png "Because I Like to Grind") **Triple Weirdness**
+![](/realm/assets/img/picks/TripleWeirdnessSecretTrophy.png "Because I Like to Grind") **Triple Weirdness**
 
 **Requirement**: 333 of each Royal Exchange, R40+
 
@@ -575,7 +575,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/StoicResistanceSecretTrophy.png "Stoic Resistance") **Stoic Resistance**
+![](/realm/assets/img/picks/StoicResistanceSecretTrophy.png "Stoic Resistance") **Stoic Resistance**
 
 **Requirement**: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.
 
@@ -587,7 +587,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/Van!shmentSecretTrophy.png "Van!shment") **Van!shment**
+![](/realm/assets/img/picks/Van!shmentSecretTrophy.png "Van!shment") **Van!shment**
 
 **Requirement**: Reach an Offline Bonus of at least 1 Qa (1E15) % (post-ascension is 1895%).
 
@@ -599,7 +599,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/IronRushSecretTrophy.png "Iron Rush") **Iron Rush**
+![](/realm/assets/img/picks/IronRushSecretTrophy.png "Iron Rush") **Iron Rush**
 
 **Requirement**: Reach 750 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.
 
@@ -611,7 +611,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ColorfulAutocastingSecretTrophy.png "ColorfulAutocasting") **Colorful Autocasting**
+![](/realm/assets/img/picks/ColorfulAutocastingSecretTrophy.png "ColorfulAutocasting") **Colorful Autocasting**
 
 **Requirement**: Have each type of autocasting active simultaneously, R42+ (Silver,Gold,Bronze,Diamond).
 
@@ -621,7 +621,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/SpellCataclysmSecretTrophy.png "SpellCataclysm") **Spell Cataclysm**
+![](/realm/assets/img/picks/SpellCataclysmSecretTrophy.png "SpellCataclysm") **Spell Cataclysm**
 
 **Requirement**: Have at least 4 spells active on tier 5 or higher, R42+.
 
@@ -633,7 +633,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/AdvisorInsightSecretTrophy.png "Advisor Insight") **Advisor Insight**
+![](/realm/assets/img/picks/AdvisorInsightSecretTrophy.png "Advisor Insight") **Advisor Insight**
 
 **Requirement**: Click the Hint button 100 times.
 
@@ -647,7 +647,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/DragonTamerSecretTrophy.png "Dragon Tamer") **Dragon Tamer**
+![](/realm/assets/img/picks/DragonTamerSecretTrophy.png "Dragon Tamer") **Dragon Tamer**
 
 **Requirement**: Fully develop your Spiky Egg into an Elder Dragon, R46+.
 
@@ -659,7 +659,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/HeldenSterbenNichtSecretTrophy.png "Helden Sterben Nicht") **Helden Sterben Nicht**
+![](/realm/assets/img/picks/HeldenSterbenNichtSecretTrophy.png "Helden Sterben Nicht") **Helden Sterben Nicht**
 
 **Requirement**: Join Mercenaries, then Undead, then Angels within 15 minutes of selecting Mercenary.
 
@@ -677,7 +677,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ManaWasteSecretTrophy.png "Mana Waste") **Mana Waste**
+![](/realm/assets/img/picks/ManaWasteSecretTrophy.png "Mana Waste") **Mana Waste**
 
 **Requirement**: Have mana regeneration higher than max mana.
 
@@ -691,7 +691,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/PrismaticManaTrophy.png "Prismatic Mana") **Prismatic Mana**
+![](/realm/assets/img/picks/PrismaticManaTrophy.png "Prismatic Mana") **Prismatic Mana**
 
 **Requirements**: R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts each.
 
@@ -705,7 +705,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/AutoclickerSecretTrophy.png "Autoclicker") **Autoclicker**
+![](/realm/assets/img/picks/AutoclickerSecretTrophy.png "Autoclicker") **Autoclicker**
 
 **Requirements**: Perform 40 autoclicks in 1 second, R60+.
 
@@ -715,7 +715,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/ExchangeHighLordSecretTrophy.png "Exchange High Lord") **Exchange High Lord**
+![](/realm/assets/img/picks/ExchangeHighLordSecretTrophy.png "Exchange High Lord") **Exchange High Lord**
 
 **Requirements**: 5000 Royal Exchanges
 
@@ -725,7 +725,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/GenealogistSecretTrophy.png "Genealogist") **Genealogist**
+![](/realm/assets/img/picks/GenealogistSecretTrophy.png "Genealogist") **Genealogist**
 
 **Requirements**: Have a total of 300 Lineage levels across all Lineage.
 
@@ -737,7 +737,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/HolyFrenzySecretTrophy.png "Holy Frenzy") **Holy Frenzy**
+![](/realm/assets/img/picks/HolyFrenzySecretTrophy.png "Holy Frenzy") **Holy Frenzy**
 
 **Requirements**: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.
 
@@ -751,7 +751,7 @@ Formula: 0.1 * x0.65%, where x is your (adjusted) time spent affiliated with the
 
 ---
 
-![](/realm/img/picks/UniformitySecretTrophy.png "Uniformity") **Uniformity**
+![](/realm/assets/img/picks/UniformitySecretTrophy.png "Uniformity") **Uniformity**
 
 **Requirements**: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.
 

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/MercenaryTopPage.png)](/realm/Factions/)
+###### [![](/realm/assets/img/picks/MercenaryTopPage.png)](/realm/Factions/)
 
-![](/realm/img/picks/OathoftheMercenaries.png) **Oath of the Mercenaries**
+![](/realm/assets/img/picks/OathoftheMercenaries.png) **Oath of the Mercenaries**
 
 **Requirement**: Mercenary Tribute, join Mercenary for the first time.
 

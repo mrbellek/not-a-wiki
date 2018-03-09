@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Dragon Challenge 1**: 
 
-![Sky Monarch](/realm/img/picks/SkyMonarchChallenges.png "Sky Monarch") **Sky Monarch**
+![Sky Monarch](/realm/assets/img/picks/SkyMonarchChallenges.png "Sky Monarch") **Sky Monarch**
 
 "The Titan leader has approached you with an offer you cannot refuse: Use the help of your Draconic allies to guard his domain and lightning itself will enchant your riches."
 
@@ -26,7 +26,7 @@ layout: default
 
 **Dragon Challenge 2**: 
 
-![Barkscales](/realm/img/picks/BarkscalesChallenges.png "Barkscales") **Barkscales**
+![Barkscales](/realm/assets/img/picks/BarkscalesChallenges.png "Barkscales") **Barkscales**
 
 "Unstable power flows through your workforce. Prove to the Dragonlords you can sustain and control every sip of it."
 
@@ -48,7 +48,7 @@ layout: default
 
 **Dragon Challenge 3**: 
 
-![Serpent Queller](/realm/img/picks/SerpentQuellerChallenges.png "Serpent Queller") **Serpent Queller**
+![Serpent Queller](/realm/assets/img/picks/SerpentQuellerChallenges.png "Serpent Queller") **Serpent Queller**
 
 "Legends tell of a terrible sea monster destroying ships and harbors. With your dragon and faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the levaithan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more."
 
@@ -68,7 +68,7 @@ layout: default
 
 **Dragon Challenge 4**: 
 
-![Draconstellation](/realm/img/picks/DraconstellationChallenges.png "Draconstellation") **Draconstellation**
+![Draconstellation](/realm/assets/img/picks/DraconstellationChallenges.png "Draconstellation") **Draconstellation**
 
 "Centuries ago, the Dragon race managed to stockpile the absolute pinnacle of wealth. Scattered in the stars, help them establish a stronger connection with the void between the realms."
 
@@ -86,7 +86,7 @@ layout: default
 
 **Dragon Challenge 5**: 
 
-![Ancient Incantation](/realm/img/picks/AncientIncantationChallenges.png "Ancient Incantation") **Ancient Incantation**
+![Ancient Incantation](/realm/assets/img/picks/AncientIncantationChallenges.png "Ancient Incantation") **Ancient Incantation**
 
 "You have affiliated with many magical races in the past, but none as potent as the dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this."
 
@@ -102,7 +102,7 @@ layout: default
 
 **Dragon Challenge 6**: 
 
-![Dracomet Vault](/realm/img/picks/DracometVaultChallenges.png "Dracomet Vault") **Dracomet Vault**
+![Dracomet Vault](/realm/assets/img/picks/DracometVaultChallenges.png "Dracomet Vault") **Dracomet Vault**
 
 "This backwater world has been conquered. The Dragonlords strive for greater riches. Follow the Dragon King, soar through the heavens and claim the energy of the cosmos."
 
@@ -120,7 +120,7 @@ layout: default
 
 **In-Game Challenge Final Reward**
 
-![Prismatic Breath](/realm/img/picks/PrismaticBreathChallenges.png "Prismatic Breath") **Prismatic Breath**
+![Prismatic Breath](/realm/assets/img/picks/PrismaticBreathChallenges.png "Prismatic Breath") **Prismatic Breath**
 
 **Effect**: While all 5 breaths are active, Reincarnations count double for all purposes.
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Goblin Challenge 1**
 
-![](/realm/img/picks/DiscountSeasonChallenges.png "Discount Season") **Discount Season**
+![](/realm/assets/img/picks/DiscountSeasonChallenges.png "Discount Season") **Discount Season**
 
 The goblin king has revealed the secrets to his race's success. Patience and persistence.
 
@@ -30,7 +30,7 @@ It can take 10 minutes or 10 minutes times however long the longest run without 
 
 ---
 
-![](/realm/img/picks/EliteWarriorsChallenges.png "Elite Warriors") **Elite Warriors**
+![](/realm/assets/img/picks/EliteWarriorsChallenges.png "Elite Warriors") **Elite Warriors**
 
 **Goblin Challenge 2**
 
@@ -48,7 +48,7 @@ Goblin are used to unimaginable wealth. They will work for you after you bribe t
 
 **Goblin Challenge 3**
 
-![](/realm/img/picks/SmuggledJewelsChallenges.png "Smuggled Jewels") **Smuggled Jewels**
+![](/realm/assets/img/picks/SmuggledJewelsChallenges.png "Smuggled Jewels") **Smuggled Jewels**
 
 The goblin king wants a castle made of jewels all to himself.
 
@@ -66,6 +66,6 @@ The goblin king wants a castle made of jewels all to himself.
 
 **In-Game Challenge Final Reward**
 
-![](/realm/img/picks/AvariceDriveChallenges.png "Avarice Drive") **Avarice Drive**
+![](/realm/assets/img/picks/AvariceDriveChallenges.png "Avarice Drive") **Avarice Drive**
 
 **Effect**: Increase Goblin's Greed duration by 5 seconds.

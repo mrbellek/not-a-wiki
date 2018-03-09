@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Faceless](/realm/img/picks/FacelessTopPage.png "Faceless")](/realm/Factions/)
+###### [![Faceless](/realm/assets/img/picks/FacelessTopPage.png "Faceless")](/realm/Factions/)
 
-![Champion Trophy](/realm/img/picks/Faceless.png "Champion Trophy") **Champion Trophy**
+![Champion Trophy](/realm/assets/img/picks/Faceless.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -20,7 +20,7 @@ The Faceless feature perks that becomes stronger with time. Their Heritage is ba
 
 **Effect**: Increase production of all buildings by a cumulative 2% for 10 minutes.
 
-**Spell Trophy & Upgrade**: ![Faceless Overmind](/realm/img/picks/FacelessOvermindFactionUpgrade.png "Faceless Overmind") **Faceless Overmind** 
+**Spell Trophy & Upgrade**: ![Faceless Overmind](/realm/assets/img/picks/FacelessOvermindFactionUpgrade.png "Faceless Overmind") **Faceless Overmind** 
 
 **Effect**: Increases Brainwave ticks to 3% per second. 
 
@@ -32,7 +32,7 @@ The Faceless feature perks that becomes stronger with time. Their Heritage is ba
 
 These requirements can be done in different game plays.
 
-![Bone Fragment 1](/realm/img/picks/BoneFragment1FactionUpgrade.png "Bone Fragment 1") **Bone Fragment 1**
+![Bone Fragment 1](/realm/assets/img/picks/BoneFragment1FactionUpgrade.png "Bone Fragment 1") **Bone Fragment 1**
 
 **Type**: Quest Artifact
 
@@ -40,7 +40,7 @@ These requirements can be done in different game plays.
 
 1st clue required to unlock the Faceless Alliance.
 
-![Bone Fragment 2](/realm/img/picks/BoneFragment2FactionUpgrade.png "Bone Fragment 2") **Bone Fragment 2**
+![Bone Fragment 2](/realm/assets/img/picks/BoneFragment2FactionUpgrade.png "Bone Fragment 2") **Bone Fragment 2**
 
 **Description**: 1st clue required to unlock the Faceless Alliance.
 
@@ -50,7 +50,7 @@ These requirements can be done in different game plays.
 
 **Description**: 2nd clue required to unlock the Faceless Alliance.
 
-![Octopus Shaped Spine](/realm/img/picks/OctopusShapedSpine.png "Octopus Shaped Spine") **Octopus Shaped Spine**
+![Octopus Shaped Spine](/realm/assets/img/picks/OctopusShapedSpine.png "Octopus Shaped Spine") **Octopus Shaped Spine**
 
 **Type**: Upgrade
 
@@ -60,7 +60,7 @@ These requirements can be done in different game plays.
 
 ---
 
-![Proof of Neutrality](/realm/img/picks/ProofofNeutralityFactionUpgrade.png "ProofofNeutrality") **Proof Of Neutrality**
+![Proof of Neutrality](/realm/assets/img/picks/ProofofNeutralityFactionUpgrade.png "ProofofNeutrality") **Proof Of Neutrality**
 
 **Type**: Alignment Upgrade
 
@@ -78,13 +78,13 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Tier 1 Upgrades**
 
-![Faceless Trade Treaty](/realm/img/picks/FacelessTradeTreatyFactionUpgrade.png "Faceless Trade Treaty") **Faceless Trade Treaty**
+![Faceless Trade Treaty](/realm/assets/img/picks/FacelessTradeTreatyFactionUpgrade.png "Faceless Trade Treaty") **Faceless Trade Treaty**
 
 **Cost**: 500 Fairy Coins + 500 Undead Coins
 
 **Effect**: Unlocks Tier 1 Faceless Upgrades.
 
-![Territorial Expanse](/realm/img/picks/TerritorialExpanseFactionUpgrade.png "Territorial Expanse") **Territorial Expanse**
+![Territorial Expanse](/realm/assets/img/picks/TerritorialExpanseFactionUpgrade.png "Territorial Expanse") **Territorial Expanse**
 
 **Cost**: 500 Qi (5E20)
 
@@ -92,7 +92,7 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Formula**: min(100 , 30 * (P + A) / C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.
 
-![Evolutive Mutation](/realm/img/picks/EvolutiveMutationFactionUpgrade.png "Evolutive Mutation") **Evolutive Mutation**
+![Evolutive Mutation](/realm/assets/img/picks/EvolutiveMutationFactionUpgrade.png "Evolutive Mutation") **Evolutive Mutation**
 
 **Cost**: 5 Sx (5E21)
 
@@ -100,7 +100,7 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Formula**: floor(3 * x ^ 0.6), where x is the number of Labyrinths you own.
 
-![Deep Memory](/realm/img/picks/DeepMemoryFactionUpgrade.png "Deep Memory") **Deep Memory**
+![Deep Memory](/realm/assets/img/picks/DeepMemoryFactionUpgrade.png "Deep Memory") **Deep Memory**
 
 **Cost**: 50 Sx (5E22)
 
@@ -116,19 +116,19 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Tier 2 Upgrades**
 
-![Faceless Friendship Pact](/realm/img/picks/FacelessFriendshipPactFactionUpgrade.png "Faceless Friendship Pact") **Faceless Friendship Pact**
+![Faceless Friendship Pact](/realm/assets/img/picks/FacelessFriendshipPactFactionUpgrade.png "Faceless Friendship Pact") **Faceless Friendship Pact**
 
 **Cost**: 2,500 Fairy Coins + 2,500 Undead Coins
 
 **Effect**: Unlocks Tier 2 Faceless Upgrades.
 
-![Gold Synthesis](/realm/img/picks/GoldSynthesisFactionUpgrade.png "Gold Synthesis") **Gold Synthesis**
+![Gold Synthesis](/realm/assets/img/picks/GoldSynthesisFactionUpgrade.png "Gold Synthesis") **Gold Synthesis**
 
 **Cost**: 5 Sp (5E24)
 
 **Effect**: Increases the production of all buildings by 1.5% per Alchemist Lab you own.
 
-![Mitosis](/realm/img/picks/MitosisFactionUpgrade.png "Mitosis") **Mitosis**
+![Mitosis](/realm/assets/img/picks/MitosisFactionUpgrade.png "Mitosis") **Mitosis**
 
 **Cost**: 50 Sp (5E25)
 
@@ -136,7 +136,7 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Formula**: floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.
 
-![Overgrowth](/realm/img/picks/OvergrowthFactionUpgrade.png "Overgrowth") **Overgrowth**
+![Overgrowth](/realm/assets/img/picks/OvergrowthFactionUpgrade.png "Overgrowth") **Overgrowth**
 
 **Cost**: 500 Sp (5E26)
 
@@ -148,13 +148,13 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Tier 3 Upgrades**
 
-![Faceless Alliance](/realm/img/picks/FacelessAllianceFactionUpgrade.png "Faceless Alliance") **Faceless Alliance**
+![Faceless Alliance](/realm/assets/img/picks/FacelessAllianceFactionUpgrade.png "Faceless Alliance") **Faceless Alliance**
 
 **Cost**: 10,000 Fairy Coins + 10,000 Undead Coins
 
 **Effect**: Unlocks Tier 3 Faceless Upgrades.
 
-![Magical Treasure](/realm/img/picks/MagicalTreasureFactionUpgrade.png "Magical Treasure") **Magical Treasure**
+![Magical Treasure](/realm/assets/img/picks/MagicalTreasureFactionUpgrade.png "Magical Treasure") **Magical Treasure**
 
 **Cost**: 50 Oc (5E28)
 
@@ -162,13 +162,13 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Formula**: 0.75 * x ^ 0.75, where x is the amount of assistants you own.
 
-![Abominations](/realm/img/picks/AbominationsFactionUpgrade.png "Abominations") **Abominations**
+![Abominations](/realm/assets/img/picks/AbominationsFactionUpgrade.png "Abominations") **Abominations**
 
 **Cost**: 500 Oc (5E29)
 
 **Effect**: Increase the production of assistants by 300% per active spell.
 
-![Hive Mind](/realm/img/picks/HiveMindFactionUpgrade.png "Hive Mind") **Hive Mind**
+![Hive Mind](/realm/assets/img/picks/HiveMindFactionUpgrade.png "Hive Mind") **Hive Mind**
 
 **Cost**: 5 No (5E30)
 
@@ -178,7 +178,7 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 ---
 
-![Faceless Heritage](/realm/img/picks/FacelessHeritage.png "Faceless Heritage") **Faceless Heritage**
+![Faceless Heritage](/realm/assets/img/picks/FacelessHeritage.png "Faceless Heritage") **Faceless Heritage**
 
 **Cost**: 25,000 Fairy Coins, 25,000 Undead Coins
 
@@ -192,7 +192,7 @@ To get Proof of Neutrality you have to unlock at least 1 of the neutral factions
 
 **Faceless Research Requirements**
 
-![Sunken Cities Quest](/realm/img/picks/SunkenCitiesQuestFactionUpgrade.png "Sunken Cities Quest") **Sunken Cities Quest**
+![Sunken Cities Quest](/realm/assets/img/picks/SunkenCitiesQuestFactionUpgrade.png "Sunken Cities Quest") **Sunken Cities Quest**
 
 C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths.
 
@@ -200,7 +200,7 @@ C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable wo
 
 **Cost**: 10 Dtg (1E100)
 
-![Sunken Cities](/realm/img/picks/SunkenCityFactionUpgrade.png "Sunken Cities") **Sunken Cities**
+![Sunken Cities](/realm/assets/img/picks/SunkenCityFactionUpgrade.png "Sunken Cities") **Sunken Cities**
 
 Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.
 
@@ -210,13 +210,13 @@ Upgrade Labyrinths to Sunken Cities, boosting their production based on time spe
 
 **Cost**: 10 Ttg (1E103)
 
-![Key to the Lost City](/realm/img/picks/KeytotheLostCityFactionUpgrade.png "Key to the Lost City") **Key to the Lost City**
+![Key to the Lost City](/realm/assets/img/picks/KeytotheLostCityFactionUpgrade.png "Key to the Lost City") **Key to the Lost City**
 
 **Effect**: Unlocks the Secrets of the Ancients.
 
 **Requirements**: Found on the 1500th excavation +R23
 
-![Secrets of the Ancients](/realm/img/picks/SecretsoftheAncientsFactionUpgrade.png "Secrets of the Ancients") **Secrets of the Ancients**
+![Secrets of the Ancients](/realm/assets/img/picks/SecretsoftheAncientsFactionUpgrade.png "Secrets of the Ancients") **Secrets of the Ancients**
 
 **Effect**: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.
 
@@ -226,7 +226,7 @@ Upgrade Labyrinths to Sunken Cities, boosting their production based on time spe
 
 **Cost**: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins
 
-![Ancient Device](/realm/img/picks/AncientDeviceFactionUpgrade.png "Ancient Device") **Ancient Device**
+![Ancient Device](/realm/assets/img/picks/AncientDeviceFactionUpgrade.png "Ancient Device") **Ancient Device**
 
 **Description**: Quest Artifact and Upgrade
 
@@ -240,7 +240,7 @@ Upgrade Labyrinths to Sunken Cities, boosting their production based on time spe
 
 **Unique Building**
 
-![Faceless Unique Building](/realm/img/picks/FacelessUniqueBuilding.png "Faceless Unique Building")
+![Faceless Unique Building](/realm/assets/img/picks/FacelessUniqueBuilding.png "Faceless Unique Building")
 
 Upgraded from Labyrinths
 

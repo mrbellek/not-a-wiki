@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/TrophiesTopPage.png")
+###### ![](/realm/assets/img/picks/TrophiesTopPage.png")
 
 **Tips and Hints**
 

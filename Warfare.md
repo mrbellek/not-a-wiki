@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
+###### [![](/realm/assets/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
 
 ###### Warfare Facilities
 
-![](/realm/img/picks/Warfarer.png "Warfare") **Warfare**
+![](/realm/assets/img/picks/Warfarer.png "Warfare") **Warfare**
 
 Use strategical prowess and manpower to manipulate the production system in your favor.
 

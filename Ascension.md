@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![Ascend](/realm/img/picks/Reset-Ascend.png "Ascend")
+###### ![Ascend](/realm/assets/img/picks/Reset-Ascend.png "Ascend")
 
 ###### Description
 
@@ -32,7 +32,7 @@ Everything will appear the same, but the gold coins will disappear, everything t
 
 Gem Requirement Post Ascension 1e27^(ascension^0.75) * 100^(R - 40)
 
-The relation between gold and gems scales the same at 0.5 – 1 million x coins = 1,000x gems.
+The relation between gold and gems scales the same at 0.5 - 1 million x coins = 1,000x gems.
 
 **Formula**: (sqrt(1 + 8 * c / 1e12) - 1) / 2
 

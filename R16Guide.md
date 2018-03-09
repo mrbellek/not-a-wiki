@@ -60,7 +60,7 @@ Researches are like Merc upgrades, you have a certain amount of slots per branch
 
 The big blocks are where you buy RPs, and where you can see how many RPs and slots you have available for that branch, the small blocks to their right are the researches, a red <span style="color: darkred;">&#10060;</span> means the research is unlocked but can't be used as your current faction, a yellow <span style="color: yellow;">&#63;</span> means you can't unlock the research as this faction, and a green <span style="color: green;">&#10004;</span> means you already chose this research for this abdication.
 
-![](/realm/img/picks/bigblockresearch.png)
+![](/realm/assets/img/picks/bigblockresearch.png)
 
 There is one more thing about researches, which can either be seen as what's fun about them, or, the opinion that I share, is their biggest problem, that is their requirements, or more specifically, the fact you can't see their requirements in-game, yes, you can see a progress indicator, but this game has so many different stats to track, you would spend more time trying to understand what are the requirements than you would planning a run to fulfill as many as possible at once...
 

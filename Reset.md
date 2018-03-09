@@ -24,7 +24,7 @@ Finally, enriched with all the experiences through many reincarnations and lives
 
 &nbsp;
 
-###### ![](/realm/img/picks/Reset-Abdication.png "Abdication")
+###### ![](/realm/assets/img/picks/Reset-Abdication.png "Abdication")
 
 Abdicating is the 1st kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production.
 
@@ -36,7 +36,7 @@ Abdicating will reset all buildings, upgrades and coins, but you will keep your 
 
 &nbsp;
 
-###### ![](/realm/img/picks/Reset-Reincarnate.png "Reincarnate")
+###### ![](/realm/assets/img/picks/Reset-Reincarnate.png "Reincarnate")
 
 Reincarnation was introduced in the Underworld Expansion. In terms of game-play, it's a second kind of soft reset where players can trade in all of their gems and have most of their stats reset for other bonuses.
 
@@ -46,7 +46,7 @@ Reincarnation can only be performed for the first time when the user reaches 1 O
 
 &nbsp;
 
-###### ![](/realm/img/picks/Reset-Ascend.png "Ascend")
+###### ![](/realm/assets/img/picks/Reset-Ascend.png "Ascend")
 
 Ascension is a 3rd kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.
 

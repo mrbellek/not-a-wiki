@@ -32,7 +32,7 @@ For instance, the Titan spell Lightning Strike will consume a value from its RNG
 
 The properties of the game's RNG instances are summarized in the table below.
 
-![](/realm/img/picks/RNGInstances.png "A Thousand Coins")
+![](/realm/assets/img/picks/RNGInstances.png "A Thousand Coins")
 
 &nbsp;
 
@@ -48,7 +48,7 @@ The underlying stream of values doesn't change from anything but excavating with
 
 As another example, suppose again that you have one eligible artifact that will be found in 100 excavations. If you abdicate and set up a different run where you have four eligible artifacts and then excavate 24 times, that will consume 96 RNG values assuming you don't find any of them. If you then go back and become eligible for only the original artifact, it will be only 4 excavations away, or 95 earlier than before, as long as you have at least as good a find chance as before.
 
-![](/realm/img/picks/ArtifactOrder.png "A Thousand Coins")
+![](/realm/assets/img/picks/ArtifactOrder.png "A Thousand Coins")
 
 &nbsp;
 

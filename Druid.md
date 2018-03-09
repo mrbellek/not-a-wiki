@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Druid Challenge 1**
 
-![Silent Assassins](/realm/img/picks/SilentAssistanceChallenges.png "Silent Assistance") **Silent Assistance**
+![Silent Assassins](/realm/assets/img/picks/SilentAssistanceChallenges.png "Silent Assistance") **Silent Assistance**
 
 The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks.
 
@@ -28,7 +28,7 @@ Make sure your least-producing building still makes up a large proportion of you
 
 **Druid Challenge 2**
 
-![Balanced Current](/realm/img/picks/BalancedCurrentChallenges.png "Balanced Current") **Balanced Current**
+![Balanced Current](/realm/assets/img/picks/BalancedCurrentChallenges.png "Balanced Current") **Balanced Current**
 
 Our sorcerers are desperately trying to stabilize the balance of the realm, this is your opportunity to gain their favor - and live another day.
 
@@ -44,7 +44,7 @@ Our sorcerers are desperately trying to stabilize the balance of the realm, this
 
 **Druid Challenge 3**
 
-![Eldritch Architecture](/realm/img/picks/EldritchArchitectureChallenges.png "Eldritch Architecture") **Eldritch Architecture**
+![Eldritch Architecture](/realm/assets/img/picks/EldritchArchitectureChallenges.png "Eldritch Architecture") **Eldritch Architecture**
 
 Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.
 
@@ -70,7 +70,7 @@ Now that Grand Balance affects 0 buildings, it will target the next building dow
 
 **Druid Challenge 4**
 
-![Overflowing Mana](/realm/img/picks/OverflowingManaChallenges.png "Overflowing Mana") **Overflowing Mana**
+![Overflowing Mana](/realm/assets/img/picks/OverflowingManaChallenges.png "Overflowing Mana") **Overflowing Mana**
 
 The Druids need more spell power, but they are worried about outside influences throwing off their balance
 
@@ -90,7 +90,7 @@ Do not buy Halls of Balance as it increases the spell duration. Make sure you ha
 
 **In-Game Challenge Final Reward**
 
-![Primal Balance](/realm/img/picks/PrimalBalanceChallenges.png "Primal Balance") **Primal Balance**
+![Primal Balance](/realm/assets/img/picks/PrimalBalanceChallenges.png "Primal Balance") **Primal Balance**
 
 **Effect**: Grand Balance now affects extra buildings based on total mana spent.
 

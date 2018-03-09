@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png "Challenges")](/realm/Challenges)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png "Challenges")](/realm/Challenges)
 
 **Demon Challenge 1**
 
-![Trophy Collectors](/realm/img/picks/TrophyCollectorsChallenges.png "Trophy Collectors") **Trophy Collectors**
+![Trophy Collectors](/realm/assets/img/picks/TrophyCollectorsChallenges.png "Trophy Collectors") **Trophy Collectors**
 
 The Prince of Hell wish to test your skills at gathering coins without outside help.
 
@@ -28,7 +28,7 @@ Either be very patient, or wait until R7 and use Elves bloodline (recommended). 
 
 **Demon Challenge 2**
 
-![Legendary Antics](/realm/img/picks/LegendaryAnticsChallenges.png "Legendary Antics") **Legendary Antics**
+![Legendary Antics](/realm/assets/img/picks/LegendaryAnticsChallenges.png "Legendary Antics") **Legendary Antics**
 
 The Princes of Hell demand a tribute, unleash the beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience
 
@@ -48,7 +48,7 @@ High gem and low Excavations (relative). Work up enough coins to excavate 96 REs
 
 **Demon Challenge 3**
 
-![Passage to Tartarus](/realm/img/picks/PassagetoTartarusChallenges.png "Passage to Tartarus") **Passage to Tartarus**
+![Passage to Tartarus](/realm/assets/img/picks/PassagetoTartarusChallenges.png "Passage to Tartarus") **Passage to Tartarus**
 
 The Demon King has ordered you to prove your might to the entire realm.
 
@@ -70,7 +70,7 @@ Use Goblin Bloodline, can be easily done around Uvg gems.
 
 **In-Game Challenge Final Reward**
 
-![Hellfire Burst](/realm/img/picks/HellfireBurstChallenges.png "Hellfire Burst") **Hellfire Burst**
+![Hellfire Burst](/realm/assets/img/picks/HellfireBurstChallenges.png "Hellfire Burst") **Hellfire Burst**
 
 **Effect**: Reduces Hellfire Blast mana cost based on the number of trophies you have unlocked.
 

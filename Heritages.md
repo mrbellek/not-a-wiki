@@ -20,7 +20,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/FairyHeritage.png "Fairy Heritage") **Fairy Heritage**
+![](/realm/assets/img/picks/FairyHeritage.png "Fairy Heritage") **Fairy Heritage**
 
 **Cost**: 5000 Fairy Coins
 
@@ -30,7 +30,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/ElvenHeritage.png "Elven Heritage") **Elven Heritage**
+![](/realm/assets/img/picks/ElvenHeritage.png "Elven Heritage") **Elven Heritage**
 
 **Cost**: 5000 Elven Coins
 
@@ -42,7 +42,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/AngelicHeritage.png "Angelic Heritage") **Angelic Heritage**
+![](/realm/assets/img/picks/AngelicHeritage.png "Angelic Heritage") **Angelic Heritage**
 
 **Cost**: 5000 Angel Coins
 
@@ -52,7 +52,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/GoblinHeritage.png "Goblin Heritage") **Goblin Heritage**
+![](/realm/assets/img/picks/GoblinHeritage.png "Goblin Heritage") **Goblin Heritage**
 
 **Cost**: 5000 Goblin Coins
 
@@ -64,7 +64,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/UndeadHeritage.png "Undead Heritage") **Undead Heritage**
+![](/realm/assets/img/picks/UndeadHeritage.png "Undead Heritage") **Undead Heritage**
 
 **Cost**: 5000 Undead Coins
 
@@ -76,7 +76,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/DemonicHeritage.png "Demonic Heritage") **Demonic Heritage**
+![](/realm/assets/img/picks/DemonicHeritage.png "Demonic Heritage") **Demonic Heritage**
 
 **Cost**: 5000 Demon Coins
 
@@ -86,7 +86,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/TitanHeritage.png "Titan Heritage") **Titan Heritage**
+![](/realm/assets/img/picks/TitanHeritage.png "Titan Heritage") **Titan Heritage**
 
 **Cost**: 25,000 Angel Coins, 25,000 Goblin Coins
 
@@ -96,7 +96,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/DruidHeritage.png "Druid Heritage") **Druid Heritage**
+![](/realm/assets/img/picks/DruidHeritage.png "Druid Heritage") **Druid Heritage**
 
 **Cost**: 25,000 Elven Coins, 25,000 Demon Coins
 
@@ -106,7 +106,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/FacelessHeritage.png "Faceless Heritage") **Faceless Heritage**
+![](/realm/assets/img/picks/FacelessHeritage.png "Faceless Heritage") **Faceless Heritage**
 
 **Cost**: 25,000 Fairy Coins, 25,000 Undead Coins
 
@@ -118,7 +118,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/DwarvenHeritage.png "Dwarven Heritage") **Dwarven Heritage**
+![](/realm/assets/img/picks/DwarvenHeritage.png "Dwarven Heritage") **Dwarven Heritage**
 
 **Cost**: 75,000 Dwarven Coins
 
@@ -130,7 +130,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/DrowHeritage.png "Drow Heritage") **Drow Heritage**
+![](/realm/assets/img/picks/DrowHeritage.png "Drow Heritage") **Drow Heritage**
 
 **Cost**: 75,000 Drow Coins
 
@@ -142,7 +142,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/DragonHeritageFactionUpgrade.png "Dragon Heritage") **Dragon Heritage**
+![](/realm/assets/img/picks/DragonHeritageFactionUpgrade.png "Dragon Heritage") **Dragon Heritage**
 
 **Cost**: 400b (4e11) Dwarven and Drow coins
 
@@ -154,7 +154,7 @@ Once unlocked, its price is in Faction Coins, the number depending on the factio
 
 ---
 
-![](/realm/img/picks/MercenaryBadge.png "Mercenary Badge") **Mercenary Badge**
+![](/realm/assets/img/picks/MercenaryBadge.png "Mercenary Badge") **Mercenary Badge**
 
 **Cost**: 100,000 (of each) Faction Coins
 

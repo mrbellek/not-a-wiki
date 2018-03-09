@@ -5,7 +5,7 @@ Everything has a tooltip **hover** over them to see what they are.
 
 **Game Window**
 
-<img src="/realm/img/picks/newtestwindow1.png" usemap="#newtestwindow1-map">
+<img src="/realm/assets/img/picks/newtestwindow1.png" usemap="#newtestwindow1-map">
 <map name="newtestwindow1-map">
     <area target="" research="Excavation / Artifacts<p> Excavation is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the Archeology Upgrade.<p>Excavating enables to find Rubies, Faction Coins and at certain thresholds or under certain conditions Artifacts. <p>Specific artifacts are required to unlock the Neutral &amp;amp; Prestige Factions.<p>Note: The numbers in the top right corner show the number of artifacts you could find.<p>Excavation Reset costs 1 Ruby up until 2999 excavations, switching to 2 Rubies at 3000 and above. It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again." coords="5,67,62,120" shape="rect">
     <area target="" research="Upgrades<p>This is where you will buy all upgrades including Royal Exchanges and see all purchased Upgrades<p>Note: The numbers in the top right corner equal the amount of upgrades you could purchase.<p>Note: (!) an exclamation mark in the top right corner means that you can Reincarnate." coords="5,9,58,62" shape="rect">
@@ -65,7 +65,7 @@ Everything has a tooltip **hover** over them to see what they are.
 </map>
 
 **Options**
-<img src="/realm/img/picks/OptionsWindow.png" usemap="#OptionsWindow-map">
+<img src="/realm/assets/img/picks/OptionsWindow.png" usemap="#OptionsWindow-map">
 <map name="OptionsWindow-map">
     <area target="" research="Use Thousands Separator<p>Putting an X in this box will shows numbers with (,) in them.<p>Examples<p>With X 2,000<p>Without X 2000" coords="48,71,254,92" shape="rect">
     <area target="" research="Don't Group Upgrades by Category<p>Putting an X in this box will group all upgrades together.<p>Without X it will separate upgrades by category. " coords="47,96,305,114" shape="rect">

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/UpgradesTopPage.png)
+###### ![](/realm/assets/img/picks/UpgradesTopPage.png)
 
 **A complete list of building upgrades**
 
@@ -12,7 +12,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Farm Upgrades (Alignment: Any)**
 
-<img src="/realm/img/picks/fgroup1.png" usemap="#fgroup1-map">
+<img src="/realm/assets/img/picks/fgroup1.png" usemap="#fgroup1-map">
 <map name="fgroup1-map">
     <area target="" research="Upgrade 1: Crop Rotation<p>Requirement: 5 Farms<p> Cost Pre Ascension: 200<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 100%.<p>Post Ascencion: Increase Farm production by 7.18%.<p>Adds 1 Assistant" coords="5,3,50,51" shape="rect">
     <area target="" research="Upgrade 2: Irrigation<p>Requirement: 25 Farms<p>Cost Pre Ascension: 6,580<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 200%.<p>Post Ascencion: Increase Farm production by 11.6%.<p>Adds 1 Assistant" coords="58,3,103,51" shape="rect">
@@ -41,7 +41,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Inn Upgrades (Alignment: Any)**
 
-<img src="/realm/img/picks/igroup1.png" usemap="#igroup1-map">
+<img src="/realm/assets/img/picks/igroup1.png" usemap="#igroup1-map">
 <map name="igroup1-map">
     <area target="" research="Upgrade 1: Top Quality Beer<p>Requirement: 5 Inns<p>Cost Pre Ascension: 2,510<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 100%.<p>Post Ascension: Increase Inn production by 17.8%.<p>Adds 1 Assistant" coords="5,4,51,51" shape="rect">
     <area target="" research="Upgrade 2: Cockroach Disinfestation<p>Requirement: 25 Inns<p>Cost Pre Ascension: 82,300<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 200%.<p>Post Ascension: Increase Inn production by 11.6%.<p>Adds 1 Assistant" coords="56,4,105,51" shape="rect">
@@ -69,7 +69,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Blacksmith Upgrades (Alignment: Any)**
 
-<img src="/realm/img/picks/bgroup1.png" usemap="#bgroup1-map">
+<img src="/realm/assets/img/picks/bgroup1.png" usemap="#bgroup1-map">
 <map name="bgroup1-map">
     <area target="" research="Upgrade 1: Heavy Hammer<p>Requirement: 5 Blacksmiths<p>Cost Pre Ascension: 12,070<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Blacksmith production by 100%.<p>Post Ascension: Increase Blacksmith production by 7.18%.<p>Adds 1 Assistant" coords="2,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Stone Molds<p>Requirement: 25 Blacksmiths<p>Cost Pre Ascension: 395,020<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Blacksmith production by 200%.<p>Post Ascension: Increase Blacksmith production by 11.6%.<p>Adds 1 Assistant" coords="58,3,105,51" shape="rect">
@@ -98,7 +98,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Deep Mine Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/dgroup1.png" usemap="#dgroup1-map">
+<img src="/realm/assets/img/picks/dgroup1.png" usemap="#dgroup1-map">
 <map name="dgroup1-map">
     <area target="" research="Upgrade 1: Reinforced Beams<p>Requirement: 5 Deep Mines<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Lifesaving Canary<p>Requirement: 25 Deep Mines<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,52" shape="rect">
@@ -127,7 +127,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Stone Pillars Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/sgroup1.png" usemap="#sgroup1-map">
+<img src="/realm/assets/img/picks/sgroup1.png" usemap="#sgroup1-map">
 <map name="sgroup1-map">
     <area target="" research="Upgrade 1: Rune of Saving<p>Requirement: 5 Stone Pillars<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="3,3,50,52" shape="rect">
     <area target="" research="Upgrade 2: Rune of Earning<p>Requirement: 25 Stone Pillars<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,51" shape="rect">
@@ -156,7 +156,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Alchemist Lab Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/agroup1.png" usemap="#agroup1-map">
+<img src="/realm/assets/img/picks/agroup1.png" usemap="#agroup1-map">
 <map name="agroup1-map">
     <area target="" research="Upgrade 1: Copper Transmutation<p>Requirement: 5 Alchemist Labs<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,51" shape="rect">
     <area target="" research="Upgrade 2: Bronze Transmutation<p>Requirement: 25 Alchemist Labs<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="56,3,103,51" shape="rect">
@@ -185,7 +185,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Monastery Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/mgroup1.png" usemap="#mgroup1-map">
+<img src="/realm/assets/img/picks/mgroup1.png" usemap="#mgroup1-map">
 <map name="mgroup1-map">
     <area target="" research="Upgrade 1: Scheduled Orations<p>Requirement: 5 Monasteries<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Monasteries production by 100%.<p>Post Ascension: Increase Monasteries production by 7.18%.<p>Adds 1 Assistant" coords="5,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Unshakable Faith<p>Requirement: 25 Monasteries<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Monasteries production by 100%.<p>Post Ascension: Increase Monasteries production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,52" shape="rect">
@@ -214,7 +214,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Labyrinth Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/lgroup1.png" usemap="#lgroup1-map">
+<img src="/realm/assets/img/picks/lgroup1.png" usemap="#lgroup1-map">
 <map name="lgroup1-map">
     <area target="" research="Upgrade 1: Fake Exits<p>Requirement: 5 Labyrinths<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Labyrinths production by 100%.<p>Post Ascension: Increase Labyrinths production by 7.18%.<p>Adds 1 Assistant" coords="5,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Roaming Beasts<p>Requirement: 25 Labyrinths<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Labyrinths production by 100%.<p>Post Ascension: Increase Labyrinths production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,52" shape="rect">
@@ -243,7 +243,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Iron Stronghold Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/isgroup1.png" usemap="#isgroup1-map">
+<img src="/realm/assets/img/picks/isgroup1.png" usemap="#isgroup1-map">
 <map name="isgroup1-map">
     <area target="" research="Upgrade 1: Higher Walls<p>Requirement: 5 Iron Strongholds<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Iron Strongholds production by 100%.<p>Post Ascension Increase Iron Strongholds production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Crenellations<p>Requirement: 25 Iron Strongholds<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Iron Strongholds production by 100%.<p>Post Ascension Increase Iron Strongholds production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,52" shape="rect">
@@ -272,7 +272,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Ancient Pyramid Upgrades (Alignment: Neutral)**
 
-<img src="/realm/img/picks/apgroup1.png" usemap="#apgroup1-map">
+<img src="/realm/assets/img/picks/apgroup1.png" usemap="#apgroup1-map">
 <map name="apgroup1-map">
     <area target="" research="Upgrade 1: Golden Sarcophagi<p>Requirement: 5 Ancient Pyramids<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Ancient Pyramids production by 100%.<p>Post Ascension: Increase Ancient Pyramids production by 7.18%.<p>Adds 1 Assistant" coords="2,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Wandering Mummies<p>Requirement: 25 Ancient Pyramids<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Ancient Pyramids production by 100%.<p>Post Ascension: Increase Ancient Pyramids production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,52" shape="rect">
@@ -301,7 +301,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Warrior Barracks Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/wbgroup1.png" usemap="#wbgroup1-map">
+<img src="/realm/assets/img/picks/wbgroup1.png" usemap="#wbgroup1-map">
 <map name="wbgroup1-map">
     <area target="" research="Upgrade 1: Bronze Weapons<p>Requirement: 5 Warrior Barracks<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,52" shape="rect">
     <area target="" research="Upgrade 2: Iron Weapons<p>Requirement: 25 Warrior Barracks<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,51" shape="rect">
@@ -330,7 +330,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Knights Joust Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/kjgroup1.png" usemap="#kjgroup1-map">
+<img src="/realm/assets/img/picks/kjgroup1.png" usemap="#kjgroup1-map">
 <map name="kjgroup1-map">
     <area target="" research="Upgrade 1: Pointy Lances<p>Requirement: 5 Knights Jousts<p>Cost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="5,4,52,51" shape="rect">
     <area target="" research="Upgrade 2: Stallion Horses<p>Requirement: 25 Knights Jousts<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
@@ -359,7 +359,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Wizard Tower Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
+<img src="/realm/assets/img/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
 <map name="wizardtowergroup1-map">
     <area target="" research="Upgrade 1: Arcane Circle<p>Requirement: 5 Wizard Towers<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Wizard Towers production by 100%.<p>Post Ascension: Increase Wizard Towers production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Magic Channeling<p>Requirement: 25 Wizard Towers<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Wizard Towers production by 100%.<p>Post Ascension: Increase Wizard Towers production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,51" shape="rect">
@@ -388,7 +388,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Cathedral Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/cathedralgroup1.png" usemap="#cathedralgroup1-map">
+<img src="/realm/assets/img/picks/cathedralgroup1.png" usemap="#cathedralgroup1-map">
 <map name="cathedralgroup1-map">
     <area target="" research="Upgrade 1: Golden Cross<p>Requirement: 5 Cathedrals<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Cathedral production by 100%.<p>Post Ascension: Increase Cathedrals production by 7.18%.<p>Adds 1 Assistant" coords="2,1,51,52" shape="rect">
     <area target="" research="Upgrade 2: Mausoleum<p>Requirement: 25 Cathedrals<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Cathedral production by 100%.<p>Post Ascension: Increase Cathedrals production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,52" shape="rect">
@@ -417,7 +417,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Citadel Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/citadelgroup1.png" usemap="#citadelgroup1-map">
+<img src="/realm/assets/img/picks/citadelgroup1.png" usemap="#citadelgroup1-map">
 <map name="citadelgroup1-map">
     <area target="" research="Upgrade 1: Guard Training<p>Requirement: 5 Citadels<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Citadels production by 100%.<p>Post Ascension: Increase Citadels production by 7.18%.<p>Adds 1 Assistant" coords="3,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Lookouts<p>Requirement: 25 Citadels<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Citadels production by 100%.<p>Post Ascension: Increase Citadels production by 7.18%.<p>Adds 1 Assistant" coords="56,2,105,51" shape="rect">
@@ -446,7 +446,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Royal Castle Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/royalcastlegroup1.png" usemap="#royalcastlegroup1-map">
+<img src="/realm/assets/img/picks/royalcastlegroup1.png" usemap="#royalcastlegroup1-map">
 <map name="royalcastlegroup1-map">
     <area target="" research="Upgrade 1: Reinforced Walls<p>Requirement: 5 Royal Castles<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="3,4,51,52" shape="rect">
     <area target="" research="Upgrade 2: Court Jesters<p>Requirement: 25 Royal Castles<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
@@ -474,7 +474,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Heaven's Gate Upgrades (Alignment: Good)**
 
-<img src="/realm/img/picks/heavensgategroup1.png" usemap="#heavensgategroup1-map">
+<img src="/realm/assets/img/picks/heavensgategroup1.png" usemap="#heavensgategroup1-map">
 <map name="heavensgategroup1-map">
     <area target="" research="Upgrade 1: Golden Key<p>Requirement: 5 Heaven's Gates<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Heaven's Gates production by 100%.<p>Post Ascension: Increase Heaven's Gates production by 7.18%.<p>Adds 1 Assistant" coords="7,4,51,50" shape="rect">
     <area target="" research="Upgrade 2: Flying Clouds<p>Requirement: 25 Heaven's Gates<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Heaven's Gates production by 100%.<p>Post Ascension: Increase Heaven's Gates production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,50" shape="rect">
@@ -503,7 +503,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Slave Pen Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/slavepengroup1.png" usemap="#slavepengroup1-map">
+<img src="/realm/assets/img/picks/slavepengroup1.png" usemap="#slavepengroup1-map">
 <map name="slavepengroup1-map">
     <area target="" research="Upgrade 1: Smaller Cells<p>Requirement: 5 Slave Pens<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="2,4,51,54" shape="rect">
     <area target="" research="Upgrade 2: Punishment Whips<p>Requirement: 25 Slave Pens<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="54,3,105,53" shape="rect">
@@ -532,7 +532,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Orcish Arena Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/orcisharenagroup1.png" usemap="#orcisharenagroup1-map">
+<img src="/realm/assets/img/picks/orcisharenagroup1.png" usemap="#orcisharenagroup1-map">
 <map name="orcisharenagroup1-map">
     <area target="" research="Upgrade 1: Unfair Judge<p><p>Requirement: 5 Orcish ArenasCost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,54" shape="rect">
     <area target="" research="Upgrade 2: Rule Abolition<p>Requirement: 25 Orcish Arenas<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="56,4,105,52" shape="rect">
@@ -561,7 +561,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Witch Conclave Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/witchconclavegroup1.png" usemap="#witchconclavegroup1-map">
+<img src="/realm/assets/img/picks/witchconclavegroup1.png" usemap="#witchconclavegroup1-map">
 <map name="witchconclavegroup1-map">
     <area target="" research="Upgrade 1: Witch Sabbath<p>Requirement: 5 Witch Conclaves<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Witch Conclaves production by 100%.<p>Post Ascension: Increase Witch Conclaves production by 7.18%.<p>Adds 1 Assistant" coords="1,2,52,52" shape="rect">
     <area target="" research="Upgrade 2: Black Magic<p>Requirement: 25 Witch Conclaves<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Witch Conclaves production by 100%.<p>Post Ascension: Increase Witch Conclaves production by 7.18%.<p>Adds 1 Assistant" coords="54,2,105,53" shape="rect">
@@ -590,7 +590,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Dark Temple Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/darktemplesgroup1.png" usemap="#darktemplesgroup1-map">
+<img src="/realm/assets/img/picks/darktemplesgroup1.png" usemap="#darktemplesgroup1-map">
 <map name="darktemplesgroup1-map">
     <area target="" research="Upgrade 1: Sacrificial Altar<p>Requirement: 5 Dark Temples<p>Cost Pre Ascension: 8.89M (8.89e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Dark Temples production by 100%.<p>Post Ascension: Increase Dark Temples production by 7.18%.<p>Adds 1 Assistant" coords="2,4,51,54" shape="rect">
     <area target="" research="Upgrade 2: Dark Rituals<p>Requirement: 25 Dark Temples<p>Cost Pre Ascension: 291M (2.91e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Dark Temples production by 100%.<p>Post Ascension: Increase Dark Temples production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,53" shape="rect">
@@ -619,7 +619,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Necropolis Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/necropolisgroup1.png" usemap="#necropolisgroup1-map">
+<img src="/realm/assets/img/picks/necropolisgroup1.png" usemap="#necropolisgroup1-map">
 <map name="necropolisgroup1-map">
     <area target="" research="Upgrade 1: Desecrated Crypt<p>Requirement: 5 Necropolises<p>Cost Pre Ascension: 146.8M (1.468e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Necropolises production by 100%.<p>Pre Ascension: Increase Necropolises production by 7.18%.<p>Adds 1 Assistant" coords="2,2,52,53" shape="rect">
     <area target="" research="Upgrade 2: Rotting Corpses<p>Requirement: 25 Necropolises<p>Cost Pre Ascension: 4.806B (4.806e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Necropolises production by 100%.<p>Pre Ascension: Increase Necropolises production by 7.18%.<p>Adds 1 Assistant" coords="58,4,105,51" shape="rect">
@@ -648,7 +648,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Evil Fortress Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/evilfortressgroup1.png" usemap="#evilfortressgroup1-map">
+<img src="/realm/assets/img/picks/evilfortressgroup1.png" usemap="#evilfortressgroup1-map">
 <map name="evilfortressgroup1-map">
     <area target="" research="Upgrade 1: Spiked Walls<p>Requirement: 5 Evil Fortresses<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Evil Fortresses production by 100%.<p>Pre Ascension: Increase Evil Fortresses production by 7.18%.<p>Adds 1 Assistant" coords="2,4,50,51" shape="rect">
     <area target="" research="Upgrade 2: Deep Dungeons<p>Requirement: 25 Evil Fortresses<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Evil Fortresses production by 100%.<p>Pre Ascension: Increase Evil Fortresses production by 7.18%.<p>Adds 1 Assistant" coords="56,4,105,52" shape="rect">
@@ -677,7 +677,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Hell Portal Upgrades (Alignment: Evil)**
 
-<img src="/realm/img/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
+<img src="/realm/assets/img/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
 <map name="hellportalgroup1-map">
     <area target="" research="Upgrade 1: Continuous Pain<p>Requirement: 5 Hell Portals<p>Cost Pre Ascension: 64.36B (6.436e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Hell Portals production by 100%.<p>Post Ascension: Increase Hell Portals production by 7.18%.<p>Adds 1 Assistant" coords="3,2,52,53" shape="rect">
     <area target="" research="Upgrade 2: Endless Sorrow<p>Requirement: 25 Hell Portals<p>Cost Pre Ascension: 2.107T (2.107e12)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Hell Portals production by 100%.<p>Post Ascension: Increase Hell Portals production by 7.18%.<p>Adds 1 Assistant" coords="56,4,107,53" shape="rect">
@@ -706,7 +706,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 
 **Hall of Legends Upgrades (Alignment: Any)**
 
-<img src="/realm/img/picks/halloflegendsgroup1.png" usemap="#halloflegendsgroup1-map">
+<img src="/realm/assets/img/picks/halloflegendsgroup1.png" usemap="#halloflegendsgroup1-map">
 <map name="halloflegendsgroup1-map">
     <area target="" research="Upgrade 1: Legendary Representatives<p>Requirement: 5 Halls of Legends<p>Cost Pre Ascension: 40T (4e13)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="5,2,51,51" shape="rect">
     <area target="" research="Upgrade 2: Legendary League<p>Requirement: 25 Halls of Legends<p>Cost Pre Ascension: 1.3Qa (1.3e15)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="58,3,105,52" shape="rect">

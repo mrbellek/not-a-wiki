@@ -29,7 +29,7 @@ Tips: Get used to making backups before abdicating so you can always undo if nec
 
 **Related Secret Trophies & Upgrades**
 
-![Rule 'dis](/realm/img/picks/Rule'disSecretTrophy.png "Rule 'dis") **Rule 'dis**
+![Rule 'dis](/realm/assets/img/picks/Rule'disSecretTrophy.png "Rule 'dis") **Rule 'dis**
 
 **Requirement**: Abdicate 10 times within 3 minutes.(yes just spam abdication)
 
@@ -37,7 +37,7 @@ Tips: Get used to making backups before abdicating so you can always undo if nec
 
 **Cost**: 1,000 gold
 
-![Rewind](/realm/img/picks/RewindSecretTrophy.png "Rewind") **Rewind** (100M)
+![Rewind](/realm/assets/img/picks/RewindSecretTrophy.png "Rewind") **Rewind** (100M)
 
 **Requirement**: Abdicate after producing at least 1Oc Coins.
 
@@ -47,7 +47,7 @@ Tips: Get used to making backups before abdicating so you can always undo if nec
 
 **Tip**: This is done at the end of R0.
 
-![Stoic Resistance](/realm/img/picks/StoicResistanceSecretTrophy.png "Stoic Resistance") **Stoic Resistance** (R34-39)
+![Stoic Resistance](/realm/assets/img/picks/StoicResistanceSecretTrophy.png "Stoic Resistance") **Stoic Resistance** (R34-39)
 
 **Requirement**: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation without abdicating since the start of a new Reincarnation.(1 Oc = cost of the 1st reincarnation)
 

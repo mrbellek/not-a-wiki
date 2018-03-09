@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/UndeadTopPage.png "Spellcraft")](/realm/Factions/)
+###### [![](/realm/assets/img/picks/UndeadTopPage.png "Spellcraft")](/realm/Factions/)
 
-![](/realm/img/picks/Undead.png "Smiley face") **Champion Trophy**
+![](/realm/assets/img/picks/Undead.png "Smiley face") **Champion Trophy**
 
 **In-game description**
 
@@ -24,7 +24,7 @@ All Vanilla Factions are enabled by default
 
 **Effect**: The production of assistants is increased by 30% per Necropolis you own for 20 seconds.
 
-**Spell Trophy &amp; Upgrade**: ![](/realm/img/picks/TrueNightFactionUpgrade.png "Smiley face") **True Night**
+**Spell Trophy &amp; Upgrade**: ![](/realm/assets/img/picks/TrueNightFactionUpgrade.png "Smiley face") **True Night**
 
 **Effect**: Increases Night Time's production of assistants to 40% per Necropolis.
 
@@ -34,25 +34,25 @@ All Vanilla Factions are enabled by default
 
 **Tier 1 Upgrades**
 
-![](/realm/img/picks/UndeadTradeTreaty.png "Smiley face") **Undead Trade Treaty**
+![](/realm/assets/img/picks/UndeadTradeTreaty.png "Smiley face") **Undead Trade Treaty**
 
 **Cost**: 20 Undead Coins
 
 **Effect**: Unlocks Undead Upgrades.
 
-![](/realm/img/picks/TheWalkingDeadFactionUpgrade.png "Smiley face") **The Walking Dead**
+![](/realm/assets/img/picks/TheWalkingDeadFactionUpgrade.png "Smiley face") **The Walking Dead**
 
 **Cost**: 50 M (5E7)
 
 **Effect**: Increase the production of Necropolises by 5000%.
 
-![](/realm/img/picks/DeadenedMusclesFactionUpgrade.png "Smiley face") **Deadened Muscles**
+![](/realm/assets/img/picks/DeadenedMusclesFactionUpgrade.png "Smiley face") **Deadened Muscles**
 
 **Cost**: 500 M (5E8)
 
 **Effect**: Increase the production of all other buildings by 1.5% per Necropolis you own.
 
-![](/realm/img/picks/DeathTemplesFactionUpgrade.png "Smiley face") **Death Temples**
+![](/realm/assets/img/picks/DeathTemplesFactionUpgrade.png "Smiley face") **Death Temples**
 
 **Cost**: 5 B (5E9)
 
@@ -64,13 +64,13 @@ All Vanilla Factions are enabled by default
 
 **Tier 2 Upgrades**
 
-![](/realm/img/picks/UndeadFriendshipPactFactionUpgrade.png "Smiley face") **Undead Friendship Pact**
+![](/realm/assets/img/picks/UndeadFriendshipPactFactionUpgrade.png "Smiley face") **Undead Friendship Pact**
 
 **Cost**: 100 Undead Coins
 
 **Effect**: Unlocks more Undead Upgrades.
 
-![](/realm/img/picks/UnholyRitualsFactionUpgrade.png "Smiley face") **Unholy Rituals**
+![](/realm/assets/img/picks/UnholyRitualsFactionUpgrade.png "Smiley face") **Unholy Rituals**
 
 **Cost**: 500 B (5E11)
 
@@ -78,7 +78,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: round((20 * x) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in hours.
 
-![](/realm/img/picks/CorpseSupplyFactionUpgrade.png "Smiley face") **Corpse Supply**
+![](/realm/assets/img/picks/CorpseSupplyFactionUpgrade.png "Smiley face") **Corpse Supply**
 
 **Cost**: 5 T (5E12)
 
@@ -86,7 +86,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.
 
-![](/realm/img/picks/PlaguedBuildingsFactionUpgrade.png "Smiley face") **Plagued Buildings**
+![](/realm/assets/img/picks/PlaguedBuildingsFactionUpgrade.png "Smiley face") **Plagued Buildings**
 
 **Cost**: 50 T (5E13)
 
@@ -96,25 +96,25 @@ All Vanilla Factions are enabled by default
 
 **Tier 3 Upgrades**
 
-![](/realm/img/picks/UndeadAllianceFactionUpgrade.png "Smiley face") **Undead Alliance**
+![](/realm/assets/img/picks/UndeadAllianceFactionUpgrade.png "Smiley face") **Undead Alliance**
 
 **Cost**: 500 Undead Coins
 
 **Effect**: Unlocks more Undead Upgrades.
 
-![](/realm/img/picks/DeadFieldsFactionUpgrade.png "Smiley face") **Dead Fields**
+![](/realm/assets/img/picks/DeadFieldsFactionUpgrade.png "Smiley face") **Dead Fields**
 
 **Cost**: 5 Qa (5E15)
 
 **Effect**: Each assistants increases the production of all buildings by 0.02% per Necropolises you own.
 
-![](/realm/img/picks/TirelessWorkersFactionUpgrade.png "Smiley face") **Tireless Workers**
+![](/realm/assets/img/picks/TirelessWorkersFactionUpgrade.png "Smiley face") **Tireless Workers**
 
 **Cost**: 50 Qa (5E16)
 
 **Effect**: Increase the production of assistants by 1000%.
 
-![](/realm/img/picks/UndeadResilienceFactionUpgrade.png "Smiley face") **Undead Resilience**
+![](/realm/assets/img/picks/UndeadResilienceFactionUpgrade.png "Smiley face") **Undead Resilience**
 
 **Cost**: 500 Qa (5E17)
 
@@ -122,7 +122,7 @@ All Vanilla Factions are enabled by default
 
 ---
 
-![](/realm/img/picks/UndeadHeritage.png "Undead Heritage") **Undead Heritage**
+![](/realm/assets/img/picks/UndeadHeritage.png "Undead Heritage") **Undead Heritage**
 
 **Cost**: 5000 Undead Coins
 
@@ -136,7 +136,7 @@ All Vanilla Factions are enabled by default
 
 **Undead Research Requirements**
 
-![](/realm/img/picks/UndercitiesQuestFactionUpgrade.png "Smiley face") **Undercities Quest**
+![](/realm/assets/img/picks/UndercitiesQuestFactionUpgrade.png "Smiley face") **Undercities Quest**
 
 Hello there. The dead stand ready. Give them a place to rise and live again... Build enough Necropolises, we'll take care of the rest.
 
@@ -144,7 +144,7 @@ Hello there. The dead stand ready. Give them a place to rise and live again... B
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/UndercityFactionUpgrade.png "Smiley face") **Undercity**
+![](/realm/assets/img/picks/UndercityFactionUpgrade.png "Smiley face") **Undercity**
 
 Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.
 
@@ -158,7 +158,7 @@ Upgrade Necropolises To Undercities, boosting their production based on time spe
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/LaboratoryFactionUpgrade.png "Smiley face") **Laboratory**
+![](/realm/assets/img/picks/LaboratoryFactionUpgrade.png "Smiley face") **Laboratory**
 
 **Effect**: Unlocks the Alchemy research facility and increases Undead production by 100000%, plus an additional bonus based on Alchemy research points.
 
@@ -170,7 +170,7 @@ Upgrade Necropolises To Undercities, boosting their production based on time spe
 
 **Unique Building**
 
-![](/realm/img/picks/UndeadUniqueBuilding.png "Smiley face")
+![](/realm/assets/img/picks/UndeadUniqueBuilding.png "Smiley face")
 
 Upgraded from Necropolis
 

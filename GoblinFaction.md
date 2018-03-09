@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/GoblinTopPage.png "Goblin")](/realm/Factions/)
+###### [![](/realm/assets/img/picks/GoblinTopPage.png "Goblin")](/realm/Factions/)
 
-![](/realm/img/picks/Goblin.png "Champion Trophy") **Champion Trophy**
+![](/realm/assets/img/picks/Goblin.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -28,7 +28,7 @@ All Vanilla Factions are enabled by default
 
 **Production Formula**: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.
 
-**Spell Trophy & Upgrade: ![](/realm/img/picks/GreedDriveFactionUpgrade.png "Greed Drive") Greed Drive** 
+**Spell Trophy & Upgrade: ![](/realm/assets/img/picks/GreedDriveFactionUpgrade.png "Greed Drive") Greed Drive** 
 
 **Effect**: Goblin's Greed costs 150 less mana.
 
@@ -40,13 +40,13 @@ All Vanilla Factions are enabled by default
 
 **Tier 1 Upgrades**
 
-**![](/realm/img/picks/GoblinsTradeTreaty.png "Goblin Trade Treaty") Goblin Trade Treaty**
+**![](/realm/assets/img/picks/GoblinsTradeTreaty.png "Goblin Trade Treaty") Goblin Trade Treaty**
 
 **Cost**: Free
 
 **Effect**: Unlocks Goblin Upgrades.
 
-**![](/realm/img/picks/StrongCurrencyFactionUpgrade.png "Strong Currency") Strong Currency**
+**![](/realm/assets/img/picks/StrongCurrencyFactionUpgrade.png "Strong Currency") Strong Currency**
 
 **Cost**: 50 M (5E7)
 
@@ -54,13 +54,13 @@ All Vanilla Factions are enabled by default
 
 **Formula**: ln^3(x)%, where x is your Faction Coins Gained (This Game) stat.
 
-**![](/realm/img/picks/SlaveTradingFactionUpgrade.png "Slave Trading") Slave Trading**
+**![](/realm/assets/img/picks/SlaveTradingFactionUpgrade.png "Slave Trading") Slave Trading**
 
 **Cost**: 500 M (5E8)
 
 **Effect**: Increase the production of all buildings by 0.75% per Slave Pen you own.
 
-**![](/realm/img/picks/CheapMaterialsFactionUpgrade.png "Cheap Materials") Cheap Materials**
+**![](/realm/assets/img/picks/CheapMaterialsFactionUpgrade.png "Cheap Materials") Cheap Materials**
 
 **Cost**: 5 B (5E9)
 
@@ -72,25 +72,25 @@ All Vanilla Factions are enabled by default
 
 **Tier 2 Upgrades**
 
-**![](/realm/img/picks/GoblinsFriendshipPact.png "Goblin Friendship Pact") Goblin Friendship Pact**
+**![](/realm/assets/img/picks/GoblinsFriendshipPact.png "Goblin Friendship Pact") Goblin Friendship Pact**
 
 **Cost**: 100 Goblin Coins
 
 **Effect**: Unlocks more Goblin Upgrades.
 
-**![](/realm/img/picks/BlackMarketFactionUpgrade.png "Black Market") Black Market**
+**![](/realm/assets/img/picks/BlackMarketFactionUpgrade.png "Black Market") Black Market**
 
 **Cost**: 500 B (5E11)
 
 **Effect**: Production bonus from gems is doubled.
 
-**![](/realm/img/picks/HobgoblinGladiatorsFactionUpgrade.png "Hobgoblin Gladiators") Hobgoblin Gladiators**
+**![](/realm/assets/img/picks/HobgoblinGladiatorsFactionUpgrade.png "Hobgoblin Gladiators") Hobgoblin Gladiators**
 
 **Cost**: 5 T (5E12)
 
 **Effect** Increase the production of all buildings by 0.75% per Orcish Arena you own.
 
-**![](/realm/img/picks/GoblinEconomistsFactionUpgrade.png "Goblin Economists") Goblin Economists**
+**![](/realm/assets/img/picks/GoblinEconomistsFactionUpgrade.png "Goblin Economists") Goblin Economists**
 
 **Cost**: 50 T (5E13)
 
@@ -102,19 +102,19 @@ All Vanilla Factions are enabled by default
 
 **Tier 3 Upgrades**
 
-**![](/realm/img/picks/GoblinsAlliavceFactionUpgrade.png "Goblin Alliance") Goblin Alliance**
+**![](/realm/assets/img/picks/GoblinsAlliavceFactionUpgrade.png "Goblin Alliance") Goblin Alliance**
 
 **Cost**: 500 Goblin Coins
 
 **Effect**: Unlocks more Goblin Upgrades.
 
-**![](/realm/img/picks/GoblinCentralBankFactionUpgrade.png "Goblin Central Bank") Goblin Central Bank**
+**![](/realm/assets/img/picks/GoblinCentralBankFactionUpgrade.png "Goblin Central Bank") Goblin Central Bank**
 
 **Cost**: 5 Qa (5E15)
 
 **Effect**: Whenever you cast a spell, also cast Tax Collection for free.
 
-**![](/realm/img/picks/Fool'sGoldFactionUpgrade.png "Fool's Gold") Fool's Gold**
+**![](/realm/assets/img/picks/Fool'sGoldFactionUpgrade.png "Fool's Gold") Fool's Gold**
 
 **Cost**: 50 Qa (5E16)
 
@@ -122,7 +122,7 @@ All Vanilla Factions are enabled by default
 
 **Formula**: floor(2 * x^0.6)%, where x is the number of Witch Conclaves you own.
 
-**![](/realm/img/picks/GreenFingersDiscountFactionUpgrade.png "Green Fingers Discount") Green Fingers Discount**
+**![](/realm/assets/img/picks/GreenFingersDiscountFactionUpgrade.png "Green Fingers Discount") Green Fingers Discount**
 
 **Cost**: 500 Qa (5E17)
 
@@ -132,7 +132,7 @@ All Vanilla Factions are enabled by default
 
 ---
 
-![](/realm/img/picks/GoblinHeritage.png "Goblin Heritage") **Goblin Heritage**
+![](/realm/assets/img/picks/GoblinHeritage.png "Goblin Heritage") **Goblin Heritage**
 
 **Cost**: 5000 Goblin Coins
 
@@ -146,7 +146,7 @@ All Vanilla Factions are enabled by default
 
 **Goblin Research Requirements**
 
-**![](/realm/img/picks/GoblinBankQuestFactionUpgrade.png "Goblin Bank Quest") Goblin Bank Quest**
+**![](/realm/assets/img/picks/GoblinBankQuestFactionUpgrade.png "Goblin Bank Quest") Goblin Bank Quest**
 
 Hey There! We need a safe place to keep our honestly earned savings. We'll turn those Witch Conclaves into something more... useful, if you build enough of them.
 
@@ -154,7 +154,7 @@ Hey There! We need a safe place to keep our honestly earned savings. We'll turn 
 
 **Cost**: 10 Dtg (1E100)
 
-**![](/realm/img/picks/GoblinBankFactionUpgrade.png "Goblin Bank") Goblin Bank**
+**![](/realm/assets/img/picks/GoblinBankFactionUpgrade.png "Goblin Bank") Goblin Bank**
 
 Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.
 
@@ -168,7 +168,7 @@ Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the 
 
 **Cost**: 10 Ttg (1E103)
 
-**![](/realm/img/picks/ExchequerFactionUpgrade.png "Exchequer") Exchequer**
+**![](/realm/assets/img/picks/ExchequerFactionUpgrade.png "Exchequer") Exchequer**
 
 **Effect**: Unlocks the Economics research facility and increases Goblin production by 100000%, plus an additional bonus based on Economics research points.
 
@@ -180,7 +180,7 @@ Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the 
 
 **Unique Building**
 
-![](/realm/img/picks/GoblinUniqueBuilding.png "Goblin Unique Building")
+![](/realm/assets/img/picks/GoblinUniqueBuilding.png "Goblin Unique Building")
 
 Upgraded from Witch Conclaves
 

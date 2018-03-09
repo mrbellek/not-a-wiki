@@ -16,7 +16,7 @@ Ascension 2 will give you access to Tier 7 spells. (See [spell page](/realm/Spel
 
 ###### Alignment
 
-![Proof of Order](/realm/img/picks/ProofofOrder.png "Proof of Order") **Proof of Order**
+![Proof of Order](/realm/assets/img/picks/ProofofOrder.png "Proof of Order") **Proof of Order**
 
 Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.
 
@@ -28,7 +28,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![Temporal Flux](/realm/img/picks/TemporalFlux.png "Temporal Flux") **Temporal Flux**
+![Temporal Flux](/realm/assets/img/picks/TemporalFlux.png "Temporal Flux") **Temporal Flux**
 
 **Cost**: 5000 Mana
 
@@ -42,7 +42,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Good**
 
-![Holy Site Quest](/realm/img/picks/HolySiteQuest.png "Holy Site Quest") **Holy Site Quest**
+![Holy Site Quest](/realm/assets/img/picks/HolySiteQuest.png "Holy Site Quest") **Holy Site Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -50,7 +50,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Grants access to Unique Building.
 
-![Unique Building Upgrade](/realm/img/picks/HolySiteUniqueBuildingUpgrade.png "Holy Site") **Unique Building Upgrade**
+![Unique Building Upgrade](/realm/assets/img/picks/HolySiteUniqueBuildingUpgrade.png "Holy Site") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -60,7 +60,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Unique Building**
 
-![Holy Site](/realm/img/picks/HolySiteUniqueBuilding.png "Holy Site")
+![Holy Site](/realm/assets/img/picks/HolySiteUniqueBuilding.png "Holy Site")
 
 Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
 
@@ -70,7 +70,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Formula**: (0.08 * x ^ 0.8)%, where x is time in second as good in this R.
 
-![Angels Union](/realm/img/picks/AngelsUnion.png "Angels Union") **Angels Union**
+![Angels Union](/realm/assets/img/picks/AngelsUnion.png "Angels Union") **Angels Union**
 
 **Cost**: 1 Qi (1e18) Angel Coins
 
@@ -78,7 +78,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Effect**: Grants access to Union Upgrade.
 
-![Heaven's Brilliance](/realm/img/picks/Heaven'sBrilliance.png "Heaven's Brilliance") **Heaven's Brilliance**
+![Heaven's Brilliance](/realm/assets/img/picks/Heaven'sBrilliance.png "Heaven's Brilliance") **Heaven's Brilliance**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -88,7 +88,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Formula**: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.
 
-![Angelix Fortitude](/realm/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
+![Angelix Fortitude](/realm/assets/img/picks/AngelicFortitude.png "Angelic Fortitude") **Angelic Fortitude**
 
 **Cost**: 1 Spvg (1e85) Emerald Coins
 
@@ -98,7 +98,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Formula**: (0.035 * x ^ 0.65), where x is seconds in current spells)
 
-![Seraphim Feathers](/realm/img/picks/SeraphimFeathers.png "Seraphim Feathers") **Seraphim Feathers**
+![Seraphim Feathers](/realm/assets/img/picks/SeraphimFeathers.png "Seraphim Feathers") **Seraphim Feathers**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -110,7 +110,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Evil**
 
-![Flesh Workshop Quest](/realm/img/picks/FleshWorkshopQuest.png "Flesh Workshop Quest") **Flesh Workshop Quest**
+![Flesh Workshop Quest](/realm/assets/img/picks/FleshWorkshopQuest.png "Flesh Workshop Quest") **Flesh Workshop Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -118,7 +118,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Effect**: Grants access to Unique Building.
 
-![Unique Building Upgrade](/realm/img/picks/FleshWorkshopUniqueBuildingUpgrade.png "Flesh Workshop") **Unique Building Upgrade**
+![Unique Building Upgrade](/realm/assets/img/picks/FleshWorkshopUniqueBuildingUpgrade.png "Flesh Workshop") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -128,7 +128,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 **Unique Building**
 
-![Flesh Workshop](/realm/img/picks/FleshWorkshopUniqueBuilding.png "Flesh Workshop")
+![Flesh Workshop](/realm/assets/img/picks/FleshWorkshopUniqueBuilding.png "Flesh Workshop")
 
 Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
 
@@ -140,7 +140,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Formula**: (2 * x ^ 0.6), where x is mana regen per second.
 
-![Undead Union](/realm/img/picks/UndeadUnion.png "Undead Union") **Undead Union**
+![Undead Union](/realm/assets/img/picks/UndeadUnion.png "Undead Union") **Undead Union**
 
 **Cost**: 1 Qi (1e18) Undead Coins
 
@@ -148,7 +148,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Effect**: Grants access to Union Upgrade.
 
-![Flesh Servants](/realm/img/picks/FleshServants.png "Flesh Servants") **Flesh Servants**
+![Flesh Servants](/realm/assets/img/picks/FleshServants.png "Flesh Servants") **Flesh Servants**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -158,7 +158,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Formula**: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.
 
-![Zombie Apocalypse](/realm/img/picks/ZombieApocalypse.png "Zombie Apocalypse") **Zombie Apocalypse**
+![Zombie Apocalypse](/realm/assets/img/picks/ZombieApocalypse.png "Zombie Apocalypse") **Zombie Apocalypse**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -168,7 +168,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Formula**: (0.7 * x ^ 0.7), where x is offline time thie R.
 
-![Eternal Servitude](/realm/img/picks/EternalServitude.png "Eternal Servitude") **Eternal Servitude**
+![Eternal Servitude](/realm/assets/img/picks/EternalServitude.png "Eternal Servitude") **Eternal Servitude**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -182,7 +182,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Neutral**
 
-![Mountain Palace Quest](/realm/img/picks/MountainPalaceQuest.png "Mountain Palace Quest") **Mountain Palace Quest**
+![Mountain Palace Quest](/realm/assets/img/picks/MountainPalaceQuest.png "Mountain Palace Quest") **Mountain Palace Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -190,7 +190,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Effect**: Grants access to Unique Building.
 
-![Mountain Palace](/realm/img/picks/MountainPalaceUniqueBuildingUpgrade.png "Mountain Palace") **Unique Building Upgrade**
+![Mountain Palace](/realm/assets/img/picks/MountainPalaceUniqueBuildingUpgrade.png "Mountain Palace") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -200,7 +200,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 **Unique Building**
 
-![Mountain Palace](/realm/img/picks/MountainPalaceUniqueBuilding.png "Mountain Palace")
+![Mountain Palace](/realm/assets/img/picks/MountainPalaceUniqueBuilding.png "Mountain Palace")
 
 Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
 
@@ -210,7 +210,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Formula**: (0.25 * x ^ 0.75), where x is building owned.
 
-![Titans Union](/realm/img/picks/TitansUnion.png "Titans Union") **Titans Union**
+![Titans Union](/realm/assets/img/picks/TitansUnion.png "Titans Union") **Titans Union**
 
 **Cost**: 1 Qi (1e18) Angel and Goblin Coins
 
@@ -218,7 +218,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Effect**: Grants access to Union Upgrade.
 
-![Giant Market](/realm/img/picks/GiantMarket.png "Giant Market") **Giant Market**
+![Giant Market](/realm/assets/img/picks/GiantMarket.png "Giant Market") **Giant Market**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -228,7 +228,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Formula**: (1.5 * x ^ 0.5), where x is amount of Mountain Palace owned.
 
-![Titanic Authority](/realm/img/picks/TitanicAuthority.png "Titanic Authority") **Titanic Authority**
+![Titanic Authority](/realm/assets/img/picks/TitanicAuthority.png "Titanic Authority") **Titanic Authority**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -238,7 +238,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 **Formula**: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.
 
-![Colossus Kingdom](/realm/img/picks/ColossusKingdom.png "Colossus Kingdom") **Colossus Kingdom**
+![Colossus Kingdom](/realm/assets/img/picks/ColossusKingdom.png "Colossus Kingdom") **Colossus Kingdom**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -250,7 +250,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 ---
 
-![Proof of Chaos](/realm/img/picks/ProofofChaos.png "Proof of Chaos") **Proof of Chaos**
+![Proof of Chaos](/realm/assets/img/picks/ProofofChaos.png "Proof of Chaos") **Proof of Chaos**
 
 Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.
 
@@ -262,7 +262,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![Maelstrom](/realm/img/picks/Maelstrom.png "Maelstrom") **Maelstrom**
+![Maelstrom](/realm/assets/img/picks/Maelstrom.png "Maelstrom") **Maelstrom**
 
 **Cost**: 3500 Mana
 
@@ -282,7 +282,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Good**
 
-![Swarming Towers Quest](/realm/img/picks/SwarmingTowerQuest.png "Swarming Towers Quest") **Swarming Towers Quest**
+![Swarming Towers Quest](/realm/assets/img/picks/SwarmingTowerQuest.png "Swarming Towers Quest") **Swarming Towers Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -290,7 +290,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Grants access to Unique Building.
 
-![Swarming Towers Unique Building Upgrade](/realm/img/picks/SwarmingTowersUniqueBuildingUpgrade.png "Swarming Towers") **Unique Building Upgrade**
+![Swarming Towers Unique Building Upgrade](/realm/assets/img/picks/SwarmingTowersUniqueBuildingUpgrade.png "Swarming Towers") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -300,7 +300,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Unique Building**
 
-![Swarming Towers](/realm/img/picks/SwarmingTowersUniqueBuilding.png "Swarming Towers")
+![Swarming Towers](/realm/assets/img/picks/SwarmingTowersUniqueBuilding.png "Swarming Towers")
 
 Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
 
@@ -310,7 +310,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Formula**: (0.35 * x ^ 2.35)%, where x is active spells.
 
-![Fairies Union](/realm/img/picks/FairiesUnion.png "Fairies Union") **Fairies Union**
+![Fairies Union](/realm/assets/img/picks/FairiesUnion.png "Fairies Union") **Fairies Union**
 
 **Cost**: 1 Qi (1e18) Fairy Coins
 
@@ -318,7 +318,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Effect**: Grants access to Union Upgrade.
 
-![Bubble Swarm](/realm/img/picks/BubbleSwarm.png "Bubble Swarm") **Bubble Swarm**
+![Bubble Swarm](/realm/assets/img/picks/BubbleSwarm.png "Bubble Swarm") **Bubble Swarm**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -330,7 +330,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 &nbsp;
 
-![Pheromones](/realm/img/picks/Pheromones.png ""Pheromones") **Pheromones**
+![Pheromones](/realm/assets/img/picks/Pheromones.png ""Pheromones") **Pheromones**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -342,7 +342,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 &nbsp;
 
-![Dream Catchers](/realm/img/picks/DreamCatchers.png "Dream Catchers") **Dream Catchers**
+![Dream Catchers](/realm/assets/img/picks/DreamCatchers.png "Dream Catchers") **Dream Catchers**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -354,7 +354,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Evil**
 
-![Burning Abyss Quest](/realm/img/picks/BurningAbyssQuest.png "Burning Abyss Quest") **Burning Abyss Quest**
+![Burning Abyss Quest](/realm/assets/img/picks/BurningAbyssQuest.png "Burning Abyss Quest") **Burning Abyss Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -362,7 +362,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Effect**: Grants access to Unique Building.
 
-![Burning Abyss Unique Building Upgrade](/realm/img/picks/BurningAbyssUniqueBuildingUpgrade.png "Burning Abyss") **Burning Abyss Unique Building Upgrade**
+![Burning Abyss Unique Building Upgrade](/realm/assets/img/picks/BurningAbyssUniqueBuildingUpgrade.png "Burning Abyss") **Burning Abyss Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -372,7 +372,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 **Unique Building**
 
-![Burning Abyss](/realm/img/picks/BurningAbyssUniqueBuilding.png "Burning Abyss")
+![Burning Abyss](/realm/assets/img/picks/BurningAbyssUniqueBuilding.png "Burning Abyss")
 
 Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
 
@@ -382,7 +382,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Formula**: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R
 
-![Demons Union](/realm/img/picks/DemonsUnion.png "Demons Union") **Demons Union**
+![Demons Union](/realm/assets/img/picks/DemonsUnion.png "Demons Union") **Demons Union**
 
 **Cost**: 1 Qi (1e18) Demon Coins
 
@@ -390,7 +390,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Effect**: Grants access to Union Upgrade.
 
-![Abyssal Furnace](/realm/img/picks/AbyssalFurnace.png "Abyssal Furnace") **Abyssal Furnace**
+![Abyssal Furnace](/realm/assets/img/picks/AbyssalFurnace.png "Abyssal Furnace") **Abyssal Furnace**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -400,7 +400,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Formula**: (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, T is building tier.
 
-![Demonic Fury](/realm/img/picks/DemonicFury.png "Demonic Fury") **Demonic Fury**
+![Demonic Fury](/realm/assets/img/picks/DemonicFury.png "Demonic Fury") **Demonic Fury**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -410,7 +410,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Formula**: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.
 
-![Devastation](/realm/img/picks/Devastation.png "Devastation") **Devastation**
+![Devastation](/realm/assets/img/picks/Devastation.png "Devastation") **Devastation**
 
 **Cost**: 10 Dtg (1e00) Emerald Coins
 
@@ -424,7 +424,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Neutral**
 
-![Forbidden Library Quest](/realm/img/picks/ForbiddenLibraryQuest.png "Mountain Palace Quest") **Forbidden Library Quest**
+![Forbidden Library Quest](/realm/assets/img/picks/ForbiddenLibraryQuest.png "Mountain Palace Quest") **Forbidden Library Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -432,7 +432,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Effect**: Grants access to Unique Building.
 
-![Forbidden Library Unique Building Upgrade](/realm/img/picks/ForbiddenLibraryUniqueBuildingUpgrade.png "Forbidden Library") **Forbidden Library Unique Building Upgrade**
+![Forbidden Library Unique Building Upgrade](/realm/assets/img/picks/ForbiddenLibraryUniqueBuildingUpgrade.png "Forbidden Library") **Forbidden Library Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -442,7 +442,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 **Unique Building**
 
-![Forbidden Library](/realm/img/picks/ForbiddenLibraryUniqueBuilding.png "Forbidden Library")
+![Forbidden Library](/realm/assets/img/picks/ForbiddenLibraryUniqueBuilding.png "Forbidden Library")
 
 Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
 
@@ -452,7 +452,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 **Formula**: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.
 
-![Faceless Union](/realm/img/picks/FacelessUnion.png "Faceless Union") **Faceless Union**
+![Faceless Union](/realm/assets/img/picks/FacelessUnion.png "Faceless Union") **Faceless Union**
 
 **Cost**: 1 Qi (1e18) Fairy and Undead Coins
 
@@ -460,7 +460,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 **Effect**: Grants access to Union Upgrade.
 
-![Primal Knowledge](/realm/img/picks/PrimalKnowledge.png "Primal Knowledge") **Primal Knowledge**
+![Primal Knowledge](/realm/assets/img/picks/PrimalKnowledge.png "Primal Knowledge") **Primal Knowledge**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -470,7 +470,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 **Formula**: ((Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.
 
-![Forbidden Language](/realm/img/picks/ForbiddenLanguage.png "Forbidden Language") **Forbidden Language**
+![Forbidden Language](/realm/assets/img/picks/ForbiddenLanguage.png "Forbidden Language") **Forbidden Language**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -480,7 +480,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 **Formula**: (x)
 
-![Dimension Door](/realm/img/picks/DimensionDoor.png "Dimension Door") **Dimension Door**
+![Dimension Door](/realm/assets/img/picks/DimensionDoor.png "Dimension Door") **Dimension Door**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
@@ -492,7 +492,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 ---
 
-![Proof of Balance](/realm/img/picks/ProofofBalance.png "Proof of Balance") **Proof of Balance**
+![Proof of Balance](/realm/assets/img/picks/ProofofBalance.png "Proof of Balance") **Proof of Balance**
 
 Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.
 
@@ -504,7 +504,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Spell**
 
-![All Creation](/realm/img/picks/AllCreation.png "All Creation") **All Creation**
+![All Creation](/realm/assets/img/picks/AllCreation.png "All Creation") **All Creation**
 
 **Cost**: 6000 Mana
 
@@ -518,7 +518,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Good**
 
-![Arboreal City Quest](/realm/img/picks/ArborealCityQuest.png "Arboreal City Quest") **Arboreal City Quest**
+![Arboreal City Quest](/realm/assets/img/picks/ArborealCityQuest.png "Arboreal City Quest") **Arboreal City Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -526,7 +526,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Effect**: Grants access to Unique Building.
 
-![Arboreal City Unique Building Upgrade](/realm/img/picks/ArborealCityUniqueBuildingUpgrade.png "Arboreal City") **Unique Building Upgrade**
+![Arboreal City Unique Building Upgrade](/realm/assets/img/picks/ArborealCityUniqueBuildingUpgrade.png "Arboreal City") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -536,7 +536,7 @@ Choosing this alignment will remove Ascension penalties on all alignment spells 
 
 **Unique Building**
 
-![Arboreal City](/realm/img/picks/ArborealCityUniqueBuilding.png "Arboreal City")
+![Arboreal City](/realm/assets/img/picks/ArborealCityUniqueBuilding.png "Arboreal City")
 
 Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
 
@@ -546,7 +546,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Formula**: floor(20 * (log10(1 + x)) ^ 2), where x is FC chance.
 
-![Elven Union](/realm/img/picks/ElvenUnion.png "Elven Union") **Elven Union**
+![Elven Union](/realm/assets/img/picks/ElvenUnion.png "Elven Union") **Elven Union**
 
 **Cost**: 1 Qi (1e18) Elven Coins
 
@@ -554,7 +554,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Effect**: Grants access to Union Upgrade.
 
-![Wooden Dices](/realm/img/picks/WoodenDices.png "Wooden Dices") **Wooden Dice**
+![Wooden Dices](/realm/assets/img/picks/WoodenDices.png "Wooden Dices") **Wooden Dice**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -568,7 +568,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Faction Coin Formula**: (1.5 * x ^ 0.7), where x is Arboreal Cities count.
 
-![Camouflage](/realm/img/picks/Camouflage.png "Camouflage") **Camouflage**
+![Camouflage](/realm/assets/img/picks/Camouflage.png "Camouflage") **Camouflage**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -580,7 +580,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Note**: Applies to formulas that use Assistant count, but not actual assistants.
 
-![Elven Discipline](/realm/img/picks/ElvenDiscipline.png "Elven Discipline") **Elven Discipline**
+![Elven Discipline](/realm/assets/img/picks/ElvenDiscipline.png "Elven Discipline") **Elven Discipline**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
@@ -594,7 +594,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Evil**
 
-![Slave Market Quest](/realm/img/picks/SlaveMarketQuest.png "Burning Abyss Quest") **Slave Market Quest**
+![Slave Market Quest](/realm/assets/img/picks/SlaveMarketQuest.png "Burning Abyss Quest") **Slave Market Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -602,7 +602,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Effect**: Grants access to Unique Building.
 
-![Slave Market Unique Building Upgrade](/realm/img/picks/SlaveMarketUniqueBuildingUpgrade.png "Slave Market") **Unique Building Upgrade**
+![Slave Market Unique Building Upgrade](/realm/assets/img/picks/SlaveMarketUniqueBuildingUpgrade.png "Slave Market") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -612,7 +612,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 **Unique Building**
 
-![Slave Market](/realm/img/picks/SlaveMarketUniqueBuilding.png "Slave Market")
+![Slave Market](/realm/assets/img/picks/SlaveMarketUniqueBuilding.png "Slave Market")
 
 Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.
 
@@ -622,7 +622,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Formula**: floor(0.25 * x ^ 0.75)%, where x is amount of assistants.
 
-![Goblins Union](/realm/img/picks/GoblinsUnion.png "Goblins Union") **Goblins Union**
+![Goblins Union](/realm/assets/img/picks/GoblinsUnion.png "Goblins Union") **Goblins Union**
 
 **Cost**: 1 Qi (1e18) Goblin Coins
 
@@ -630,7 +630,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Effect**: Grants access to Union Upgrade.
 
-![Fools Gems](/realm/img/picks/FoolsGems.png "Fools Gems") **Fools Gems**
+![Fools Gems](/realm/assets/img/picks/FoolsGems.png "Fools Gems") **Fools Gems**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -642,7 +642,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Formula**: X ^ 0.5, where x is Slave Market you own.
 
-![Money is Magic](/realm/img/picks/MoneyisMagic.png "Money is Magic") **Money is Magic**
+![Money is Magic](/realm/assets/img/picks/MoneyisMagic.png "Money is Magic") **Money is Magic**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -652,7 +652,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Formula**: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.
 
-![Lousy Architecture](/realm/img/picks/LousyArchitecture.png "Lousy Architecture") **Lousy Architecture**
+![Lousy Architecture](/realm/assets/img/picks/LousyArchitecture.png "Lousy Architecture") **Lousy Architecture**
 **Cost**: 10 Dtg (1e100) Emerald Coins
 
 **Requirement**: Goblins Union
@@ -665,7 +665,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Neutral**
 
-![Ziggurat Quest](/realm/img/picks/ZigguratQuest.png "Ziggurat Quest") **Ziggurat Quest**
+![Ziggurat Quest](/realm/assets/img/picks/ZigguratQuest.png "Ziggurat Quest") **Ziggurat Quest**
 
 **Cost**: 1 Ud (1e36) Emerald Coins
 
@@ -673,7 +673,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Effect**: Grants access to Unique Building.
 
-![Ziggurat Unique Building Upgrade](/realm/img/picks/ZigguratUniqueBuildingUpgrade.png "Ziggurat") **Unique Building Upgrade**
+![Ziggurat Unique Building Upgrade](/realm/assets/img/picks/ZigguratUniqueBuildingUpgrade.png "Ziggurat") **Unique Building Upgrade**
 
 **Cost**: 1 Td (1e42) Emerald Coin
 
@@ -683,7 +683,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 **Unique Building**
 
-![Ziggurat](/realm/img/picks/ZigguratUniqueBuilding.png "Ziggurat")
+![Ziggurat](/realm/assets/img/picks/ZigguratUniqueBuilding.png "Ziggurat")
 
 Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.
 
@@ -693,7 +693,7 @@ Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineag
 
 **Formula**: floor(x^1.1)%, where x is total level of lineages
 
-![Druids Union](/realm/img/picks/DruidsUnion.png "Druids Union") **Druids Union**
+![Druids Union](/realm/assets/img/picks/DruidsUnion.png "Druids Union") **Druids Union**
 
 **Cost**: 1 Qi (1e18) Elven and Demon Coins
 
@@ -701,7 +701,7 @@ Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineag
 
 **Effect**: Grants access to Union Upgrade.
 
-![Building Vines](/realm/img/picks/BuildingVines.png "Building Vines") **Building Vines**
+![Building Vines](/realm/assets/img/picks/BuildingVines.png "Building Vines") **Building Vines**
 
 **Cost**: 1 Nod (1e60) Emerald Coins
 
@@ -713,7 +713,7 @@ Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineag
 
 <b>Formula</b>: (1.5 * x ^ 0.5), where x is Ziggurats count.</p>
 
-![Lunar Cycle](/realm/img/picks/LunarCycle.png "Lunar Cycle") **Lunar Cycle**
+![Lunar Cycle](/realm/assets/img/picks/LunarCycle.png "Lunar Cycle") **Lunar Cycle**
 
 **Cost**: 10 Spvg (1e85) Emerald Coins
 
@@ -723,7 +723,7 @@ Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineag
 
 **Formula**: ((x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is online time in seconds and y is offline time in seconds.
 
-![Grove Farming](/realm/img/picks/GroveFarming.png "Grove Farming") **Grove Farming**
+![Grove Farming](/realm/assets/img/picks/GroveFarming.png "Grove Farming") **Grove Farming**
 
 **Cost**: 10 Dtg (1e100) Emerald Coins
 

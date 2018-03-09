@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Elf Challenge 1**
 
-![Advanced Civilization](/realm/img/picks/AdvancedCivilizationChallenges.png "Advanced Civilization") **Advanced Civilization**
+![Advanced Civilization](/realm/assets/img/picks/AdvancedCivilizationChallenges.png "Advanced Civilization") **Advanced Civilization**
 
 The Eleven council have asked you to provide proof of your loyalty to their cause. Hopefully you'll be quick and efficient enough to impress them.
 
@@ -28,7 +28,7 @@ Don't forget to use excavations.
 
 **Elf Challenge 2**
 
-![Light Collector](/realm/img/picks/LightCollectorChallenges.png "Light Collector") **Light Collector**
+![Light Collector](/realm/assets/img/picks/LightCollectorChallenges.png "Light Collector") **Light Collector**
 
 The elven council has asked you to gather countless stars. Time is essence!
 
@@ -48,7 +48,7 @@ Elf/Elf Bloodline buy all upgrades and auto cast Moon Blessing only. Takes about
 
 **Elf Challenge 3**
 
-![Runic Conversion](/realm/img/picks/RunicConversionChallenges.png "Runic Conversion") **Runic Conversion**
+![Runic Conversion](/realm/assets/img/picks/RunicConversionChallenges.png "Runic Conversion") **Runic Conversion**
 
 The elven council intends to use the light you've gathered as a weapon against their corrupt cousins, as soon as they detect weakness.
 
@@ -66,6 +66,6 @@ The elven council intends to use the light you've gathered as a weapon against t
 
 **In-Game Challenge Final Reward**
 
-![Star Blessing](/realm/img/picks/StarBlessingChallenges.png "Star Blessing") **Star Blessing**
+![Star Blessing](/realm/assets/img/picks/StarBlessingChallenges.png "Star Blessing") **Star Blessing**
 
 **Effect**: Automatic clicks from Sun Blessing have an additional 5% chance to trigger Elven Luck, gaining coins equal to 250000% of your production and gathering (R + 1) * x random faction coins, where x is FC chance.

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/TrophyTopPage.png)
+###### ![](/realm/assets/img/picks/TrophyTopPage.png)
 
 All have tooltips--just point.
 
@@ -10,10 +10,10 @@ Some of these trophies will be easy, others will need special builds to complete
 
 If a build is needed I will add a link to that build.
 
-<img src="/realm/img/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
-<img src="/realm/img/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
-<img src="/realm/img/picks/NonSecretTrophiesnew.png" usemap="#NonSecretTrophiesnew-map">
-<img src="/realm/img/picks/MagicTrophyMapnew.png" usemap="#MagicTrophyMapnew-map">
+<img src="/realm/assets/img/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
+<img src="/realm/assets/img/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
+<img src="/realm/assets/img/picks/NonSecretTrophiesnew.png" usemap="#NonSecretTrophiesnew-map">
+<img src="/realm/assets/img/picks/MagicTrophyMapnew.png" usemap="#MagicTrophyMapnew-map">
 <map name="SecretTrophyMapnew-map">
     <area target="" research="Leet<p>Requirement: Have exactly 1337 Coins at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.337%" coords="5,47,62,103" shape="rect">
     <area target="" research="Unitary<p>Requirement: Have exactly 1 of each building at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p> This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.11111111%" coords="69,45,126,103" shape="rect">
@@ -320,8 +320,8 @@ If a build is needed I will add a link to that build.
     <area target="" research="Perfect Combo<p>Requirement: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.<p>Drow Spell" coords="260,492,318,550" shape="0">
     <area target="" research="Dragon's Roar<p>Requirement: Cast Dragon's Breath while having at least 4 other active spells.<p>Cost: 1.0e45<p>Effect: Dragon's Breath also produces Faction Coins at each cast based on its activity time.<p>Dragon Spell" coords="324,493,382,550" shape="0">
 </map>
-<img src="/realm/img/picks/BuildingTrophiesTop.png">
-<img src="/realm/img/picks/TotalBuildingTrophyMapnew.png" usemap="#TotalBuildingTrophyMapnew-map">
+<img src="/realm/assets/img/picks/BuildingTrophiesTop.png">
+<img src="/realm/assets/img/picks/TotalBuildingTrophyMapnew.png" usemap="#TotalBuildingTrophyMapnew-map">
 <map name="TotalBuildingTrophyMapnew-map">
     <area target="" research="Village Grinder<p>Requirement: Build a total of 100 buildings in a single game." coords="4,7,60,62" shape="rect">
     <area target="" research="Town Grinder<p>Requirement: Build a total of 250 buildings in a single game." coords="69,5,124,62" shape="rect">
@@ -338,7 +338,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="True Grinder<p>Requirement: Build a total of 125,000 buildings in a single game." coords="326,70,382,125" shape="rect">
     <area target="" research="Master Grinder<p>Requirement: Build 200,000 buildings in a single game." coords="389,70,446,126" shape="rect">
 </map>
-<img src="/realm/img/picks/FarmBuildingTrophyMap.png" usemap="#FarmBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/FarmBuildingTrophyMap.png" usemap="#FarmBuildingTrophyMap-map">
 <map name="FarmBuildingTrophyMap-map">
     <area target="" research="1 Farm Trophies<p>Requirement: Build 1 Farm in a single game.<p>Trophy Series 1/21" coords="6,5,60,61" shape="rect">
     <area target="" research="50 Farm Trophies<p>Requirement: Build 50 Farms in a single game.<p>Trophy Series 2/21" coords="69,5,124,61" shape="rect">
@@ -362,7 +362,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Farm Trophies<p>Requirement: Build 7500 Farms in a single game.<p>Trophy Series 20/21" coords="326,134,380,188" shape="rect">
     <area target="" research="12000 Farm Trophies<p>Requirement: Build 12000 Farms in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/InnBuildingTrophyMap.png" usemap="#InnBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/InnBuildingTrophyMap.png" usemap="#InnBuildingTrophyMap-map">
 <map name="InnBuildingTrophyMap-map">
     <area target="" research="1 Inn Trophies<p>Requirement: Build 1 Inn in a single game.<p>Trophy Series 20/21" coords="6,7,60,62" shape="rect">
     <area target="" research="50 Inn Trophies<p>Requirement: Build 50 Inns in a single game.<p>Trophy Series 20/21" coords="69,8,123,62" shape="rect">
@@ -386,7 +386,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Inn Trophies<p>Requirement: Build 7500 Inns in a single game.<p>Trophy Series 20/21" coords="326,136,380,190" shape="rect">
     <area target="" research="12000 Inn Trophies<p>Requirement: Build 12000 Inns in a single game.<p>Trophy Series 21/21" coords="389,134,449,190" shape="rect">
 </map>
-<img src="/realm/img/picks/BlacksmithBuildingTrophyMap.png" usemap="#BlacksmithBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/BlacksmithBuildingTrophyMap.png" usemap="#BlacksmithBuildingTrophyMap-map">
 <map name="BlacksmithBuildingTrophyMap-map">
     <area target="" research="1 Blacksmith <p>Requirement: Build 1 Blacksmith in a single game.<p>Trophy Series 1/21" coords="5,5,60,61" shape="rect">
     <area target="" research="50 Blacksmith <p>Requirement: Build 50 Blacksmiths in a single game.<p>Trophy Series 2/21" coords="69,7,125,62" shape="rect">
@@ -410,7 +410,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Blacksmith <p>Requirement: Build 7500 Blacksmiths in a single game.<p>Trophy Series 20/21" coords="327,133,380,187" shape="rect">
     <area target="" research="12000 Blacksmith <p>Requirement: Build 12000 Blacksmiths in a single game.<p>Trophy Series 21/21" coords="389,131,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/WarriorBarrackBuilbingTrophyMap.png" usemap="#WarriorBarrackBuilbingTrophyMap-map">
+<img src="/realm/assets/img/picks/WarriorBarrackBuilbingTrophyMap.png" usemap="#WarriorBarrackBuilbingTrophyMap-map">
 <map name="WarriorBarrackBuilbingTrophyMap-map">
     <area target="" research="1 Warrior Barrack<p>Requirement: Build 1 Warrior Barrack in a single game.<p>Trophy Series 1/21" coords="4,7,60,61" shape="rect">
     <area target="" research="50 Warrior Barracks<p>Requirement: Build 50 Warrior Barracks in a single game.<p>Trophy Series 2/21" coords="69,6,124,61" shape="rect">
@@ -434,7 +434,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Warrior Barracks<p>Requirement: Build 7500 Warrior Barracks in a single game.<p>Trophy Series 20/21" coords="326,133,382,188" shape="rect">
     <area target="" research="12000 Warrior Barracks<p>Requirement: Build 12000 Warrior Barracks in a single game.<p>Trophy Series 21/21" coords="389,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/SlavePenBuildingTrophyMap.png" usemap="#SlavePenBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/SlavePenBuildingTrophyMap.png" usemap="#SlavePenBuildingTrophyMap-map">
 <map name="SlavePenBuildingTrophyMap-map">
     <area target="" research="1 Slave Pen<p>Requirement: Build 1 Slave Pen in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Slave Pens<p>Requirement: Build 50 Slave Pens in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -458,7 +458,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Slave Pens<p>Requirement: Build 7500 Slave Pens in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Slave Pens<p>Requirement: Build 12000 Slave Pens in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/KnightsJoustBuildingTrophyMap.png" usemap="#KnightsJoustBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/KnightsJoustBuildingTrophyMap.png" usemap="#KnightsJoustBuildingTrophyMap-map">
 <map name="KnightsJoustBuildingTrophyMap-map">
     <area target="" research="1 Knights Joust<p>Requirement: Build 1 Knights Joust in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Knights Jousts<p>Requirement: Build 50 Knights Jousts in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -482,7 +482,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Knights Jousts<p>Requirement: Build 7500 Knights Jousts in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Knights Jousts<p>Requirement: Build 12000 Knights Jousts in a single game.<p>Trophy Series 21/21" coords="389,134,449,192" shape="rect">
 </map>
-<img src="/realm/img/picks/OrcishArenaBuildingTrophyMap.png" usemap="#OrcishArenaBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/OrcishArenaBuildingTrophyMap.png" usemap="#OrcishArenaBuildingTrophyMap-map">
 <map name="OrcishArenaBuildingTrophyMap-map">
     <area target="" research="1 Orcish Arena<p>Requirement: Build 1 Orcish Arena in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Orcish Arenas<p>Requirement: Build 50 Orcish Arenas in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -506,7 +506,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Orcish Arenas<p>Requirement: Build 7500 Orcish Arenas in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Orcish Arenas<p>Requirement: Build 12000 Orcish Arenas in a single game.<p>Trophy Series 21/21" coords="391,132,447,190" shape="rect">
 </map>
-<img src="/realm/img/picks/WizardTowerBuildingTrophyMap.png" usemap="#WizardTowerBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/WizardTowerBuildingTrophyMap.png" usemap="#WizardTowerBuildingTrophyMap-map">
 <map name="WizardTowerBuildingTrophyMap-map">
     <area target="" research="1 Wizard Tower<p>Requirement: Build 1 Wizard Tower in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Wizard Towers<p>Requirement: Build 50 Wizard Towers in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -530,7 +530,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Wizard Towers<p>Requirement: Build 7500 Wizard Towers in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Wizard Towers<p>Requirement: Build 12000 Wizard Towers in a single game.<p>Trophy Series 21/21" coords="391,133,446,191" shape="rect">
 </map>
-<img src="/realm/img/picks/WitchConclaveBuildingTrpohyMap.png" usemap="#WitchConclaveBuildingTrpohyMap-map">
+<img src="/realm/assets/img/picks/WitchConclaveBuildingTrpohyMap.png" usemap="#WitchConclaveBuildingTrpohyMap-map">
 <map name="WitchConclaveBuildingTrpohyMap-map">
     <area target="" research="1 Witch Conclave<p>Requirement: Build 1 Witch Conclave in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Witch Conclaves<p>Requirement: Build 50 Witch Conclaves in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -554,7 +554,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Witch Conclaves<p>Requirement: Build 7500 Witch Conclaves in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Witch Conclaves<p>Requirement: Build 12000 Witch Conclaves in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/CathedralBuildingTrophyMap.png" usemap="#CathedralBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/CathedralBuildingTrophyMap.png" usemap="#CathedralBuildingTrophyMap-map">
 <map name="CathedralBuildingTrophyMap-map">
     <area target="" research="1 Cathedral<p>Requirement: Build 1 Cathedral in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Cathedrals<p>Requirement: Build 50 Cathedrals in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -578,7 +578,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Cathedrals<p>Requirement: Build 7500 Cathedrals in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Cathedrals<p>Requirement: Build 12000 Cathedrals in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/DarkTempleBuildingTrophyMap.png" usemap="#DarkTempleBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/DarkTempleBuildingTrophyMap.png" usemap="#DarkTempleBuildingTrophyMap-map">
 <map name="DarkTempleBuildingTrophyMap-map">
     <area target="" research="1 Dark Temple<p>Requirement: Build 1 Dark Temple in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Dark Temples<p>Requirement: Build 50 Dark Temples in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -602,7 +602,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Dark Temples<p>Requirement: Build 7500 Dark Temples in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Dark Temples<p>Requirement: Build 12000 Dark Temples in a single game.<p>Trophy Series 21/21" coords="391,134,449,189" shape="rect">
 </map>
-<img src="/realm/img/picks/CitadelBuildingTrophyMap.png" usemap="#CitadelBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/CitadelBuildingTrophyMap.png" usemap="#CitadelBuildingTrophyMap-map">
 <map name="CitadelBuildingTrophyMap-map">
     <area target="" research="1 Citadel<p>Requirement: Build 1 Citadel in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Citadels<p>Requirement: Build 50 Citadels in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -626,7 +626,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Citadels<p>Requirement: Build 7500 Citadels in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Citadels<p>Requirement: Build 12000 Citadels in a single game.<p>Trophy Series 21/21" coords="389,133,444,190" shape="rect">
 </map>
-<img src="/realm/img/picks/NecropolisBuildingTrophyMap.png" usemap="#NecropolisBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/NecropolisBuildingTrophyMap.png" usemap="#NecropolisBuildingTrophyMap-map">
 <map name="NecropolisBuildingTrophyMap-map">
     <area target="" research="1 Necropolis<p>Requirement: Build 1 Necropolis in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Necropolises<p>Requirement: Build 50 Necropolises in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -650,7 +650,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Necropolises<p>Requirement: Build 7500 Necropolises in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Necropolises<p>Requirement: Build 12000 Necropolises in a single game.<p>Trophy Series 21/21" coords="389,133,446,190" shape="rect">
 </map>
-<img src="/realm/img/picks/RoyalCastleBuildingTrophyMap.png" usemap="#RoyalCastleBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/RoyalCastleBuildingTrophyMap.png" usemap="#RoyalCastleBuildingTrophyMap-map">
 <map name="RoyalCastleBuildingTrophyMap-map">
     <area target="" research="1 Royal Castle<p>Requirement: Build 1 Royal Castle in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Royal Castles<p>Requirement: Build 50 Royal Castles in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -674,7 +674,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Royal Castles<p>Requirement: Build 7500 Royal Castles in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Royal Castles<p>Requirement: Build 12000 Royal Castles in a single game.<p>Trophy Series 21/21" coords="391,132,446,190" shape="rect">
 </map>
-<img src="/realm/img/picks/EvilFortressBuildingTrophyMap.png" usemap="#EvilFortressBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/EvilFortressBuildingTrophyMap.png" usemap="#EvilFortressBuildingTrophyMap-map">
 <map name="EvilFortressBuildingTrophyMap-map">
     <area target="" research="1 Evil Fortress<p>Requirement: Build 1 Evil Fortress in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Evil Fortresses<p>Requirement: Build 50 Evil Fortresses in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -698,7 +698,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Evil Fortresses<p>Requirement: Build 7500 Evil Fortresses in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Evil Fortresses<p>Requirement: Build 12000 Evil Fortresses in a single game.<p>Trophy Series 21/21" coords="389,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/Heaven'sGateBuildingTrophyMap.png" usemap="#Heaven'sGateBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/Heaven'sGateBuildingTrophyMap.png" usemap="#Heaven'sGateBuildingTrophyMap-map">
 <map name="Heaven'sGateBuildingTrophyMap-map">
     <area target="" research="1 Heaven's Gate<p>Requirement: Build 1 Heaven's Gate in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Heaven's Gates<p>Requirement: Build 50 Heaven's Gates in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -722,7 +722,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Heaven's Gates<p>Requirement: Build 7500 Heaven's Gates in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Heaven's Gates<p>Requirement: Build 12000 Heaven's Gates in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/HellPortalBuildingTrophyMap.png" usemap="#HellPortalBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/HellPortalBuildingTrophyMap.png" usemap="#HellPortalBuildingTrophyMap-map">
 <map name="HellPortalBuildingTrophyMap-map">
     <area target="" research="1 Hell Portal<p>Requirement: Build 1 Hell Portal in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Hell Portals<p>Requirement: Build 50 Hell Portals in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -746,7 +746,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Hell Portals<p>Requirement: Build 7500 Hell Portals in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Hell Portals<p>Requirement: Build 12000 Hell Portals in a single game.<p>Trophy Series 21/21" coords="387,133,446,191" shape="rect">
 </map>
-<img src="/realm/img/picks/DeepMineBuildingTrophyMap.png" usemap="#DeepMineBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/DeepMineBuildingTrophyMap.png" usemap="#DeepMineBuildingTrophyMap-map">
 <map name="DeepMineBuildingTrophyMap-map">
     <area target="" research="1 Deep Mine<p>Requirement: Build 1 Deep Mine in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Deep Mines<p>Requirement: Build 50 Deep Mines in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -770,7 +770,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Deep Mines<p>Requirement: Build 7500 Deep Mines in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Deep Mines<p>Requirement: Build 12000 Deep Mines in a single game.<p>Trophy Series 21/21" coords="389,131,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/StonePillarBuildingTrophyMap.png" usemap="#StonePillarBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/StonePillarBuildingTrophyMap.png" usemap="#StonePillarBuildingTrophyMap-map">
 <map name="StonePillarBuildingTrophyMap-map">
     <area target="" research="1 Stone Pillar<p>Requirement: Build 1 Stone Pillar in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Stone Pillars<p>Requirement: Build 50 Stone Pillars in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -794,7 +794,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Stone Pillars<p>Requirement: Build 7500 Stone Pillars in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Stone Pillars<p>Requirement: Build 12000 Stone Pillars in a single game.<p>Trophy Series 21/21" coords="389,132,449,189" shape="rect">
 </map>
-<img src="/realm/img/picks/AlchemistLabBuildingTrophyMap.png" usemap="#AlchemistLabBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/AlchemistLabBuildingTrophyMap.png" usemap="#AlchemistLabBuildingTrophyMap-map">
 <map name="AlchemistLabBuildingTrophyMap-map">
     <area target="" research="1 Alchemist Lab<p>Requirement: Build 1 Alchemist Lab in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Alchemist Labs<p>Requirement: Build 50 Alchemist Labs in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -818,7 +818,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Alchemist Labs<p>Requirement: Build 7500 Alchemist Labs in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Alchemist Labs<p>Requirement: Build 12000 Alchemist Labs in a single game.<p>Trophy Series 21/21" coords="391,133,446,189" shape="rect">
 </map>
-<img src="/realm/img/picks/MonasteryBuildingTrophyMap.png" usemap="#MonasteryBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/MonasteryBuildingTrophyMap.png" usemap="#MonasteryBuildingTrophyMap-map">
 <map name="MonasteryBuildingTrophyMap-map">
     <area target="" research="1 Monastery<p>Requirement: Build 1 Monastery in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Monasteries<p>Requirement: Build 50 Monasteries in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -842,7 +842,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Monasteries<p>Requirement: Build 7500 Monasteries in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Monasteries<p>Requirement: Build 12000 Monasteries in a single game.<p>Trophy Series 21/21" coords="389,134,447,190" shape="rect">
 </map>
-<img src="/realm/img/picks/LabyrinthBuuildingTrophyMap.png" usemap="#LabyrinthBuuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/LabyrinthBuuildingTrophyMap.png" usemap="#LabyrinthBuuildingTrophyMap-map">
 <map name="LabyrinthBuuildingTrophyMap-map">
     <area target="" research="1 Labyrinth<p>Requirement: Build 1 Labyrinth in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Labyrinths<p>Requirement: Build 50 Labyrinths in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -866,7 +866,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Labyrinths<p>Requirement: Build 7500 Labyrinths in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Labyrinths<p>Requirement: Build 12000 Labyrinths in a single game.<p>Trophy Series 21/21" coords="389,131,445,189" shape="rect">
 </map>
-<img src="/realm/img/picks/IronStrongholdBuildingTrophyMap.png" usemap="#IronStrongholdBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/IronStrongholdBuildingTrophyMap.png" usemap="#IronStrongholdBuildingTrophyMap-map">
 <map name="IronStrongholdBuildingTrophyMap-map">
     <area target="" research="1 Iron Stronghold<p>Requirement: Build 1 Iron Stronghold in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Iron Strongholds<p>Requirement: Build 50 Iron Strongholds in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -890,7 +890,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Iron Strongholds<p>Requirement: Build 7500 Iron Strongholds in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Iron Strongholds<p>Requirement: Build 12000 Iron Strongholds in a single game.<p>Trophy Series 21/21" coords="389,132,445,189" shape="rect">
 </map>
-<img src="/realm/img/picks/AncientPyramidBuildingTrophyMap.png" usemap="#AncientPyramidBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/AncientPyramidBuildingTrophyMap.png" usemap="#AncientPyramidBuildingTrophyMap-map">
 <map name="AncientPyramidBuildingTrophyMap-map">
     <area target="" research="1 Ancient Pyramid<p>Requirement: Build 1 Ancient Pyramid in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Ancient Pyramids<p>Requirement: Build 50 Ancient Pyramids in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">
@@ -914,7 +914,7 @@ If a build is needed I will add a link to that build.
     <area target="" research="7500 Ancient Pyramids<p>Requirement: Build 7500 Ancient Pyramids in a single game.<p>Trophy Series 20/21"coords="326,135,383,188" shape="rect">
     <area target="" research="12000 Ancient Pyramid<p>Requirement: Build 12000 Ancient Pyramids in a single game.<p>Trophy Series 21/21" coords="447,190,387,133" shape="rect">
 </map>
-<img src="/realm/img/picks/HallOfLegendsBuildingTrophyMap.png" usemap="#HallOfLegendsBuildingTrophyMap-map">
+<img src="/realm/assets/img/picks/HallOfLegendsBuildingTrophyMap.png" usemap="#HallOfLegendsBuildingTrophyMap-map">
 <map name="HallOfLegendsBuildingTrophyMap-map">
     <area target="" research="1 Hall Of Legends<p>Requirement: Build 1 Hall Of Legends in a single game.<p>Trophy Series 1/21"coords="6,6,60,61" shape="rect">
     <area target="" research="50 Halls Of Legends<p>Requirement: Build 50 Halls Of Legends in a single game.<p>Trophy Series 2/21"coords="69,8,126,61" shape="rect">

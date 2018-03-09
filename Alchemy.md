@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-###### [![Research facilities](/realm/img/picks/ResearchTopPage.png "Research facilities")](/realm/ResearchFacilities)
+###### [![Research facilities](/realm/assets/img/picks/ResearchTopPage.png "Research facilities")](/realm/ResearchFacilities)
 
 ###### Alchemy Facility
 
-![Alchemy](/realm/img/picks/Alchemyr.png "Alchemy") **Alchemy**
+![Alchemy](/realm/assets/img/picks/Alchemyr.png "Alchemy") **Alchemy**
 
 Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.
 

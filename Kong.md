@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h6><a target="_blank" research="View all games on Kongregate" href="https://www.silvergames.com/en/"><img src="/realm/img/picks/kongregate_anthill.png" alt="TrophiesTopPage" align="middle"></a></h6>
+<h6><a target="_blank" research="View all games on Kongregate" href="https://www.silvergames.com/en/"><img src="/realm/assets/img/picks/kongregate_anthill.png" alt="TrophiesTopPage" align="middle"></a></h6>
 
 **[REALM GRINDER Developer's Diary](http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-jan-8th-2018?page=2#posts-12170739)**
 

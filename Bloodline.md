@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![Bloodline](/realm/img/picks/BloodlineTopPage.png "Bloodline")
+###### ![Bloodline](/realm/assets/img/picks/BloodlineTopPage.png "Bloodline")
 
 ###### The Bloodline
 
@@ -14,7 +14,7 @@ This upgrade enables to choose a Faction Bloodline, giving a kind of cross-facti
 
 **Trophy & Upgrade**
 
-![Bloodstream](/realm/img/picks/BloodstreamSecretTrophy.png "Bloodstream") **Bloodstream**
+![Bloodstream](/realm/assets/img/picks/BloodstreamSecretTrophy.png "Bloodstream") **Bloodstream**
 
 Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in turn grants the Bloodstream upgrade.
 
@@ -30,7 +30,7 @@ Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in 
 
 ---
 
-![Fairy](/realm/img/picks/FairyBloodline.png "Fairy") **Fairy**
+![Fairy](/realm/assets/img/picks/FairyBloodline.png "Fairy") **Fairy**
 
 **Effect**: Increase the production of Farm, Inn and Blacksmith based on the assistants you own.
 
@@ -38,7 +38,7 @@ Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in 
 
 ---
 
-![Elven](/realm/img/picks/ElvenBloodline.png "Elven") **Elven**
+![Elven](/realm/assets/img/picks/ElvenBloodline.png "Elven") **Elven**
 
 **Effect**: Increase the chance to find Faction Coins based on Faction Coins found in this game and autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
 
@@ -50,7 +50,7 @@ Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in 
 
 ---
 
-![Angel](/realm/img/picks/AngelBloodline.png "Angel") **Angel**
+![Angel](/realm/assets/img/picks/AngelBloodline.png "Angel") **Angel**
 
 **Effect**: Increase mana regeneration based on spells cast this game.
 
@@ -58,7 +58,7 @@ Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in 
 
 ---
 
-![Goblin](/realm/img/picks/GoblinBloodline.png "Goblin") **Goblin**
+![Goblin](/realm/assets/img/picks/GoblinBloodline.png "Goblin") **Goblin**
 
 **Effect**: Reduce all building cost multipliers.
 
@@ -66,7 +66,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Undead](/realm/img/picks/UndeadBloodline.png "Undead") **Undead**
+![Undead](/realm/assets/img/picks/UndeadBloodline.png "Undead") **Undead**
 
 **Effect**: Gain additional assistants based on the amount of times you reincarnated.
 
@@ -74,7 +74,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Demon](/realm/img/picks/DemonBloodline.png "Demon") **Demon**
+![Demon](/realm/assets/img/picks/DemonBloodline.png "Demon") **Demon**
 
 **Effect**: Increase production bonus from gems based on total time spent being Evil.
 
@@ -82,7 +82,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Titan](/realm/img/picks/TitanBloodline.png "Titan") **Titan**
+![Titan](/realm/assets/img/picks/TitanBloodline.png "Titan") **Titan**
 
 **Effect**: Increase the production of all buildings based on the amount of Royal Exchanges you purchased.
 
@@ -90,7 +90,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Druid](/realm/img/picks/DruidBloodline.png "Druid") **Druid**
+![Druid](/realm/assets/img/picks/DruidBloodline.png "Druid") **Druid**
 
 **Effect**: Increase mana regeneration based on maximum mana.
 
@@ -98,7 +98,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Faceless](/realm/img/picks/FacelessBloodline.png "Faceless") **Faceless**
+![Faceless](/realm/assets/img/picks/FacelessBloodline.png "Faceless") **Faceless**
 
 **Effect**: Increase maximum mana based on mana produced in this game.
 
@@ -106,7 +106,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Dwarf](/realm/img/picks/DwarvenBloodline.png "Dwarf") **Dwarf**
+![Dwarf](/realm/assets/img/picks/DwarvenBloodline.png "Dwarf") **Dwarf**
 
 **Effect**: Increase the production of all buildings based on the amount of excavations you made.
 
@@ -114,7 +114,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Drow](/realm/img/picks/DrowBloodline.png "Drow") **Drow**
+![Drow](/realm/assets/img/picks/DrowBloodline.png "Drow") **Drow**
 
 **Effect**: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.
 
@@ -122,7 +122,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 ---
 
-![Dragon](/realm/img/picks/DragonBloodline.png "Dragon") **Dragon**
+![Dragon](/realm/assets/img/picks/DragonBloodline.png "Dragon") **Dragon**
 
 **Effect**: Increase the production of all buildings based on Faction Coin find chance.
 

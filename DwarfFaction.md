@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Dwarf](/realm/img/picks/DwarfTopPage.png "Dwarf")](/realm/Factions/)
+###### [![Dwarf](/realm/assets/img/picks/DwarfTopPage.png "Dwarf")](/realm/Factions/)
 
-![Champion Trophy](/realm/img/picks/Dwarves.png "Champion Trophy") **Champion Trophy**
+![Champion Trophy](/realm/assets/img/picks/Dwarves.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -20,7 +20,7 @@ The Dwarf faction cannot be combined with Evil or Neutral Factions, nor is there
 
 **Effect**: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by 200% for 12 seconds.
 
-**Spell Trophy & Upgrade**: ![Minedwarf](/realm/img/picks/MinedwarfFactionUpgrade.png "Minedwarf") **Minedwarf** 
+**Spell Trophy & Upgrade**: ![Minedwarf](/realm/assets/img/picks/MinedwarfFactionUpgrade.png "Minedwarf") **Minedwarf** 
 
 **Effect**: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%. 
 
@@ -32,7 +32,7 @@ The Dwarf faction cannot be combined with Evil or Neutral Factions, nor is there
 
 These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.
 
-![Passage to the Underworld](/realm/img/picks/PassageToTheUnderWorld.png "Passage to the Underworld") **Passage to the Underworld**
+![Passage to the Underworld](/realm/assets/img/picks/PassageToTheUnderWorld.png "Passage to the Underworld") **Passage to the Underworld**
 
 **Cost**: 50Qid (5E49)
 
@@ -44,7 +44,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tip**: Use Titans with about 53 Qa (5e16) gems
 
-![Sturdy Bearded Man's Quest](/realm/img/picks/SturdyBeardMan'sQuest.png "Sturdy Bearded Man's Quest") **Sturdy Bearded Man's Quest**
+![Sturdy Bearded Man's Quest](/realm/assets/img/picks/SturdyBeardMan'sQuest.png "Sturdy Bearded Man's Quest") **Sturdy Bearded Man's Quest**
 
 **Cost**: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins
 
@@ -56,7 +56,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Note**: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.
 
-![Underworld Diplomacy](/realm/img/picks/UnderworldDiplomacy.png "Underworld Diplomacy") **Underworld Diplomacy**
+![Underworld Diplomacy](/realm/assets/img/picks/UnderworldDiplomacy.png "Underworld Diplomacy") **Underworld Diplomacy**
 
 **Cost**: 1Qad (1E45)
 
@@ -68,19 +68,19 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 1 Upgrades**
 
-![Dwarven Trade Treaty](/realm/img/picks/DwarvenTradeTreaty.png "Dwarven Trade Treaty") **Dwarven Trade Treaty**
+![Dwarven Trade Treaty](/realm/assets/img/picks/DwarvenTradeTreaty.png "Dwarven Trade Treaty") **Dwarven Trade Treaty**
 
 **Cost**: 3000 Dwarven Coins
 
 **Effect**: Unlocks Tier 1 Upgrades
 
-![Dwarven Ale](/realm/img/picks/DwarvenAleFactionUpgrade.png "Dwarven Ale") **Dwarven Ale**
+![Dwarven Ale](/realm/assets/img/picks/DwarvenAleFactionUpgrade.png "Dwarven Ale") **Dwarven Ale**
 
 **Cost**: 5 Qad (5E45)
 
 **Effect**: Increase the production of all buildings by 1% per Inn you own.
 
-![Expert Masonry](/realm/img/picks/ExpertMasonryFactionUpgrade.png "Expert Masonry") **Expert Masonry**
+![Expert Masonry](/realm/assets/img/picks/ExpertMasonryFactionUpgrade.png "Expert Masonry") **Expert Masonry**
 
 **Cost**: 50 Qad (5E46)
 
@@ -88,7 +88,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.
 
-![Mining Prodigies](/realm/img/picks/MiningProdigiesFactionUpgrade.png "Mining Prodigies") **Mining Prodigies**
+![Mining Prodigies](/realm/assets/img/picks/MiningProdigiesFactionUpgrade.png "Mining Prodigies") **Mining Prodigies**
 
 **Cost**: 500 Qad (5E47)
 
@@ -100,13 +100,13 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Tier 2 Upgrades**
 
-![Dwarven Friendship Pact](/realm/img/picks/DwarvenFriendshipPactFactionUpgrade.png "Dwarven Friendship Pact") **Dwarven Friendship Pact**
+![Dwarven Friendship Pact](/realm/assets/img/picks/DwarvenFriendshipPactFactionUpgrade.png "Dwarven Friendship Pact") **Dwarven Friendship Pact**
 
 **Cost**: 12000 Dwarven Coins
 
 **Effect**: Unlocks more Dwarven Upgrades.
 
-![Underground Citadels](/realm/img/picks/UndergroundCitadelsFactionUpgrade.png "Underground Citadels") **Underground Citadels**
+![Underground Citadels](/realm/assets/img/picks/UndergroundCitadelsFactionUpgrade.png "Underground Citadels") **Underground Citadels**
 
 **Cost**: 50 Qid (5E49)
 
@@ -114,7 +114,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Formula**: round(210 * log(x)1.5)%, where x is your current number of gems.
 
-![Indestructible Treasure](/realm/img/picks/IndestructibleTreasureFactionUpgrade.png "Indestructible Treasure") **Indestructible Treasure**
+![Indestructible Treasure](/realm/assets/img/picks/IndestructibleTreasureFactionUpgrade.png "Indestructible Treasure") **Indestructible Treasure**
 
 **Cost**: 500 Qid (5E50)
 
@@ -122,7 +122,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Formula**: 0.5 * x^0.65%, where x is your Buildings Owned (This Game) stat.
 
-![Bearded Assistants](/realm/img/picks/BeardedAssistantsFactionUpgrade.png "Bearded Assistants") **Bearded Assistants**
+![Bearded Assistants](/realm/assets/img/picks/BeardedAssistantsFactionUpgrade.png "Bearded Assistants") **Bearded Assistants**
 
 **Cost**: 5 Sxd (5E51)
 
@@ -134,13 +134,13 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Tier 3 Upgrades**
 
-![Dwarven Alliance](/realm/img/picks/DwarvenAllianceFactionUpgrade.png "Dwarven Alliance") **Dwarven Alliance**
+![Dwarven Alliance](/realm/assets/img/picks/DwarvenAllianceFactionUpgrade.png "Dwarven Alliance") **Dwarven Alliance**
 
 **Cost**: 30000 Dwarven Coins
 
 **Effect**: Unlocks more Dwarven Upgrades.
 
-![Battlehammers](/realm/img/picks/BattlehammersFactionUpgrade.png "Battlehammers") **Battlehammers**
+![Battlehammers](/realm/assets/img/picks/BattlehammersFactionUpgrade.png "Battlehammers") **Battlehammers**
 
 **Cost**: 500 Sxd (5E53)
 
@@ -148,7 +148,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Formula**: ln(x)^3 * 1.5%, where x is your Dwarven Coins Gained (This Game) stat.
 
-![Magic Resistance](/realm/img/picks/MagicResistanceFactionUpgrade.png "Magic Resistance") **Magic Resistance**
+![Magic Resistance](/realm/assets/img/picks/MagicResistanceFactionUpgrade.png "Magic Resistance") **Magic Resistance**
 
 **Cost**: 5 Spd (5E54)
 
@@ -156,7 +156,7 @@ Reduces cost multiplier by 0.02; with no other reductions applying, the multipli
 
 **Formula**: 80 * x^0.85%, where x is your Mana per Second stat.
 
-![Overwatch](/realm/img/picks/OverwatchFactionUpgrade.png "Overwatch") **Overwatch**
+![Overwatch](/realm/assets/img/picks/OverwatchFactionUpgrade.png "Overwatch") **Overwatch**
 
 **Cost**: 50 Spd (5E55)
 
@@ -166,7 +166,7 @@ This bonus falls off by 1% per second, down to 0 while inactive.
 
 ---
 
-![Dwarven Heritage](/realm/img/picks/DwarvenHeritage.png "Dwarven Heritage") **Dwarven Heritage**
+![Dwarven Heritage](/realm/assets/img/picks/DwarvenHeritage.png "Dwarven Heritage") **Dwarven Heritage**
 
 **Cost**: 75,000 Dwarven Coins
 
@@ -180,7 +180,7 @@ This bonus falls off by 1% per second, down to 0 while inactive.
 
 **Dwarf Research Requirements**
 
-![Dwarven Forge Quest](/realm/img/picks/DwarvenForgeQuestFactionUpgrade.png "Dwarven Forge Quest") **Dwarven Forge Quest**
+![Dwarven Forge Quest](/realm/assets/img/picks/DwarvenForgeQuestFactionUpgrade.png "Dwarven Forge Quest") **Dwarven Forge Quest**
 
 Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!
 
@@ -190,7 +190,7 @@ Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Bl
 
 **Cost**: 10 Sxg (1E184)
 
-![Dwarven Forges](/realm/img/picks/DwarvenForgeFactionUpgrade.png "Dwarven Forges") **Dwarven Forges**
+![Dwarven Forges](/realm/assets/img/picks/DwarvenForgeFactionUpgrade.png "Dwarven Forges") **Dwarven Forges**
 
 Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.
 
@@ -202,7 +202,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Cost**: 10 USxg (1E187)
 
-![Earth Core Artifact](/realm/img/picks/EarthCoreArtifactFactionUpgrade.png "Earth Core Artifact") **Earth Core Artifact**
+![Earth Core Artifact](/realm/assets/img/picks/EarthCoreArtifactFactionUpgrade.png "Earth Core Artifact") **Earth Core Artifact**
 
 **Effect**: Unlocks The Secrets of the Underworld upgrade.
 
@@ -210,7 +210,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Effect**: Unlocks The Secrets of the Underworld.
 
-![Secrets of the Underworld](/realm/img/picks/SecretsoftheUnderworldFactionUpgrade.png "Secrets of the Underworld") **Secrets of the Underworld**
+![Secrets of the Underworld](/realm/assets/img/picks/SecretsoftheUnderworldFactionUpgrade.png "Secrets of the Underworld") **Secrets of the Underworld**
 
 **Effect**: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.
 
@@ -222,7 +222,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Note**: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.
 
-![Legacy of the Dwarven Kings](/realm/img/picks/HornoftheKingsFactionUpgrade.png "Legacy of the Dwarven Kings") **Legacy of The Dwarven Kings**
+![Legacy of the Dwarven Kings](/realm/assets/img/picks/HornoftheKingsFactionUpgrade.png "Legacy of the Dwarven Kings") **Legacy of The Dwarven Kings**
 
 **Cost**: 10 SxSpg (1E232), 100M Dwarven Coins
 
@@ -236,7 +236,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Unique Building**
 
-![Dwarf Unique Building](/realm/img/picks/DwarvenUniqueBuilding.png "Dwarf Unique Building")
+![Dwarf Unique Building](/realm/assets/img/picks/DwarvenUniqueBuilding.png "Dwarf Unique Building")
 
 Upgraded from Blacksmiths
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Research Facilities](/realm/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
+###### [![Research Facilities](/realm/assets/img/picks/ResearchTopPage.png)](/realm/ResearchFacilities/)
 
 ###### Economics Facilities
 
-![Economics](/realm/img/picks/Economicsr.png "Economics") **Economics**
+![Economics](/realm/assets/img/picks/Economicsr.png "Economics") **Economics**
 
 Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.
 

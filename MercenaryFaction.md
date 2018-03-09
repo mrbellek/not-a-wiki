@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-###### [![](/realm/img/picks/MercenaryTopPage.png "Factions")](/realm/Factions/)
+###### [![](/realm/assets/img/picks/MercenaryTopPage.png "Factions")](/realm/Factions/)
 
-![](/realm/img/picks/Mercenary.png "Smiley face") **Champion Trophy**
+![](/realm/assets/img/picks/Mercenary.png "Smiley face") **Champion Trophy**
 
 **In-game description**
 
@@ -17,7 +17,7 @@ Available in all alignments, The Mercenaries can combine the power of the existi
 
 Unlocking the Mercenaries **_Requires 3 reincarnations_** and can be done in different game plays.
 
-**![](/realm/img/picks/MercenaryTribute.png "Smiley face") Mercenary Tribute**
+**![](/realm/assets/img/picks/MercenaryTribute.png "Smiley face") Mercenary Tribute**
 
 **Cost**: At least: 1 Nod (1E60) Coins
 
@@ -33,7 +33,7 @@ Unlocking the Mercenaries **_Requires 3 reincarnations_** and can be done in dif
 
 Pay the mercenaries tribute to unlock their powers. Be quick through, the price increases over time!
 
-**![](/realm/img/picks/OathoftheMercenaries.png "Smiley face") Oath of the Mercenaries**
+**![](/realm/assets/img/picks/OathoftheMercenaries.png "Smiley face") Oath of the Mercenaries**
 
 **Cost**: 1 Tvg (1E72) Coins.
 
@@ -49,13 +49,13 @@ By reciting the Oath of the Mercenaries you will be able to join mercenaries for
 
 The price of the tier upgrades cost Faction Coins of the upgrade's Faction. e.g.: For a Fairy spell or upgrade, it will cost Fairy Faction Coins. For a Druid spell or upgrade, it will cost Elven and Demon Faction Coins.
 
-**![](/realm/img/picks/MercenaryFirstContract.png "Smiley face") Mercenary First Contract**
+**![](/realm/assets/img/picks/MercenaryFirstContract.png "Smiley face") Mercenary First Contract**
 
 **Cost**: 50 Spd (5E55)
 
 **Effect**: Unlocks Tier 1 Upgrades.
 
-**![](/realm/img/picks/MercenaryMagicContract.png "Smiley face") Mercenary Magic Contract**
+**![](/realm/assets/img/picks/MercenaryMagicContract.png "Smiley face") Mercenary Magic Contract**
 
 **Cost**: 50 Ocd (5E58), 1,000 FC
 
@@ -63,7 +63,7 @@ Pick an available Spell from any faction.
 
 The available choices will depend on the alignment you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade1.png "Smiley face") Mercenary Upgrade 1**
+**![](/realm/assets/img/picks/MercenaryUpgrade1.png "Smiley face") Mercenary Upgrade 1**
 
 **Cost**: 1,500 FC
 
@@ -71,7 +71,7 @@ Pick an available Tier 1 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade2.png "Smiley face") Mercenary Upgrade 2**
+**![](/realm/assets/img/picks/MercenaryUpgrade2.png "Smiley face") Mercenary Upgrade 2**
 
 **Cost**: 3,000 FC
 
@@ -79,7 +79,7 @@ Pick an available Tier 1 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade3.png "Smiley face") Mercenary Upgrade 3**
+**![](/realm/assets/img/picks/MercenaryUpgrade3.png "Smiley face") Mercenary Upgrade 3**
 
 **Cost**: 4,500 FC
 
@@ -87,7 +87,7 @@ Pick an available Tier 1 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade4.png "Smiley face") Mercenary Upgrade 4**
+**![](/realm/assets/img/picks/MercenaryUpgrade4.png "Smiley face") Mercenary Upgrade 4**
 
 **Cost**: 6,000 FC
 
@@ -99,13 +99,13 @@ The available choices will depend on the alignment and spells you have chosen.
 
 **Tier 2 Upgrades**
 
-**![](/realm/img/picks/MercenarySecondContract.png "Smiley face") Mercenary Second Contract**
+**![](/realm/assets/img/picks/MercenarySecondContract.png "Smiley face") Mercenary Second Contract**
 
 **Cost**: 25 Vg (2.5E64)
 
 **Effect**: Unlocks Tier 2 Upgrades.
 
-**![](/realm/img/picks/HolyCrusadersMercenaryUpgrade.png "Smiley face") Holy Crusaders (_For Good Alignments_)**
+**![](/realm/assets/img/picks/HolyCrusadersMercenaryUpgrade.png "Smiley face") Holy Crusaders (_For Good Alignments_)**
 
 **Cost**: 25 Uvg (2.5E67)
 
@@ -113,7 +113,7 @@ You gain additional Crusader Assistants based on the amount of spells cast in th
 
 **Formula**: floor((sqrt(1 + 0.8 * x)-1)/2), where x is your Spells Cast (This Game) stat.
 
-**![](/realm/img/picks/HeresiarchsMercenaryUpgrade.png "Smiley face") Heresiarchs (_For Evil Alignments_)**
+**![](/realm/assets/img/picks/HeresiarchsMercenaryUpgrade.png "Smiley face") Heresiarchs (_For Evil Alignments_)**
 
 **Cost**: 25 Uvg (2.5E67)
 
@@ -121,7 +121,7 @@ You gain additional Crusader Assistants based on the amount of spells cast in th
 
 **Formula**: round(1.15 * x^0.85)%, where x is the number of your most-built evil building you own.
 
-**![](/realm/img/picks/TradeLordsMercenaryUpgrade.png "Smiley face") Trade Lords (_For Neutral Alignments_)**
+**![](/realm/assets/img/picks/TradeLordsMercenaryUpgrade.png "Smiley face") Trade Lords (_For Neutral Alignments_)**
 
 **Cost**: 25 Uvg (2.5E67)
 
@@ -129,7 +129,7 @@ You gain additional Crusader Assistants based on the amount of spells cast in th
 
 **Formula**: floor(10*log(1+x^1.5))/10, where x is your Faction Coins Gained (This Game) stat.
 
-**![](/realm/img/picks/MercenaryUpgrade5.png "Smiley face") Mercenary Upgrade 5**
+**![](/realm/assets/img/picks/MercenaryUpgrade5.png "Smiley face") Mercenary Upgrade 5**
 
 **Cost**: 3,000 FC
 
@@ -137,7 +137,7 @@ Pick an available Tier 2 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade6.png "Smiley face") Mercenary Upgrade 6**
+**![](/realm/assets/img/picks/MercenaryUpgrade6.png "Smiley face") Mercenary Upgrade 6**
 
 **Cost**: 6,000 FC
 
@@ -145,7 +145,7 @@ Pick an available Tier 2 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade7.png "Smiley face") Mercenary Upgrade 7**
+**![](/realm/assets/img/picks/MercenaryUpgrade7.png "Smiley face") Mercenary Upgrade 7**
 
 **Cost**: 10,500 FC
 
@@ -153,7 +153,7 @@ Pick an available Tier 2 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade8.png "Smiley face") Mercenary Upgrade 8**
+**![](/realm/assets/img/picks/MercenaryUpgrade8.png "Smiley face") Mercenary Upgrade 8**
 
 **Cost**: 13,500 FC
 
@@ -165,13 +165,13 @@ The available choices will depend on the alignment and spells you have chosen.
 
 **Tier 3 Upgrades**
 
-**![](/realm/img/picks/MercenaryThirdContract.png "Smiley face") Mercenary Third Contract**
+**![](/realm/assets/img/picks/MercenaryThirdContract.png "Smiley face") Mercenary Third Contract**
 
 **Cost**: 5 Tvg (5E72)
 
 **Effect**: Unlocks Tier 3 Upgrades.
 
-**![](/realm/img/picks/MercenarySorceryContract.png "Smiley face") Mercenary Sorcery Contract**
+**![](/realm/assets/img/picks/MercenarySorceryContract.png "Smiley face") Mercenary Sorcery Contract**
 
 **Cost**: 5 Qavg (5E75), 25,000 FC
 
@@ -179,7 +179,7 @@ Pick an available Spell from any faction.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade9.png "Smiley face") Mercenary Upgrade 9**
+**![](/realm/assets/img/picks/MercenaryUpgrade9.png "Smiley face") Mercenary Upgrade 9**
 
 **Cost**: 4,500 FC
 
@@ -187,7 +187,7 @@ Pick an available Tier 3 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade10.png "Smiley face") Mercenary Upgrade 10**
+**![](/realm/assets/img/picks/MercenaryUpgrade10.png "Smiley face") Mercenary Upgrade 10**
 
 **Cost**: 10,500 FC
 
@@ -195,7 +195,7 @@ Pick an available Tier 3 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade11.png "Smiley face") Mercenary Upgrade 11**
+**![](/realm/assets/img/picks/MercenaryUpgrade11.png "Smiley face") Mercenary Upgrade 11**
 
 **Cost**: 16,500 FC
 
@@ -203,7 +203,7 @@ Pick an available Tier 3 Upgrade from existing factions.
 
 The available choices will depend on the alignment and spells you have chosen.
 
-**![](/realm/img/picks/MercenaryUpgrade12.png "Smiley face") Mercenary Upgrade 12**
+**![](/realm/assets/img/picks/MercenaryUpgrade12.png "Smiley face") Mercenary Upgrade 12**
 
 **Cost**: 22,500 FC
 
@@ -217,7 +217,7 @@ The available choices will depend on the alignment and spells you have chosen.
 
 Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
-**![](/realm/img/picks/MercenarySpiritSecretTrophy.png "Smiley face") Mercenary Spirit**
+**![](/realm/assets/img/picks/MercenarySpiritSecretTrophy.png "Smiley face") Mercenary Spirit**
 
 **Requirement**: Reincarnate while playing as a Mercenary
 
@@ -225,7 +225,7 @@ Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
 **Effect**: Increase the production of all buildings by 15% per reincarnation.
 
-**![](/realm/img/picks/HarlequinMercenaryUpgrade.png "Smiley face") Harlequin**
+**![](/realm/assets/img/picks/HarlequinMercenaryUpgrade.png "Smiley face") Harlequin**
 
 **Requirement**: As a mercenary, purchase one upgrade for 11 different factions.
 
@@ -237,7 +237,7 @@ Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
 **Formula**: x^3%, where x is the number of different factions you've bought upgrades from.
 
-**![](/realm/img/picks/LuciferSecretTrophy.png "Smiley face") Lucifer**
+**![](/realm/assets/img/picks/LuciferSecretTrophy.png "Smiley face") Lucifer**
 
 **Requirement**: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.
 
@@ -247,7 +247,7 @@ Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
 **Effect**: Increase the production of all non-neutral mercenary buildings by 300%
 
-**![](/realm/img/picks/NoRecruitingMercenaryUpgrade.png "Smiley face") No Recruiting**
+**![](/realm/assets/img/picks/NoRecruitingMercenaryUpgrade.png "Smiley face") No Recruiting**
 
 **Requirement**: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries
 
@@ -255,7 +255,7 @@ Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
 **Effect**: Increase Mercenary production by 1% per Reincarnation
 
-**![](/realm/img/picks/KnowYourEnemyPartI.png "Smiley face") Know Your Enemy, Part I**
+**![](/realm/assets/img/picks/KnowYourEnemyPartI.png "Smiley face") Know Your Enemy, Part I**
 
 **Requirement**: Find Know Your Enemy, Part I Artifact - which requires R12, to play as Mercenaries, and have upgrades from 11 different factions. (Excavation chance: 10%)
 
@@ -273,7 +273,7 @@ Following are upgrades rewarded from [Secret Trophies](/realm/Secret/).
 
 Upon reaching R75, the game advisor tells us that the Mercenary Lord himself has come to speak with you. He is a man of uncomparable strength and influence... From what I heard, he wishes to task you with the retrieval of an Obsidian Shard, the legendary material of which Mercenary Blades are made.
 
-![](/realm/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
+![](/realm/assets/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
 
 We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.
 
@@ -285,7 +285,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Good**
 
-![](/realm/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
+![](/realm/assets/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -301,7 +301,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Evil**
 
-![](/realm/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
+![](/realm/assets/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -317,7 +317,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Neutral**
 
-![](/realm/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
+![](/realm/assets/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -331,7 +331,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Effect 3**: Unlocks Secret Exchange
 
-![](/realm/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
+![](/realm/assets/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
 
 **Requirement**: 8000th Excavation as any Faction, R75+
 
@@ -341,7 +341,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 &nbsp;
 
-![](/realm/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
+![](/realm/assets/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
 
 **Requirement**: Obsidian Shard
 
@@ -355,7 +355,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Good**
 
-![](/realm/img/picks/GoodMercUniqueBuilding.png "Mercenary Camp") **Mercenary Camp**
+![](/realm/assets/img/picks/GoodMercUniqueBuilding.png "Mercenary Camp") **Mercenary Camp**
 
 Upgraded from Knights Jousts
 
@@ -363,7 +363,7 @@ Upgrade Knights Jousts to Mercenary Camps, boosting their production based on th
 
 **Evil**
 
-![](/realm/img/picks/EvilMercUniqueBuilding.png "Tyrant Garrison") **Tyrant Garrison**
+![](/realm/assets/img/picks/EvilMercUniqueBuilding.png "Tyrant Garrison") **Tyrant Garrison**
 
 Upgraded from Evil Fortresses
 
@@ -371,7 +371,7 @@ Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on 
 
 **Neutral**
 
-![](/realm/img/picks/NeutralMercUniqueBuilding.png "Freemason's Hall") **Freemason's Hall**
+![](/realm/assets/img/picks/NeutralMercUniqueBuilding.png "Freemason's Hall") **Freemason's Hall**
 
 Upgraded from Alchemist Labs
 
@@ -381,7 +381,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 **Faction Spell**: Tax Collection
 
-![](/realm/img/picks/ShareBenefits.png "Round Table") **Good**
+![](/realm/assets/img/picks/ShareBenefits.png "Round Table") **Good**
 
 **Requirement**: Mercenary Camp
 
@@ -395,7 +395,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 &nbsp;
 
-![](/realm/img/picks/ReapInterests.png "Tyrant Garrison") **Evil**
+![](/realm/assets/img/picks/ReapInterests.png "Tyrant Garrison") **Evil**
 
 **Requirement**: Tyrant Garrison
 
@@ -411,7 +411,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 &nbsp;
 
-![](/realm/img/picks/AppraisalVantage.png "Freemason's Hall") **Neutral**
+![](/realm/assets/img/picks/AppraisalVantage.png "Freemason's Hall") **Neutral**
 
 **Requirement**: Freemason's Hall
 
@@ -425,7 +425,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 **Extras**
 
-![](/realm/img/picks/KnowYourEnemyPart2.png "Ancient Heirloom") **Know Your Enemy, Part 2**
+![](/realm/assets/img/picks/KnowYourEnemyPart2.png "Ancient Heirloom") **Know Your Enemy, Part 2**
 
 **Description**: Much more knowledge than you need, stored in a handy book.
 
@@ -443,7 +443,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 **13th Upgrade**
 
-![](/realm/img/picks/GoodMercenaryUpgrade13.png "Round Table") **Good Mercenary Upgrade 13**
+![](/realm/assets/img/picks/GoodMercenaryUpgrade13.png "Round Table") **Good Mercenary Upgrade 13**
 
 You can purchase any upgrade from any Good Faction for an increased price
 
@@ -451,7 +451,7 @@ You can purchase any upgrade from any Good Faction for an increased price
 
 &nbsp;
 
-![](/realm/img/picks/EvilMercenaryUpgrade13.png "Round Table") **Evil Mercenary Upgrade 13**
+![](/realm/assets/img/picks/EvilMercenaryUpgrade13.png "Round Table") **Evil Mercenary Upgrade 13**
 
 You can purchase any upgrade from any Evil Faction for an increased price.
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/ResearchTopPage.png)](/realm/ResearchUpgrades/)
+###### [![](/realm/assets/img/picks/ResearchTopPage.png)](/realm/ResearchUpgrades/)
 
 ###### Click Rewards Research Upgrade Slots
 

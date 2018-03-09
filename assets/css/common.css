@@ -107,7 +107,7 @@ body {
     overflow: auto;
     width: 760px;
     height: 159px;
-    background-image: url(/realm/img/picks/RealmGrinderHeader.png);
+    background-image: url(/realm/assets/img/picks/RealmGrinderHeader.png);
 }
 
 #navbox {
@@ -202,7 +202,7 @@ h7 {
 }
 
 #leftbox {
-    background-image: url(/realm/img/picks/RealmGrinderGameRL.png);
+    background-image: url(/realm/assets/img/picks/RealmGrinderGameRL.png);
     background-repeat: no-repeat;
     background-position: center top;
     text-align: left;

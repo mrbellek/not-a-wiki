@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Research Facilities](/realm/img/picks/ResearchTopPage.png "Research Facilities")](/realm/ResearchFacilities/)
+###### [![Research Facilities](/realm/assets/img/picks/ResearchTopPage.png "Research Facilities")](/realm/ResearchFacilities/)
 
 ###### Craftsmanship Facility
 
-![Craftsmanship](/realm/img/picks/Craftsmanshipr.png "Craftsmanship") **Craftsmanship**
+![Craftsmanship](/realm/assets/img/picks/Craftsmanshipr.png "Craftsmanship") **Craftsmanship**
 
 Learn how to use tools and experience to improve your production by mastering Craftsmanship.
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Dwarf Challenge 1**
 
-![Enchanted Crystals](/realm/img/picks/EnchantedCrystalsChallenges.png "Enchanted Crystals") **Enchanted Crystals**
+![Enchanted Crystals](/realm/assets/img/picks/EnchantedCrystalsChallenges.png "Enchanted Crystals") **Enchanted Crystals**
 
 The dwarven lords have asked you to enchant their pickaxes.
 
@@ -26,7 +26,7 @@ The dwarven lords have asked you to enchant their pickaxes.
 
 **Dwarf Challenge 2**
 
-![Biased Architecture](/realm/img/picks/BiasedArchitetureChallenges.png "Biased Architecture") **Biased Architecture**
+![Biased Architecture](/realm/assets/img/picks/BiasedArchitetureChallenges.png "Biased Architecture") **Biased Architecture**
 
 The dwarven lords have asked you to provide their people with ale. Hurry up, the dwarves are getting thirsty!
 
@@ -46,7 +46,7 @@ The dwarven lords have asked you to provide their people with ale. Hurry up, the
 
 **Dwarf Challenge 3**
 
-![Rich Miners](/realm/img/picks/RichMinorsChallenges.png "Rich Miners") **Rich Miners**
+![Rich Miners](/realm/assets/img/picks/RichMinorsChallenges.png "Rich Miners") **Rich Miners**
 
 The dwarven lords have asked you to help them collect trade supplies for all the factions of the realm.
 
@@ -62,7 +62,7 @@ The dwarven lords have asked you to help them collect trade supplies for all the
 
 **Dwarf Challenge 4**
 
-![Paladins](/realm/img/picks/PaladinsChallenges.png "Paladins") **Paladins**
+![Paladins](/realm/assets/img/picks/PaladinsChallenges.png "Paladins") **Paladins**
 
 The dwarven lords are interested in training the troops into pious warriors. Begin the initiation as soon as possible.
 
@@ -80,7 +80,7 @@ The dwarven lords are interested in training the troops into pious warriors. Beg
 
 **Dwarf Challenge 5**
 
-![Underground Foundations](/realm/img/picks/UndergroundFoundationsChallenges.png "Underground Foundations") **Underground Foundations**
+![Underground Foundations](/realm/assets/img/picks/UndergroundFoundationsChallenges.png "Underground Foundations") **Underground Foundations**
 
 The dwarven lords have asked you to create underground tunnels connecting the allied factions.
 
@@ -96,6 +96,6 @@ The dwarven lords have asked you to create underground tunnels connecting the al
 
 **In-Game Challenge Final Reward**
 
-![Spell Upgrade Iron Grip](/realm/img/picks/IronGripChallenges.png "Spell Upgrade Iron Grip") **Spell Upgrade Iron Grip**
+![Spell Upgrade Iron Grip](/realm/assets/img/picks/IronGripChallenges.png "Spell Upgrade Iron Grip") **Spell Upgrade Iron Grip**
 
 Increase Diamond Pickaxe duration by 8 seconds, and its bonus to Faction Coin find chance is passively applied as a multiplier to excavations Faction Coin rewards.

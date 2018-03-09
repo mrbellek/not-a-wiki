@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Dragons](/realm/img/picks/DragonTopPage.png "Dragons")](/realm/Factions)
+###### [![Dragons](/realm/assets/img/picks/DragonTopPage.png "Dragons")](/realm/Factions)
 
-![Champion Trophy](/realm/img/picks/DragonChampionTrophy.png "Champion Trophy") **Champion Trophy**
+![Champion Trophy](/realm/assets/img/picks/DragonChampionTrophy.png "Champion Trophy") **Champion Trophy**
 
 **In-game description**
 
@@ -16,7 +16,7 @@ The Dragon faction cannot be combined with Good or Evil Factions.
 
 **Alignment**: Prestige (Neutral)
 
-**Spell Trophy &amp; Upgrade: ![Dragon's Roar](/realm/img/picks/Dragon'sRoarFactionUpgrade.png "Dragon's Roar") Dragon's Roar** 
+**Spell Trophy &amp; Upgrade: ![Dragon's Roar](/realm/assets/img/picks/Dragon'sRoarFactionUpgrade.png "Dragon's Roar") Dragon's Roar** 
 
 **Effect**: Dragon's Breath also produces Faction Coins at each cast based on it's activity time. 
 
@@ -54,11 +54,11 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **You can Abdicate and Reincarnate during the 12 hour wait of all 4 stages.**
 
-![Spiky Rough Egg Artifact](/realm/img/picks/SpikyRoughEggArtifact.png "Spiky Rough Egg Artifact") **Spiky Rough Egg Artifact**
+![Spiky Rough Egg Artifact](/realm/assets/img/picks/SpikyRoughEggArtifact.png "Spiky Rough Egg Artifact") **Spiky Rough Egg Artifact**
 
 **Requirement**: 1500+ Excavations (Chance 2%)
 
-![Hatch!](/realm/img/picks/Hatch!Artifact.png "Hatch!") **Hatch!**
+![Hatch!](/realm/assets/img/picks/Hatch!Artifact.png "Hatch!") **Hatch!**
 
 **Description**: After waiting for a while... hatch the spiky egg and reveal what's inside!
 
@@ -68,7 +68,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Hatches the Egg
 
-![Drakeling](/realm/img/picks/DrakelingFactionUpgrade.png "Drakeling") **Drakeling**
+![Drakeling](/realm/assets/img/picks/DrakelingFactionUpgrade.png "Drakeling") **Drakeling**
 
 **Description**: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.
 
@@ -80,7 +80,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Grows Drakeling into Dragon.
 
-![Dragon](/realm/img/picks/DragonFactionUpgrade.png "Dragon") **Dragon**
+![Dragon](/realm/assets/img/picks/DragonFactionUpgrade.png "Dragon") **Dragon**
 
 **Description**: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.
 
@@ -90,7 +90,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Grows Dragon into Elder Dragon
 
-![ElderDragon](/realm/img/picks/ElderDragonFactionUpgrade.png "ElderDragon") **ElderDragon**
+![ElderDragon](/realm/assets/img/picks/ElderDragonFactionUpgrade.png "ElderDragon") **ElderDragon**
 
 **Description**: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.
 
@@ -104,7 +104,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 1 Upgrades**
 
-![Dragons Trade Treaty](/realm/img/picks/DragonsTradeTreatyFactionUpgrade.png "Dragons Trade Treaty") **Dragons Trade Treaty**
+![Dragons Trade Treaty](/realm/assets/img/picks/DragonsTradeTreatyFactionUpgrade.png "Dragons Trade Treaty") **Dragons Trade Treaty**
 
 **Description**: The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.
 
@@ -114,7 +114,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 1 Upgrades.
 
-![Dragonscales](/realm/img/picks/DragonscalesFactionUpgrade.png "Dragonscales") **Dragonscales**
+![Dragonscales](/realm/assets/img/picks/DragonscalesFactionUpgrade.png "Dragonscales") **Dragonscales**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -124,7 +124,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: (1.25 * t) ^ 0.55 where t is total amount of time spent as Neutral in minutes (this R).
 
-![Iron Flight](/realm/img/picks/IronFlightFactionUpgrade.png "Iron Flight") **Iron Flight**
+![Iron Flight](/realm/assets/img/picks/IronFlightFactionUpgrade.png "Iron Flight") **Iron Flight**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -132,7 +132,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Increase the production of Iron Stronghold by 2000% when affected by any Spell.
 
-![Eternal Wisdom](/realm/img/picks/EternalWisdomFactionUpgrade.png "Eternal Wisdom") **Eternal Wisdom**
+![Eternal Wisdom](/realm/assets/img/picks/EternalWisdomFactionUpgrade.png "Eternal Wisdom") **Eternal Wisdom**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -146,7 +146,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 2 Upgrades**
 
-![Dragons Friendship Pact](/realm/img/picks/DragonsFriendshipPactFactionUpgrade.png "Dragons Friendship Pact") **Dragons Friendship Pact**
+![Dragons Friendship Pact](/realm/assets/img/picks/DragonsFriendshipPactFactionUpgrade.png "Dragons Friendship Pact") **Dragons Friendship Pact**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -154,7 +154,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 2 Upgrades.
 
-![Dragonborn](/realm/img/picks/DragonbornFactionUpgrade.png "Dragonborn") **Dragonborn**
+![Dragonborn](/realm/assets/img/picks/DragonbornFactionUpgrade.png "Dragonborn") **Dragonborn**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -164,7 +164,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: 0.75 * (t ^ 0.55) where t is amount of time spent with Dragons (All game).
 
-![Bountiful Hoard](/realm/img/picks/BountifulHoardFactionUpgrade.png "Bountiful Hoard") **Bountiful Hoard**
+![Bountiful Hoard](/realm/assets/img/picks/BountifulHoardFactionUpgrade.png "Bountiful Hoard") **Bountiful Hoard**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -174,7 +174,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: 5 * (x ^ 1.25) where x is amount of artifacts you found.
 
-![Sharp Claws](/realm/img/picks/SharpClawsFactionUpgrade.png "Sharp Claws") **Sharp Claws**
+![Sharp Claws](/realm/assets/img/picks/SharpClawsFactionUpgrade.png "Sharp Claws") **Sharp Claws**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -188,7 +188,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 3 Upgrades**
 
-![Dragons Alliance](/realm/img/picks/DragonsAllianceFactionUpgrade.png "Dragons Alliance") **Dragons Alliance**
+![Dragons Alliance](/realm/assets/img/picks/DragonsAllianceFactionUpgrade.png "Dragons Alliance") **Dragons Alliance**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -196,7 +196,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 3 Upgrades.
 
-![Ancient Hunger](/realm/img/picks/AncientHungerFactionUpgrade.png "Ancient Hunger") **Ancient Hunger**
+![Ancient Hunger](/realm/assets/img/picks/AncientHungerFactionUpgrade.png "Ancient Hunger") **Ancient Hunger**
 
 **Requirement**: Dragons Alliance
 
@@ -206,7 +206,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).
 
-![Imposing Presence](/realm/img/picks/ImposingPresenceFactionUpgrade.png "Imposing Presence") **Imposing Presence**
+![Imposing Presence](/realm/assets/img/picks/ImposingPresenceFactionUpgrade.png "Imposing Presence") **Imposing Presence**
 
 **Requirement**: Dragons Alliance
 
@@ -216,7 +216,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: floor((x ^ 0.55)) / 10 where x is amount of neutral buildings.
 
-![Chromatic Scales](/realm/img/picks/ChromaticScalesFactionUpgrade.png "Chromatic Scales") **Chromatic Scales**
+![Chromatic Scales](/realm/assets/img/picks/ChromaticScalesFactionUpgrade.png "Chromatic Scales") **Chromatic Scales**
 
 **Requirement**: Dragons Alliance
 
@@ -228,7 +228,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 ---
 
-![Dragon Heritage](/realm/img/picks/DragonHeritageFactionUpgrade.png "Dragon Heritage") **Dragon Heritage**
+![Dragon Heritage](/realm/assets/img/picks/DragonHeritageFactionUpgrade.png "Dragon Heritage") **Dragon Heritage**
 
 **Cost**: 400b (4e11) Dwarven and Drow coins
 
@@ -242,7 +242,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Dragons Research Requirements**
 
-![Wyrm's Den Quest](/realm/img/picks/Wyrm'sDenQuestFactionUpgrade.png "Wyrm's Den Quest") **Wyrm's Den Quest**
+![Wyrm's Den Quest](/realm/assets/img/picks/Wyrm'sDenQuestFactionUpgrade.png "Wyrm's Den Quest") **Wyrm's Den Quest**
 
 Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.
 
@@ -252,7 +252,7 @@ Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build 
 
 **Cost**: 100 Tvg (1.0e74)
 
-![Wyrm's Den](/realm/img/picks/Wyrm'sDenFactionUpgrade.png "Wyrm's Den") **Wyrm's Den**
+![Wyrm's Den](/realm/assets/img/picks/Wyrm'sDenFactionUpgrade.png "Wyrm's Den") **Wyrm's Den**
 
 Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
 
@@ -266,7 +266,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 ---
 
-![Dragon Unique Building](/realm/img/picks/DragonUniqueBuilding.png "Dragon Unique Building")
+![Dragon Unique Building](/realm/assets/img/picks/DragonUniqueBuilding.png "Dragon Unique Building")
 
 Upgraded from Iron Stronghold
 

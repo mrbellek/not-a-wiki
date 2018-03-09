@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/ResearchTopPage.png)
+###### ![](/realm/assets/img/picks/ResearchTopPage.png)
 
 Click **[Here](/realm/ResearchTree)** to view Complete **Research Tree**
 
@@ -36,37 +36,37 @@ Each Facility is related to several Factions: Vanilla factions are related to on
 
 **S**=Spellcraft, **C**=Craftsmanship, **D**=Divine, **E**=Economics, **A**=Alchemy, and **W**=Warfare, 
 
-![](/realm/img/picks/Spellcraftr.png "Spellcraft") **Spellcraft**
+![](/realm/assets/img/picks/Spellcraftr.png "Spellcraft") **Spellcraft**
 
 Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.
 
 **Effect**: Increases **Fairy**, **Faceless** and **Drow** production.
 
-![](/realm/img/picks/Craftsmanshipr.png "Craftsmanship") **Craftsmanship**
+![](/realm/assets/img/picks/Craftsmanshipr.png "Craftsmanship") **Craftsmanship**
 
 Learn how to use tools and experience to improve your production by mastering Craftsmanship.
 
 **Effect**: Increases **Elven**, **Titan** and **Dwarven** production.
 
-![](/realm/img/picks/Diviner.png "Divine") **Divine**
+![](/realm/assets/img/picks/Diviner.png "Divine") **Divine**
 
 Harness the power of the eternals, incresing your spell affinity and bestowing Divine power on all your productivity.
 
 **Effect**: Increases **Angel**, **Faceless** and **Dwarven** production.
 
-![](/realm/img/picks/Economicsr.png "Economics") **Economics**
+![](/realm/assets/img/picks/Economicsr.png "Economics") **Economics**
 
 Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.
 
 **Effect**: Increases **Goblin**, **Druid** and **Dwarven**  production.
 
-![](/realm/img/picks/Alchemyr.png "Alchemy") **Alchemy**
+![](/realm/assets/img/picks/Alchemyr.png "Alchemy") **Alchemy**
 
 Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.
 
 **Effect**: Increases **Undead**, **Druid** and **Drow** production.
 
-![](/realm/img/picks/Warfarer.png "Warfare") **Warfare**
+![](/realm/assets/img/picks/Warfarer.png "Warfare") **Warfare**
 
 Use strategical prowess and manpower tp manipulate the production system in your favor.
 
@@ -92,7 +92,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Research Slot Upgrade Requirements**
 
-![](/realm/img/picks/MagicianSlotUpgrade.png "Warfare") **Magician**
+![](/realm/assets/img/picks/MagicianSlotUpgrade.png "Warfare") **Magician**
 
 **Requirement**: R20, Discover at least 10 Spellcraft Researches.
 
@@ -100,7 +100,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Spellcraft upgrade slot by 1
 
-![](/realm/img/picks/ArtisanSlotUpgrade.png "Warfare") **Artisan**
+![](/realm/assets/img/picks/ArtisanSlotUpgrade.png "Warfare") **Artisan**
 
 **Requirement**: R19, Discover at least 10 Craftsmanship Researches.
 
@@ -108,7 +108,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Craftsmanship upgrade slot by 1
 
-![](/realm/img/picks/DemigodSlotUpgrade.png "Warfare") **Demigod**
+![](/realm/assets/img/picks/DemigodSlotUpgrade.png "Warfare") **Demigod**
 
 **Requirement**: R20, Discover at least 10 Divine Researches.
 
@@ -116,7 +116,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Divine upgrade slot by 1
 
-![](/realm/img/picks/BusinessmanSlotUpgrade.png "Warfare") **Businessman**
+![](/realm/assets/img/picks/BusinessmanSlotUpgrade.png "Warfare") **Businessman**
 
 **Requirement**: R20, Discover at least 10 Economics Researches
 
@@ -124,7 +124,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Economics upgrade slot by 1
 
-![](/realm/img/picks/ApothecarySlotUpgrade.png "Warfare") **Apothecary**
+![](/realm/assets/img/picks/ApothecarySlotUpgrade.png "Warfare") **Apothecary**
 
 **Requirement**: R17, Discover at least 10 Alchemy Researches
 
@@ -132,7 +132,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Alchemy upgrade slot by 1
 
-![](/realm/img/picks/WarlordSlotUpgrade.png "Warfare") **Warlord**
+![](/realm/assets/img/picks/WarlordSlotUpgrade.png "Warfare") **Warlord**
 
 **Requirement**: R20, Discover at least 10 Warfare Researches
 
@@ -140,7 +140,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Effect**: Increase Warfare upgrade slot by 1
 
-![](/realm/img/picks/AncientDeviceSlotUpgrade.png "Warfare") **Artifact-Ancient Device**
+![](/realm/assets/img/picks/AncientDeviceSlotUpgrade.png "Warfare") **Artifact-Ancient Device**
 
 **Requirement**: R23, Find the Ancient Device (Play a Neutral Faction, 2000+ Excavations)
 
@@ -150,7 +150,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Note**: Needs purchased for each Neutral research run.
 
-![](/realm/img/picks/HornoftheKingsSlotUpgrade.png "Warfare") **Artifact-Horn of the Kings**
+![](/realm/assets/img/picks/HornoftheKingsSlotUpgrade.png "Warfare") **Artifact-Horn of the Kings**
 
 **Requirement**: R29, Find the Horn of the Kings (Have Dwarven Forges, 3250+ Excavations)
 
@@ -160,7 +160,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 **Note**: Needs purchased for each Prestige research run.
 
-![](/realm/img/picks/FlameofBondelnarSlotUpgrade.png "Warfare") **Artifact-Flame of Bondelnar**
+![](/realm/assets/img/picks/FlameofBondelnarSlotUpgrade.png "Warfare") **Artifact-Flame of Bondelnar**
 
 **Requirement**: R29, Find the Flame of Bondelnar (Have Spider Sanctuaries, 3250+ Excavations)
 
@@ -178,7 +178,7 @@ At certain Reincarnation levels, additional Research Upgrade Slots (RUS) can be 
 
 ###### Fairy
 
-![](/realm/img/picks/Fairyr1.png "Smiley face") **Enchanted Field Quest**
+![](/realm/assets/img/picks/Fairyr1.png "Smiley face") **Enchanted Field Quest**
 
 Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!
 
@@ -186,7 +186,7 @@ Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance t
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Fairyr2.png "Enchanted Field") **Enchanted Field**
+![](/realm/assets/img/picks/Fairyr2.png "Enchanted Field") **Enchanted Field**
 
 Upgrade Farms to Enchanted Fields, boosting their production based on the amount of assistants you own and unlocking more unique perks for the building.
 
@@ -198,7 +198,7 @@ Upgrade Farms to Enchanted Fields, boosting their production based on the amount
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/Spellweaveryr.png "Enchanted Field") **Spellweavery**
+![](/realm/assets/img/picks/Spellweaveryr.png "Enchanted Field") **Spellweavery**
 
 Unlocks the Spellcraft research facility and increases Fairy production by 100000%, plus an additional bonus based on Spellcraft research points.
 
@@ -208,7 +208,7 @@ Unlocks the Spellcraft research facility and increases Fairy production by 10000
 
 ###### Elf
 
-![](/realm/img/picks/Elfr1.png "Training Grounds Quest") Elven Training Grounds Quest
+![](/realm/assets/img/picks/Elfr1.png "Training Grounds Quest") Elven Training Grounds Quest
 
 Hello, mellonamin. We require a new place to train our soldiers. Build enough Warrior Barracks, and we'll make them worthy of you.
 
@@ -216,7 +216,7 @@ Hello, mellonamin. We require a new place to train our soldiers. Build enough Wa
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Elfr2.png "Elven Training Grounds") Elven Training Grounds
+![](/realm/assets/img/picks/Elfr2.png "Elven Training Grounds") Elven Training Grounds
 
 Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.
 
@@ -228,7 +228,7 @@ Upgrade Warrior Barracks To Elven Training Grounds, boosting their production ba
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/Carpentryr.png "Elven Training Grounds") Carpentry
+![](/realm/assets/img/picks/Carpentryr.png "Elven Training Grounds") Carpentry
 
 Unlocks the Craftsmanship research facility and increases Elven production by 100000%, plus an additional bonus based on Craftsmanship research points.
 
@@ -238,7 +238,7 @@ Unlocks the Craftsmanship research facility and increases Elven production by 10
 
 ###### Angel
 
-![](/realm/img/picks/Angelr1.png "Heaven's Domain Quest") Heaven's Domain Quest
+![](/realm/assets/img/picks/Angelr1.png "Heaven's Domain Quest") Heaven's Domain Quest
 
 Bless you, dear friend. The Lands of the sky are expanding as more good souls are joining our ranks. Would you be so kind to provide them a place to stay in the Heavens?
 
@@ -246,7 +246,7 @@ Bless you, dear friend. The Lands of the sky are expanding as more good souls ar
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Angelr2.png "Heaven's Domain") Heaven's Domain
+![](/realm/assets/img/picks/Angelr2.png "Heaven's Domain") Heaven's Domain
 
 Upgrade Heaven's Gate To Heaven's Domains, boosting their production by 35000% per spell affecting them and unlocking more unique perks for the building.
 
@@ -256,7 +256,7 @@ Upgrade Heaven's Gate To Heaven's Domains, boosting their production by 35000% p
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/Pantheonr.png "Heaven's Domain Quest") Pantheon
+![](/realm/assets/img/picks/Pantheonr.png "Heaven's Domain Quest") Pantheon
 
 Unlocks the Divine research facility and increases Angel production by 100000%, plus an additional bonus based on Divine research points.
 
@@ -266,7 +266,7 @@ Unlocks the Divine research facility and increases Angel production by 100000%, 
 
 ###### Goblin
 
-![](/realm/img/picks/Goblinr1.png "Goblin Banks Quest") **Goblin Banks Quest**
+![](/realm/assets/img/picks/Goblinr1.png "Goblin Banks Quest") **Goblin Banks Quest**
 
 Hey There! We need a safe place to keep our honestly earned savings. We'll turn those Witch Conclaves into something more... useful, if you build enough of them.
 
@@ -274,7 +274,7 @@ Hey There! We need a safe place to keep our honestly earned savings. We'll turn 
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Goblinr2.png "Goblin Banks") **Goblin Banks**
+![](/realm/assets/img/picks/Goblinr2.png "Goblin Banks") **Goblin Banks**
 
 Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.
 
@@ -286,7 +286,7 @@ Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the 
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/Exchequerr.png "Goblin Banks Quest") **Exchequer**
+![](/realm/assets/img/picks/Exchequerr.png "Goblin Banks Quest") **Exchequer**
 
 Unlocks the Economics research facility and increases Goblin production by 100000%, plus an additional bonus based on Economics research points.
 
@@ -296,7 +296,7 @@ Unlocks the Economics research facility and increases Goblin production by 10000
 
 ###### Undead
 
-![](/realm/img/picks/Undeadr1.png "Undercities Quest") **Undercities Quest**
+![](/realm/assets/img/picks/Undeadr1.png "Undercities Quest") **Undercities Quest**
 
 Hello there. The dead stand ready. Give them a place to rise and live again... Build enough Necropolises, we'll take care of the rest.
 
@@ -304,7 +304,7 @@ Hello there. The dead stand ready. Give them a place to rise and live again... B
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Undeadr2.png "Undercities") **Undercities**
+![](/realm/assets/img/picks/Undeadr2.png "Undercities") **Undercities**
 
 Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.
 
@@ -316,7 +316,7 @@ Upgrade Necropolises To Undercities, boosting their production based on time spe
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/Laboratoryr.png "Laboratory") **Laboratory**
+![](/realm/assets/img/picks/Laboratoryr.png "Laboratory") **Laboratory**
 
 Unlocks the Alchemy research facility and increases Undead production by 100000%, plus an additional bonus based on Alchemy research points.
 
@@ -326,7 +326,7 @@ Unlocks the Alchemy research facility and increases Undead production by 100000%
 
 ###### Demon
 
-![](/realm/img/picks/Demonr1.png "Infernal Realm Quest") **Infernal Realm Quest**
+![](/realm/assets/img/picks/Demonr1.png "Infernal Realm Quest") **Infernal Realm Quest**
 
 Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!
 
@@ -334,7 +334,7 @@ Useless underling, be warned! The Demons are going to invade your world with all
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Demonr2.png "Infernal Realm") **Infernal Realm**
+![](/realm/assets/img/picks/Demonr2.png "Infernal Realm") **Infernal Realm**
 
 Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.
 
@@ -344,7 +344,7 @@ Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per T
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/StrategyRoomr.png "Strategy Room") **Strategy Room**
+![](/realm/assets/img/picks/StrategyRoomr.png "Strategy Room") **Strategy Room**
 
 Unlocks the Warfare research facility and increases Demon production by 100000%, plus an additional bonus based on Warfare research points.
 
@@ -356,7 +356,7 @@ Unlocks the Warfare research facility and increases Demon production by 100000%,
 
 ###### Neutral Research
 
-![](/realm/img/picks/SecretsoftheAncientsr.png "Secrets of the Ancients") **Secrets of the Ancients**
+![](/realm/assets/img/picks/SecretsoftheAncientsr.png "Secrets of the Ancients") **Secrets of the Ancients**
 
 Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.
 
@@ -368,7 +368,7 @@ Unlocks research for Titan, Druids and Faceless and increases production by 100,
 
 ###### Titan
 
-![](/realm/img/picks/Titanr1.png "Olympian Halls Quest") **Olympian Halls Quest**
+![](/realm/assets/img/picks/Titanr1.png "Olympian Halls Quest") **Olympian Halls Quest**
 
 Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accomodate the almighty Titans.
 
@@ -376,7 +376,7 @@ Khaire, ruler. More of our people will join your cause if you build enough Hall 
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Titanr2.png "Olympian Halls") **Olympian Halls**
+![](/realm/assets/img/picks/Titanr2.png "Olympian Halls") **Olympian Halls**
 
 Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per Royal Exchange you've purchased and unlocking more unique perks for the building.
 
@@ -386,7 +386,7 @@ Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per 
 
 ###### Druid
 
-![](/realm/img/picks/Druidr1.png "Stonehenge Circles Quest") **Stonehenge Circles Quest**
+![](/realm/assets/img/picks/Druidr1.png "Stonehenge Circles Quest") **Stonehenge Circles Quest**
 
 Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.
 
@@ -394,7 +394,7 @@ Hello, friend. The balance of nature requires more magic to sustain it. Build en
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Druidr2.png "Stonehenge Circles") **Stonehenge Circles**
+![](/realm/assets/img/picks/Druidr2.png "Stonehenge Circles") **Stonehenge Circles**
 
 Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 25% per point of Maximum Mana and unlocking more unique perks for the building.
 
@@ -406,7 +406,7 @@ Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 25% pe
 
 ###### Faceless
 
-![](/realm/img/picks/Facelessr1.png "Sunken Cities Quest") **Sunken Cities Quest**
+![](/realm/assets/img/picks/Facelessr1.png "Sunken Cities Quest") **Sunken Cities Quest**
 
 C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths).
 
@@ -414,7 +414,7 @@ C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable wo
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/Facelessr2.png "Sunken Cities") **Sunken Cities**
+![](/realm/assets/img/picks/Facelessr2.png "Sunken Cities") **Sunken Cities**
 
 Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.
 
@@ -428,13 +428,13 @@ Upgrade Labyrinths to Sunken Cities, boosting their production based on time spe
 
 ###### Prestige Research
 
-![](/realm/img/picks/EarthCoreArtifactr.png "Earth Core Artifact") **Earth Core Artifact**
+![](/realm/assets/img/picks/EarthCoreArtifactr.png "Earth Core Artifact") **Earth Core Artifact**
 
 Your Magesty, our miners report to have found an unstable substance, throbbing with magical power. The Dwarves and Drow are ready to share the Secrets of the Underworld!
 
 **Requirement**:  R29 + 2750th Excavation
 
-![](/realm/img/picks/SecretsoftheUnderworldFactionUpgrade.png "Secrets of the Underworld") **Secrets of the Underworld**
+![](/realm/assets/img/picks/SecretsoftheUnderworldFactionUpgrade.png "Secrets of the Underworld") **Secrets of the Underworld**
 
 Unlocks researches for Dwarven and Drow and provides a bonus for individual research branches.
 
@@ -446,7 +446,7 @@ Unlocks researches for Dwarven and Drow and provides a bonus for individual rese
 
 ###### Dwarf
 
-![](/realm/img/picks/DwravenForgeQuestr.png "Dwarven Forge Quest") **Dwarven Forge Quest**
+![](/realm/assets/img/picks/DwravenForgeQuestr.png "Dwarven Forge Quest") **Dwarven Forge Quest**
 
 Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!
 
@@ -454,7 +454,7 @@ Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Bl
 
 **Cost**: 10 Sxg (1E184)
 
-![](/realm/img/picks/DwarvenForgesr.png "Dwarven Forges") **Dwarven Forges**
+![](/realm/assets/img/picks/DwarvenForgesr.png "Dwarven Forges") **Dwarven Forges**
 
 **In-game Description**
 
@@ -468,7 +468,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 ###### Drow
 
-![](/realm/img/picks/SpiderSanctuaryQuestr.png "Spider Sanctuary Quest") **Spider Sanctuary Quest**
+![](/realm/assets/img/picks/SpiderSanctuaryQuestr.png "Spider Sanctuary Quest") **Spider Sanctuary Quest**
 
 **In-game Description**
 
@@ -478,7 +478,7 @@ Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen
 
 **Cost**: 10 Sxg (1E184)
 
-![](/realm/img/picks/SpiderSanctuaryr.png "Spider Sanctuary") **Spider Sanctuary**
+![](/realm/assets/img/picks/SpiderSanctuaryr.png "Spider Sanctuary") **Spider Sanctuary**
 
 **In-game Description**
 
@@ -492,7 +492,7 @@ Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on t
 
 ###### Dragons
 
-![](/realm/img/picks/Wyrm'sDenQuestFactionUpgrade.png "Smiley face") **Wyrm's Den Quest**
+![](/realm/assets/img/picks/Wyrm'sDenQuestFactionUpgrade.png "Smiley face") **Wyrm's Den Quest**
 
 Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.
 
@@ -502,7 +502,7 @@ Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build 
 
 **Cost**: 100 Tvg (1.0e74)
 
-![](/realm/img/picks/Wyrm'sDenFactionUpgrade.png "Smiley face") **Wyrm's Den**
+![](/realm/assets/img/picks/Wyrm'sDenFactionUpgrade.png "Smiley face") **Wyrm's Den**
 
 Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
 
@@ -518,7 +518,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 ###### Mercenary
 
-![](/realm/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
+![](/realm/assets/img/picks/ObsidianShardArtifact.png "Secrets of the Warriors") **Obsidian Shard**
 
 **Requirement**: 8000 Excavations any Faction.
 
@@ -528,7 +528,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 &nbsp;
 
-![](/realm/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
+![](/realm/assets/img/picks/SecretsoftheWarriors.png "Secrets of the Warriors") **Secrets of the Warriors**
 
 **Requirement**: Obsidian Shard
 
@@ -538,7 +538,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 &nbsp;
 
-![](/realm/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
+![](/realm/assets/img/picks/MercenaryEncampmentQuest.png "Mercenary Encampment Quest") **Mercenary Encampment Quest**
 
 We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.
 
@@ -554,7 +554,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Good Alignment**
 
-![](/realm/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
+![](/realm/assets/img/picks/MercenaryCamp.png "Mercenary Camp") **Mercenary Camp**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -572,7 +572,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Evil Alignment**
 
-![](/realm/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
+![](/realm/assets/img/picks/TyrantGarrison.png "Tyrant Garrison") **Tyrant Garrison**
 
 **Requirement**: Mercenary Encampment Quest
 
@@ -590,7 +590,7 @@ We salute you, commander. Your strategical skills had not gone unnoticed within 
 
 **Neutral Alignment**
 
-![](/realm/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
+![](/realm/assets/img/picks/Freemason'sHall.png "Freemason's Hall") **Freemason's Hall**
 
 **Requirement**: Mercenary Encampment Quest
 

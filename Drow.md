@@ -2,13 +2,13 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Recommended** gem level for doing any drow challenge is e90+
 
 **Drow Challenge 1**:
 
-![Organized Crime](/realm/img/picks/OrganizedCrimeChallenges.png "Organized Crime") **Organized Crime**
+![Organized Crime](/realm/assets/img/picks/OrganizedCrimeChallenges.png "Organized Crime") **Organized Crime**
 
 The mysterious drow wish for you to prove your murderous honor to them.
 
@@ -26,7 +26,7 @@ The mysterious drow wish for you to prove your murderous honor to them.
 
 **Drow Challenge 2**: 
 
-![Dark Elegance](/realm/img/picks/DarkEleganceChallenges.png "Dark Elegance") **Dark Elegance**
+![Dark Elegance](/realm/assets/img/picks/DarkEleganceChallenges.png "Dark Elegance") **Dark Elegance**
 
 The Spider Queen is not pleased with some of her worshippers. You must weed out the weak and sacrifice them at the temple altar.
 
@@ -46,7 +46,7 @@ The Spider Queen is not pleased with some of her worshippers. You must weed out 
 
 **Drow Challenge 3**: 
 
-![Sorcerer's Pact](/realm/img/picks/Sorcerer'sPactChallenges.png "Sorcerer's Pact") **Sorcerer's Pact**
+![Sorcerer's Pact](/realm/assets/img/picks/Sorcerer'sPactChallenges.png "Sorcerer's Pact") **Sorcerer's Pact**
 
 A legion of interlopers have invaded our sanctuaries. Work yourselves into a rage and tear them apart.
 
@@ -66,7 +66,7 @@ A legion of interlopers have invaded our sanctuaries. Work yourselves into a rag
 
 **Drow Challenge 4**: 
 
-![Trained Assassins](/realm/img/picks/TrainedAssasinsChallenges.png "Trained Assassins") **Trained Assassins**
+![Trained Assassins](/realm/assets/img/picks/TrainedAssasinsChallenges.png "Trained Assassins") **Trained Assassins**
 
 There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.
 
@@ -82,7 +82,7 @@ There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weak
 
 **Drow Challenge 5**: 
 
-![Shadow Mirage](/realm/img/picks/ShadowMirageChallenges.png "Shadow Mirage") **Shadow Mirage**
+![Shadow Mirage](/realm/assets/img/picks/ShadowMirageChallenges.png "Shadow Mirage") **Shadow Mirage**
 
 It is time to emerge from the shadows. Our warriors will demonstrate their hard work and lead us to domination of the realm.
 
@@ -100,7 +100,7 @@ It is time to emerge from the shadows. Our warriors will demonstrate their hard 
 
 **In-Game Challenge Final Reward**
 
-![Spell Upgrade Versatile Combo](/realm/img/picks/VersaltileComboChallenges.png "Spell Upgrade Versatile Combo") **Spell Upgrade Versatile Combo**
+![Spell Upgrade Versatile Combo](/realm/assets/img/picks/VersaltileComboChallenges.png "Spell Upgrade Versatile Combo") **Spell Upgrade Versatile Combo**
 
 Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###### ![](/realm/img/picks/ArcheologyTopPage.png)
+###### ![](/realm/assets/img/picks/ArcheologyTopPage.png)
 
 **[Quest Artifacts](/realm/QuestArtifacts "Quest Artifacts") Lore Artifacts**
 
@@ -9,11 +9,11 @@ layout: default
 
 There are 54 Lore Artifacts.
 
-**Note**: **Getting _Lore Artifacts requires_** the ![](/realm/img/picks/SurveyEquipment.png "SurveyEquipment") **Survey Equipment Upgrade**
+**Note**: **Getting _Lore Artifacts requires_** the ![](/realm/assets/img/picks/SurveyEquipment.png "SurveyEquipment") **Survey Equipment Upgrade**
 
 **Attention**: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)
 
-![](/realm/img/picks/RoughStone.png "Artifact") **Rough Stone**
+![](/realm/assets/img/picks/RoughStone.png "Artifact") **Rough Stone**
 
 **Description**: A common, totally uninteresting stone.
 
@@ -25,7 +25,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/ScarabofFortune.png "Scarab of Fortune") **Scarab of Fortune**
+![](/realm/assets/img/picks/ScarabofFortune.png "Scarab of Fortune") **Scarab of Fortune**
 
 **Description**: You found the rarest of relics. This golden scarab will grant you 7 days of good luck, starting from now. Make good use of it.
 
@@ -39,7 +39,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/ChocolateCookie.png "Chocolate Cookie") **Chocolate Cookie**
+![](/realm/assets/img/picks/ChocolateCookie.png "Chocolate Cookie") **Chocolate Cookie**
 
 **Description**: Found in a wasteland made of cakes and sweets, snatched from the hands of an old woman.
 
@@ -47,7 +47,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/FossilizedRodent.png "Fossilized Rodent") **Fossilized Rodent**
+![](/realm/assets/img/picks/FossilizedRodent.png "Fossilized Rodent") **Fossilized Rodent**
 
 **Description**: What's this, a prehistoric mouse...?
 
@@ -61,7 +61,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/PowerOrb.png "Power Orb") **Power Orb**
+![](/realm/assets/img/picks/PowerOrb.png "Power Orb") **Power Orb**
 
 **Description**: Throbbing with Arcane Power
 
@@ -77,7 +77,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/PinkCarrot.png "Smiley face") **Pink Carrot**
+![](/realm/assets/img/picks/PinkCarrot.png "Smiley face") **Pink Carrot**
 
 **Description**: The main product of properly nurtured Farms.
 
@@ -87,7 +87,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/BottledVoice.png "Smiley face") **Bottled Voice**
+![](/realm/assets/img/picks/BottledVoice.png "Smiley face") **Bottled Voice**
 
 **Description**: The essence of a melodic Fairy voice.
 
@@ -97,7 +97,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/LuckyClover.png "Smiley face") **Lucky Clover**
+![](/realm/assets/img/picks/LuckyClover.png "Smiley face") **Lucky Clover**
 
 **Description**: A perfectly shaped four leaf clover. Each leaf is almost unnaturally identical to the other three.
 
@@ -107,7 +107,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/Mini-treasure.png "Smiley face") **Mini-treasure**
+![](/realm/assets/img/picks/Mini-treasure.png "Smiley face") **Mini-treasure**
 
 **Description**: It's a small perfect replica of our gold-filled treasure.
 
@@ -117,7 +117,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/Pillarfragment.png "Smiley face") **Pillar Fragment**
+![](/realm/assets/img/picks/Pillarfragment.png "Smiley face") **Pillar Fragment**
 
 **Description**: A tiny piece of the legendary pillars which sustain all the Heavens.
 
@@ -127,7 +127,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DivineSword.png "Smiley face") **Divine Sword**
+![](/realm/assets/img/picks/DivineSword.png "Smiley face") **Divine Sword**
 
 **Description**: The shining golden sword of an Archangel. Its hilt feels pleasantly warm to the pure of heart and burning hot for the villain.
 
@@ -137,7 +137,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/AncientCoinPiece.png "Artifacts") **Ancient Coin Piece**
+![](/realm/assets/img/picks/AncientCoinPiece.png "Artifacts") **Ancient Coin Piece**
 
 **Description**: A common goblin lucky charm. The older it is, the luckier you are, or so they say.
 
@@ -147,7 +147,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/GoblinPurse.png "Artifacts") **Goblin Purse**
+![](/realm/assets/img/picks/GoblinPurse.png "Artifacts") **Goblin Purse**
 
 **Description**: Heavy and roomy. Definitely too big for just pocket change.
 
@@ -157,7 +157,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/RottenOrgan.png "Artifacts") **Rotten Organ**
+![](/realm/assets/img/picks/RottenOrgan.png "Artifacts") **Rotten Organ**
 
 **Description**: Ew... disgusting. It still pulses.
 
@@ -167,7 +167,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/JawBone.png "Artifacts") **Jaw Bone**
+![](/realm/assets/img/picks/JawBone.png "Artifacts") **Jaw Bone**
 
 **Description**: A jaw, missing more than half of its teeth.
 
@@ -177,7 +177,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DemonicFigurine.png "Artifacts") **Demonic Figurine**
+![](/realm/assets/img/picks/DemonicFigurine.png "Artifacts") **Demonic Figurine**
 
 **Description**: An intricate figurine representing the evil face of a lesser demon.
 
@@ -187,7 +187,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DemonHorn.png "Artifacts") **Demon Horn**
+![](/realm/assets/img/picks/DemonHorn.png "Artifacts") **Demon Horn**
 
 **Description**: Still blazing with the flames of Hell. Handle with care.
 
@@ -197,7 +197,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/HugeTitanStatue.png "Artifacts") **Huge Titan Statue**
+![](/realm/assets/img/picks/HugeTitanStatue.png "Artifacts") **Huge Titan Statue**
 
 **Description**: The granite representation of a giant wielding a lightning bolt in its fist. A foot appears to be missing.
 
@@ -207,7 +207,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/TitanShield.png "Artifacts") **Titan Shield**
+![](/realm/assets/img/picks/TitanShield.png "Artifacts") **Titan Shield**
 
 **Description**: A gargantuan metal shield, twice as tall as a common human.
 
@@ -217,7 +217,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/GlyphTable.png "Artifacts") **Glyph Table**
+![](/realm/assets/img/picks/GlyphTable.png "Artifacts") **Glyph Table**
 
 **Description**: Contains all the secrets of the Druidic Alphabet.
 
@@ -227,7 +227,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/StoneOfBalance.png "Artifacts") **Stone of Balance**
+![](/realm/assets/img/picks/StoneOfBalance.png "Artifacts") **Stone of Balance**
 
 **Description**: A carved stone hovering above its pedestal.
 
@@ -237,7 +237,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/TranslucentGoo.png "Artifacts") **Translucent Goo**
+![](/realm/assets/img/picks/TranslucentGoo.png "Artifacts") **Translucent Goo**
 
 **Description**: A completely odorless sticky substance with a diaphanous, unsettling glow.
 
@@ -247,7 +247,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/Octopus-shapedHelmet.png "Artifacts") **Octopus-shaped Helmet**
+![](/realm/assets/img/picks/Octopus-shapedHelmet.png "Artifacts") **Octopus-shaped Helmet**
 
 **Description**: A large helmet with empty metal prongs to accomodate tentacular appendages.
 
@@ -257,7 +257,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DwarvenBow.png "Artifacts") **Dwarven Bow**
+![](/realm/assets/img/picks/DwarvenBow.png "Artifacts") **Dwarven Bow**
 
 **Description**: Actually a heavy throwing hammer.
 
@@ -267,7 +267,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/StoneTankard.png "Artifacts") **Stone Tankard**
+![](/realm/assets/img/picks/StoneTankard.png "Artifacts") **Stone Tankard**
 
 **Description**: A very heavy mug for drinking the heaviest beers.
 
@@ -277,7 +277,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/CeremonialDagger.png "Artifacts") **Ceremonial Dagger**
+![](/realm/assets/img/picks/CeremonialDagger.png "Artifacts") **Ceremonial Dagger**
 
 **Description**: Its blade is unnaturally keen and sharp.
 
@@ -287,7 +287,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/ArachnidFigurine.png "Arachnid Figurine") **Arachnid Figurine**
+![](/realm/assets/img/picks/ArachnidFigurine.png "Arachnid Figurine") **Arachnid Figurine**
 
 **Description**: If you are afraid of spiders, Drow aren't your faction.
 
@@ -297,7 +297,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/SteelPlate.png "Steel Plate") **Steel Plate**
+![](/realm/assets/img/picks/SteelPlate.png "Steel Plate") **Steel Plate**
 
 **Description**: A full plate made of hardened steel.
 
@@ -307,7 +307,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/BlackSword.png "Black Sword") **Black Sword**
+![](/realm/assets/img/picks/BlackSword.png "Black Sword") **Black Sword**
 
 **Description**: A long sword with an extremely sharp blade made of dark metal.
 
@@ -317,7 +317,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DragonFangArtifact.png "Dragon Fang") **Dragon Fang**
+![](/realm/assets/img/picks/DragonFangArtifact.png "Dragon Fang") **Dragon Fang**
 
 **Description**: This huge fang can barely fit in the hands of a Titan.
 
@@ -327,7 +327,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DragonSoulArtifact.png "Dragon Soul") **Dragon Soul**
+![](/realm/assets/img/picks/DragonSoulArtifact.png "Dragon Soul") **Dragon Soul**
 
 **Description**: The extracted soul from an ancient dragon, wields the power to end the world in an instant. Also makes a good soup ingredient.
 
@@ -337,7 +337,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/VanillaFlavorJuice.png "Vanilla Flavor Juice") **Vanilla Flavor Juice**
+![](/realm/assets/img/picks/VanillaFlavorJuice.png "Vanilla Flavor Juice") **Vanilla Flavor Juice**
 
 **Description**: An essence from extremely savory vanilla beans.
 
@@ -355,7 +355,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/AncientCocoaBeanArtifacts.png "Ancient Cocoa Bean") **Ancient Cocoa Bean**
+![](/realm/assets/img/picks/AncientCocoaBeanArtifacts.png "Ancient Cocoa Bean") **Ancient Cocoa Bean**
 
 **Discription**: Despite being centuries old, it still smells like top-quality cocoa.
 
@@ -375,7 +375,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/KnowYourEnemyPartI.png "Know Your Enemy") **Know Your Enemy, Part I**
+![](/realm/assets/img/picks/KnowYourEnemyPartI.png "Know Your Enemy") **Know Your Enemy, Part I**
 
 **Description**: All the knowledge you need, stored in a handy book.
 
@@ -393,7 +393,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/VoodooDoll.png "Voodoo Doll") **Voodoo Doll**
+![](/realm/assets/img/picks/VoodooDoll.png "Voodoo Doll") **Voodoo Doll**
 
 **Description**: You are now CURSED! And you feel a sting in your lower rear.
 
@@ -409,7 +409,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/WallFragment.png "Wall Fragment") **Wall Fragment**
+![](/realm/assets/img/picks/WallFragment.png "Wall Fragment") **Wall Fragment**
 
 **Description**: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.
 
@@ -425,7 +425,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/FortuntTellerMachineArtifact.png "FortuntTellerMachine") **Fortune Teller Machine**
+![](/realm/assets/img/picks/FortuntTellerMachineArtifact.png "FortuntTellerMachine") **Fortune Teller Machine**
 
 **Requirement**: Excavate (Chance 0.1%)
 
@@ -495,7 +495,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DawnstoneArtifact.png "Dawnstone") **Dawnstone**
+![](/realm/assets/img/picks/DawnstoneArtifact.png "Dawnstone") **Dawnstone**
 
 **Description**: Only found during sunrise hours. Emits a faint glow.
 
@@ -505,7 +505,7 @@ There are 54 Lore Artifacts.
 
 **Chance**: (Excavation count / 10,000)%
 
-![](/realm/img/picks/DuskstoneArtifact.png "Duskstone") **Duskstone**
+![](/realm/assets/img/picks/DuskstoneArtifact.png "Duskstone") **Duskstone**
 
 **Description**: Only found during sunset hours. Absorbs light in a small radius.
 
@@ -521,25 +521,25 @@ There are 54 Lore Artifacts.
 
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 
-![](/realm/img/picks/SunForce12am6am.png "SunForce12pm6pm") **<span style="color: red;"> 12 AM - 6 AM</span>**
+![](/realm/assets/img/picks/SunForce12am6am.png "SunForce12pm6pm") **<span style="color: red;"> 12 AM - 6 AM</span>**
 
 **Effect**: Gain additional assistants based on the amount of Gems you own.
 
 **Formula**: floor(ln(1 + x) ^ 1.35).
 
-![](/realm/img/picks/SunForce6am12pm.png "SunForce12pm6pm")**<span style="color: red;"> 6 AM - 12 PM</span>**
+![](/realm/assets/img/picks/SunForce6am12pm.png "SunForce12pm6pm")**<span style="color: red;"> 6 AM - 12 PM</span>**
 
 **Effect**: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
 
 **Formula**: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
 
-![](/realm/img/picks/SunForce12pm6pm.png "SunForce12pm6pm")**<span style="color: red"> 12 PM - 6 PM</span>**
+![](/realm/assets/img/picks/SunForce12pm6pm.png "SunForce12pm6pm")**<span style="color: red"> 12 PM - 6 PM</span>**
 
 **Effect**: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
 
 **Formula**: log(1 + x)3 + A, where x is your total faction coins stat.
 
-![](/realm/img/picks/SunForce6pm12am.png "SunForce6pm12am")**<span style="color: red"> 6 PM - 12 AM</span>**
+![](/realm/assets/img/picks/SunForce6pm12am.png "SunForce6pm12am")**<span style="color: red"> 6 PM - 12 AM</span>**
 
 **Effect**: Increase offline production based on the amount of buildings you own.
 
@@ -547,7 +547,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/AncientHeirloomTrophy.png "Ancient Heirloom") **Ancient Heirloom**
+![](/realm/assets/img/picks/AncientHeirloomTrophy.png "Ancient Heirloom") **Ancient Heirloom**
 
 **Requirements**: Have at least 1 Lineage level purchased.
 
@@ -563,7 +563,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/KnowYourEnemyPart2.png "Know Your Enemy, Part 2") **Know Your Enemy, Part 2**
+![](/realm/assets/img/picks/KnowYourEnemyPart2.png "Know Your Enemy, Part 2") **Know Your Enemy, Part 2**
 
 **Description**: Much more knowledge than you need, stored in a handy book.
 
@@ -581,7 +581,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/VeteranFigurineArtifact.png "Veteran Figureine") **Veteran Figurine**
+![](/realm/assets/img/picks/VeteranFigurineArtifact.png "Veteran Figureine") **Veteran Figurine**
 
 **Description**: The warrior of a thousand battles, ultimate champion of the Realms.
 
@@ -593,7 +593,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/WallChunckArtifact.png "Wall Chunck") **Wall Chunk**
+![](/realm/assets/img/picks/WallChunckArtifact.png "Wall Chunck") **Wall Chunk**
 
 **Description**: A bigger piece of the infamous Ascension Wall.
 
@@ -609,7 +609,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/ExcavatedMirageArtifact.png "Excavated Mirage") **Excavated Mirage**
+![](/realm/assets/img/picks/ExcavatedMirageArtifact.png "Excavated Mirage") **Excavated Mirage**
 
 **Description**: You know all too well this does not exist, yet it fills you with hope and optimism.
 
@@ -623,7 +623,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/AncestralHourglassArtifact.png) **Ancestral Hourglass**
+![](/realm/assets/img/picks/AncestralHourglassArtifact.png) **Ancestral Hourglass**
 
 **Description**: The silver sands contained within seem to never stop flowing.
 
@@ -641,7 +641,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/SilkClothArtifact.png) **Silk Cloth**
+![](/realm/assets/img/picks/SilkClothArtifact.png) **Silk Cloth**
 
 **Description**: The purest silk made for Fairies, by Fairies, of Fairies.
 
@@ -653,7 +653,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/RawEmeraldArtifact.png) **Raw Emerald**
+![](/realm/assets/img/picks/RawEmeraldArtifact.png) **Raw Emerald**
 
 **Description**: Just slightly less precious than a raw Ruby.
 
@@ -665,7 +665,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/FossilizedWingArtifact.png) **Fossilized Wing**
+![](/realm/assets/img/picks/FossilizedWingArtifact.png) **Fossilized Wing**
 
 **Description**: The remains of an Angel fallen to earth.
 
@@ -677,7 +677,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/SpikedWhipArtifact.png) **Spiked Whip**
+![](/realm/assets/img/picks/SpikedWhipArtifact.png) **Spiked Whip**
 
 **Description**: Use with caution. You do not want to exterminate all your slaves.
 
@@ -689,7 +689,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/DustyCoffinArtifact.png) **DustyCoffin**
+![](/realm/assets/img/picks/DustyCoffinArtifact.png) **DustyCoffin**
 
 **Description**: Sealed since forever, yet you can hear a strange noise from within.
 
@@ -701,7 +701,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/CrystallizedLavaArtifact.png) **CrystallizedLava**
+![](/realm/assets/img/picks/CrystallizedLavaArtifact.png) **CrystallizedLava**
 
 **Description**: Incandescent but still. Can be used efficiently as a desk lamp.
 
@@ -713,7 +713,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/TitanHelmetArtifact.png) **Titan Helmet**
+![](/realm/assets/img/picks/TitanHelmetArtifact.png) **Titan Helmet**
 
 **Description**: Made of enough metal to craft a human-sized full plate.
 
@@ -725,7 +725,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/BranchoftheLifeTreeArtifact.png) **Branch of the Life Tree**
+![](/realm/assets/img/picks/BranchoftheLifeTreeArtifact.png) **Branch of the Life Tree**
 
 **Description**: Despite being torn from its source tree, it keeps growing buds and leaves.
 
@@ -737,7 +737,7 @@ There are 54 Lore Artifacts.
 
 ---
 
-![](/realm/img/picks/NightmareFigmentArtifact.png) **Nightmare Figment**
+![](/realm/assets/img/picks/NightmareFigmentArtifact.png) **Nightmare Figment**
 
 **Description**: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
 

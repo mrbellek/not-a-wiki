@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![](/realm/img/picks/TitanTopPage.png "Titan")](/realm/Factions/)
+###### [![](/realm/assets/img/picks/TitanTopPage.png "Titan")](/realm/Factions/)
 
-![](/realm/img/picks/Titan.png "Smiley face") **Champion Trophy**
+![](/realm/assets/img/picks/Titan.png "Smiley face") **Champion Trophy**
 
 **In-game description**
 
@@ -24,7 +24,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Formula**: round(1.75 * ln(1+x)^3), where x is your current gems.
 
-**Spell Trophy & Upgrade**: ![](/realm/img/picks/LightningStormFactionUpgrade.png "Smiley face") **Lightning Storm**
+**Spell Trophy & Upgrade**: ![](/realm/assets/img/picks/LightningStormFactionUpgrade.png "Smiley face") **Lightning Storm**
 
 **Effect**: Increase Lightning Strike multiplier to 5x Iron Strongholds. 
 
@@ -34,7 +34,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Unlock Requirements**:
 
-![](/realm/img/picks/AncientStoneSlab1FactionUpgrade.png "Ancient Stone Slab 1") **Ancient Stone Slab 1**
+![](/realm/assets/img/picks/AncientStoneSlab1FactionUpgrade.png "Ancient Stone Slab 1") **Ancient Stone Slab 1**
 
 **Type**: Quest Artifact
 
@@ -42,7 +42,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Description**: 1st clue required to unlock the Titan Alliance.
 
-![](/realm/img/picks/AncientStoneSlab2FactionUpgrade.png "Ancient Stone Slab 2") **Ancient Stone Slab 2**
+![](/realm/assets/img/picks/AncientStoneSlab2FactionUpgrade.png "Ancient Stone Slab 2") **Ancient Stone Slab 2**
 
 **Type**: Quest Artifact
 
@@ -50,7 +50,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Description**: 2nd clue required to unlock the Titan Alliance.
 
-![](/realm/img/picks/FragmentofaTitanStatue.png "Fragment of a Titan Statue") **Fragment of a Titan Statue**
+![](/realm/assets/img/picks/FragmentofaTitanStatue.png "Fragment of a Titan Statue") **Fragment of a Titan Statue**
 
 **Type**: Upgrade
 
@@ -60,7 +60,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 ---
 
-![](/realm/img/picks/ProofofNeutralityFactionUpgrade.png "Proof of Neutrality") **Proof Of Neutrality**
+![](/realm/assets/img/picks/ProofofNeutralityFactionUpgrade.png "Proof of Neutrality") **Proof Of Neutrality**
 
 **Type**: Alignment Upgrade
 
@@ -76,19 +76,19 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Tier 1 Upgrades**
 
-![](/realm/img/picks/TitansTradeTreatyFactionUpgrade.png "Titans Trade Treaty") **Titans Trade Treaty**
+![](/realm/assets/img/picks/TitansTradeTreatyFactionUpgrade.png "Titans Trade Treaty") **Titans Trade Treaty**
 
 **Cost**: 500 Angel Coins + 500 Goblin Coins
 
 **Effect**: Unlocks Tier 1 Titan Upgrades.
 
-![](/realm/img/picks/ColossalForgeFactionUpgrade.png "Colossal Forge") **Colossal Forge**
+![](/realm/assets/img/picks/ColossalForgeFactionUpgrade.png "Colossal Forge") **Colossal Forge**
 
 **Cost**: 500 Qi (5E20)
 
 **Effect**: Increase the production of all buildings by 1% per Blacksmith you own.
 
-![](/realm/img/picks/ChargedClicksFactionUpgrade.png "Charged Clicks") **Charged Clicks**
+![](/realm/assets/img/picks/ChargedClicksFactionUpgrade.png "Charged Clicks") **Charged Clicks**
 
 **Cost**: 5 Sx (5E21)
 
@@ -96,7 +96,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Note**: despite its description, Charged Clicks applies to all buildings, and is identical in effect to Charged Structures.
 
-![](/realm/img/picks/OversizedLegendsFactionUpgrade.png "Oversized Legends") **Oversized Legends**
+![](/realm/assets/img/picks/OversizedLegendsFactionUpgrade.png "Oversized Legends") **Oversized Legends**
 
 **Cost**: 50 Sx (5E22)
 
@@ -108,25 +108,25 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Tier 2 Upgrades**
 
-![](/realm/img/picks/TitansFriendshipPactFactionUpgrade.png "Titan Friendship Pact") **Titan Friendship Pact**
+![](/realm/assets/img/picks/TitansFriendshipPactFactionUpgrade.png "Titan Friendship Pact") **Titan Friendship Pact**
 
 **Cost**: 2,500 Angel Coins + 2,500 Goblin Coins
 
 **Effect**: Unlocks Tier 2 Titan Upgrades.
 
-![](/realm/img/picks/TitanDrillFactionUpgrade.png "Titan Drill") **Titan Drill**
+![](/realm/assets/img/picks/TitanDrillFactionUpgrade.png "Titan Drill") **Titan Drill**
 
 **Cost**: 5 Sp (5E24)
 
 **Effect**: Increases the production of Deep Mines by 250,000%
 
-![](/realm/img/picks/ChargedStructuresFactionUpgrade.png "Charged Structures") **Charged Structures**
+![](/realm/assets/img/picks/ChargedStructuresFactionUpgrade.png "Charged Structures") **Charged Structures**
 
 **Cost**: 50 Sp (5E25)
 
 **Effect**: Whenever you cast a spell, your production is increased by 250% for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.
 
-![](/realm/img/picks/CyclopeanStrengthFactionUpgrade.png "Cyclopean Strength") **Cyclopean Strength**
+![](/realm/assets/img/picks/CyclopeanStrengthFactionUpgrade.png "Cyclopean Strength") **Cyclopean Strength**
 
 **Cost**: 500 Sp (5E26)
 
@@ -136,25 +136,25 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Tier 3 Upgrades**
 
-![](/realm/img/picks/TitansAllianceFactionUpgrade.png "Titan Alliance") **Titan Alliance**
+![](/realm/assets/img/picks/TitansAllianceFactionUpgrade.png "Titan Alliance") **Titan Alliance**
 
 **Cost**: 10,000 Angel Coins + 10,000 Goblin Coins
 
 **Effect**: Unlocks Tier 3 Titan Upgrades.
 
-![](/realm/img/picks/TitanSizedWallsFactionUpgrade.png "Titan Sized Walls") **Titan Sized Walls**
+![](/realm/assets/img/picks/TitanSizedWallsFactionUpgrade.png "Titan Sized Walls") **Titan Sized Walls**
 
 **Cost**: 50 Oc (5E28)
 
 **Effect**: Increases the production of Monasteries by 25,000%
 
-![](/realm/img/picks/HeavyCoinsFactionUpgrade.png "Heavy Coins") **Heavy Coins**
+![](/realm/assets/img/picks/HeavyCoinsFactionUpgrade.png "Heavy Coins") **Heavy Coins**
 
 **Cost**: 500 Oc (5E29)
 
 **Effect**: Increases Royal Exchanges production bonus by an additional 40% each.
 
-![](/realm/img/picks/TitanObeliskFactionUpgrade.png "Titan Obelisk") **Titan Obelisk**
+![](/realm/assets/img/picks/TitanObeliskFactionUpgrade.png "Titan Obelisk") **Titan Obelisk**
 
 **Cost**: 5 No (5E30)
 
@@ -162,7 +162,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 ---
 
-![](/realm/img/picks/TitanHeritage.png "Titan Heritage") **Titan Heritage**
+![](/realm/assets/img/picks/TitanHeritage.png "Titan Heritage") **Titan Heritage**
 
 **Cost**: 25,000 Angel Coins, 25,000 Goblin Coins
 
@@ -174,7 +174,7 @@ Titan is the first Neutral Faction to be unlocked as the requirements are the lo
 
 **Titan Research Requirements**
 
-![](/realm/img/picks/OlympianHallsQuestFactionUpgrade.png "Smiley face") **Olympian Halls Quest**
+![](/realm/assets/img/picks/OlympianHallsQuestFactionUpgrade.png "Smiley face") **Olympian Halls Quest**
 
 Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.
 
@@ -182,7 +182,7 @@ Khaire, ruler. More of our people will join your cause if you build enough Hall 
 
 **Cost**: 10 Dtg (1E100)
 
-![](/realm/img/picks/OlympianHallsFactionUpgrade.png "Smiley face") **Olympian Halls**
+![](/realm/assets/img/picks/OlympianHallsFactionUpgrade.png "Smiley face") **Olympian Halls**
 
 Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per Royal Exchange you've purchased and unlocking more unique perks for the building.
 
@@ -190,13 +190,13 @@ Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per 
 
 **Cost**: 10 Ttg (1E103)
 
-![](/realm/img/picks/KeytotheLostCityFactionUpgrade.png "Smiley face") **Key to the Lost City**
+![](/realm/assets/img/picks/KeytotheLostCityFactionUpgrade.png "Smiley face") **Key to the Lost City**
 
 **Effect**: Unlocks the Secrets of the Ancients.
 
 **Requirements**: Found on the 1500th excavation +R23
 
-![](/realm/img/picks/SecretsoftheAncientsFactionUpgrade.png "Smiley face") **Secrets of the Ancients**
+![](/realm/assets/img/picks/SecretsoftheAncientsFactionUpgrade.png "Smiley face") **Secrets of the Ancients**
 
 **Effect**: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.
 
@@ -206,7 +206,7 @@ Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per 
 
 **Cost**: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins
 
-![](/realm/img/picks/AncientDeviceFactionUpgrade.png "Smiley face") **Ancient Device**
+![](/realm/assets/img/picks/AncientDeviceFactionUpgrade.png "Smiley face") **Ancient Device**
 
 **Description**: Quest Artifact and Upgrade
 
@@ -220,7 +220,7 @@ Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per 
 
 **Unique Building**
 
-![](/realm/img/picks/TitanUniqueBuilding.png "Smiley face")
+![](/realm/assets/img/picks/TitanUniqueBuilding.png "Smiley face")
 
 Upgraded from Hall of Legends
 

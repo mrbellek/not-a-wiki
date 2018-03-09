@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###### ![](/realm/img/picks/ResearchTopPage.png)
+###### ![](/realm/assets/img/picks/ResearchTopPage.png)
 
 All Unique Buildings are only available with **Research**
 
@@ -10,7 +10,7 @@ All Unique Buildings are only available with **Research**
 
 **Fairy**
 
-![](/realm/img/picks/FairyUniqueBuilding.png "Enchanted Fields")
+![](/realm/assets/img/picks/FairyUniqueBuilding.png "Enchanted Fields")
 
 Upgraded from Farms
 
@@ -24,7 +24,7 @@ Upgrade Farms To Enchanted Fields, boosting their production by 750% per assista
 
 **Elf**
 
-![](/realm/img/picks/ElfUniqueBuilding.png "Elven Training Grounds")
+![](/realm/assets/img/picks/ElfUniqueBuilding.png "Elven Training Grounds")
 
 Upgraded from Warrior Barracks
 
@@ -38,7 +38,7 @@ Upgrade Warrior Barracks To Elven Training Grounds, boosting their production ba
 
 **Angel**
 
-![](/realm/img/picks/AngelUniqueBuilding.png "Heaven's Domains")
+![](/realm/assets/img/picks/AngelUniqueBuilding.png "Heaven's Domains")
 
 Upgraded from Heaven's Gates
 
@@ -50,7 +50,7 @@ Upgrade Heaven's Gate To Heaven's Domains, boosting their production by x250 per
 
 **Goblin**
 
-![](/realm/img/picks/GoblinUniqueBuilding.png "Goblin Banks")
+![](/realm/assets/img/picks/GoblinUniqueBuilding.png "Goblin Banks")
 
 Upgraded from Witch Conclaves
 
@@ -64,7 +64,7 @@ Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the 
 
 **Undead**
 
-![](/realm/img/picks/UndeadUniqueBuilding.png "Undercities")
+![](/realm/assets/img/picks/UndeadUniqueBuilding.png "Undercities")
 
 Upgraded from Necropolis
 
@@ -78,7 +78,7 @@ Upgrade Necropolises To Undercities, boosting their production based on time spe
 
 **Demon**
 
-![](/realm/img/picks/DemonUniqueBuilding.png "Infernal Realms")
+![](/realm/assets/img/picks/DemonUniqueBuilding.png "Infernal Realms")
 
 Upgraded from Hell Portals
 
@@ -92,7 +92,7 @@ Upgrade Hell Portals To Infernal Realms, boosting their production by 125% per T
 
 **Titan**
 
-![](/realm/img/picks/TitanUniqueBuilding.png "Olympian Halls")
+![](/realm/assets/img/picks/TitanUniqueBuilding.png "Olympian Halls")
 
 Upgraded from Hall of Legends
 
@@ -104,7 +104,7 @@ Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per 
 
 **Druid**
 
-![](/realm/img/picks/DruidUniqueBuilding.png "Stonehenge Circles")
+![](/realm/assets/img/picks/DruidUniqueBuilding.png "Stonehenge Circles")
 
 Upgraded from Stone Pillars
 
@@ -118,7 +118,7 @@ Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% pe
 
 **Faceless**
 
-![](/realm/img/picks/FacelessUniqueBuilding.png "Sunken Cities")
+![](/realm/assets/img/picks/FacelessUniqueBuilding.png "Sunken Cities")
 
 Upgraded from Labyrinths
 
@@ -132,7 +132,7 @@ Upgrade Labyrinths to Sunken Cities, boosting their production based on time spe
 
 **Dwarf**
 
-![](/realm/img/picks/DwarvenUniqueBuilding.png "Unique building dwarf")
+![](/realm/assets/img/picks/DwarvenUniqueBuilding.png "Unique building dwarf")
 
 Upgraded from Blacksmiths
 
@@ -146,7 +146,7 @@ Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana r
 
 **Drow**
 
-![](/realm/img/picks/DrowUniqueBuilding.png "Unique building drow")
+![](/realm/assets/img/picks/DrowUniqueBuilding.png "Unique building drow")
 
 Upgraded from Dark Temples
 
@@ -160,7 +160,7 @@ Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on t
 
 **Dragon**
 
-![](/realm/img/picks/DragonUniqueBuilding.png "Unique building Dragon")
+![](/realm/assets/img/picks/DragonUniqueBuilding.png "Unique building Dragon")
 
 Upgraded from Stronghold
 
@@ -174,7 +174,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 **Mercenary**
 
-![](/realm/img/picks/GoodMercUniqueBuilding.png "GoodMerc") **Good Alignment**
+![](/realm/assets/img/picks/GoodMercUniqueBuilding.png "GoodMerc") **Good Alignment**
 
 Upgraded from Knights Jousts
 
@@ -186,7 +186,7 @@ Upgrade Knights Jousts to Mercenary Camps, boosting their production based on th
 
 &nbsp;
 
-![](/realm/img/picks/EvilMercUniqueBuilding.png "EvilMerc") **Evil Alignment**
+![](/realm/assets/img/picks/EvilMercUniqueBuilding.png "EvilMerc") **Evil Alignment**
 
 Upgraded from Evil Fortresses
 
@@ -198,7 +198,7 @@ Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on 
 
 &nbsp;
 
-![](/realm/img/picks/NeutralMercUniqueBuilding.png "NeutralMerc") **Neutral Alignment**
+![](/realm/assets/img/picks/NeutralMercUniqueBuilding.png "NeutralMerc") **Neutral Alignment**
 
 Upgraded from Alchemist Labs
 
@@ -210,7 +210,7 @@ Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on t
 
 &nbsp;
 
-![](/realm/img/picks/HolySiteUniqueBuilding.png "Holy Site")
+![](/realm/assets/img/picks/HolySiteUniqueBuilding.png "Holy Site")
 
 Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
 
@@ -226,7 +226,7 @@ Upgrade Cathedrals to Holy Sites, boosting their production based on time spent 
 
 &nbsp;
 
-![](/realm/img/picks/FleshWorkshopUniqueBuilding.png "Flesh Workshop")
+![](/realm/assets/img/picks/FleshWorkshopUniqueBuilding.png "Flesh Workshop")
 
 Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
 
@@ -244,7 +244,7 @@ Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on you
 
 &nbsp;
 
-![](/realm/img/picks/MountainPalaceUniqueBuilding.png "Mountain Palace")
+![](/realm/assets/img/picks/MountainPalaceUniqueBuilding.png "Mountain Palace")
 
 Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
 
@@ -260,7 +260,7 @@ Upgrade Deep Mines to Mountain Palaces, boosting their production based on build
 
 &nbsp;
 
-![](/realm/img/picks/SwarmingTowersUniqueBuilding.png "Swarming Towers")
+![](/realm/assets/img/picks/SwarmingTowersUniqueBuilding.png "Swarming Towers")
 
 Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
 
@@ -276,7 +276,7 @@ Upgrade Wizard Towers to Swarming Towers, boosting their production based on the
 
 &nbsp;
 
-![](/realm/img/picks/BurningAbyssUniqueBuilding.png "Burning Abyss")
+![](/realm/assets/img/picks/BurningAbyssUniqueBuilding.png "Burning Abyss")
 
 Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
 
@@ -292,7 +292,7 @@ Upgrade Hall of Legends to Burning Abyss, boosting their production based on tim
 
 &nbsp;
 
-![](/realm/img/picks/ForbiddenLibraryUniqueBuilding.png "Forbidden Library")
+![](/realm/assets/img/picks/ForbiddenLibraryUniqueBuilding.png "Forbidden Library")
 
 Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
 
@@ -308,7 +308,7 @@ Upgrade Monasteries to Forbidden Libraries, boosting production based on spells 
 
 &nbsp;
 
-![](/realm/img/picks/ArborealCityUniqueBuilding.png "Arboreal City")
+![](/realm/assets/img/picks/ArborealCityUniqueBuilding.png "Arboreal City")
 
 Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
 
@@ -324,7 +324,7 @@ Upgrade Citadels to Arboreal Cities, boosting their production based on Faction 
 
 &nbsp;
 
-![](/realm/img/picks/SlaveMarketUniqueBuilding.png "Slave Market")
+![](/realm/assets/img/picks/SlaveMarketUniqueBuilding.png "Slave Market")
 
 Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.
 
@@ -340,7 +340,7 @@ Upgrade Slave Pens to Slave Markets, boosting their production based on assistan
 
 &nbsp;
 
-![](/realm/img/picks/ZigguratUniqueBuilding.png "Ziggurat")
+![](/realm/assets/img/picks/ZigguratUniqueBuilding.png "Ziggurat")
 
 Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.
 

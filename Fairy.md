@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
 **Fairy Challenge 1**
 
-![Pixie Mischief](/realm/img/picks/PixieMischiefChallenge.png "Pixie Mischief") **Pixie Mischief**
+![Pixie Mischief](/realm/assets/img/picks/PixieMischiefChallenge.png "Pixie Mischief") **Pixie Mischief**
 
 The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!
 
@@ -26,7 +26,7 @@ The Fairies are small and mighty, they can turn little things in to all you ever
 
 **Fairy Challenge 2**
 
-![Donations](/realm/img/picks/DonationsChallenge.png "Donations") **Donations**
+![Donations](/realm/assets/img/picks/DonationsChallenge.png "Donations") **Donations**
 
 Our farmers' crops are not growing. Perhaps a little magic can help change that.
 
@@ -48,7 +48,7 @@ Don't forget to purchase the Bloodline within the time limit.
 
 **Fairy Challenge 3**
 
-![Enchanted Lands](/realm/img/picks/EnchantedLandsChallenges.png "Enchanted Lands") **Enchanted Lands**
+![Enchanted Lands](/realm/assets/img/picks/EnchantedLandsChallenges.png "Enchanted Lands") **Enchanted Lands**
 
 The Fairies have developed a taste for honey. Find out quickly if they have a queen!
 
@@ -74,6 +74,6 @@ Use Goblin Bloodline.
 
 **In-Game Challenge Final Reward**
 
-![Fairy Orchestra](/realm/img/picks/FairyOrchestraFinalReward.png "Fairy Orchestra") **Fairy Orchestra**
+![Fairy Orchestra](/realm/assets/img/picks/FairyOrchestraFinalReward.png "Fairy Orchestra") **Fairy Orchestra**
 
 **Effect**: Each assistant generates 3 times as many faction coins while Fairy Chanting is active.

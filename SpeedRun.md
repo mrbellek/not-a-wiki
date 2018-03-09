@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-![](/realm/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speed Run**
+![](/realm/assets/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speed Run**
 
 **Requirement**: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.
 

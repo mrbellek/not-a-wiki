@@ -2,11 +2,11 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/img/picks/ChallengesTopPage.png "Challenges")](/realm/Challenges)
+###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png "Challenges")](/realm/Challenges)
 
 **Angel Challenges 1**
 
-![Efficient Magic](/realm/img/picks/EfficentMagicChallenges.png "Efficient Magic") **Efficient Magic**
+![Efficient Magic](/realm/assets/img/picks/EfficentMagicChallenges.png "Efficient Magic") **Efficient Magic**
 
 The blazing have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy lights. Hurry up, corruption is spreading fast.
 
@@ -26,7 +26,7 @@ Recommended +1 B (1E9) gems. You will need a min mana regen of 60 m/s get enough
 
 **Angel Challenge 2**
 
-![Mana Crypts](/realm/img/picks/ManaCryptsChallenges.png "Mana Crypts") **Mana Crypts**
+![Mana Crypts](/realm/assets/img/picks/ManaCryptsChallenges.png "Mana Crypts") **Mana Crypts**
 
 The archangel leaders have entrusted you on a sacred mission:quickly harvest enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden.
 
@@ -46,7 +46,7 @@ Avoid getting Angelic Wisdom (2,2) and Angelic Dominance (3,2) because they redu
 
 **Angel Challenge 3**
 
-![Nephilim's Blessing](/realm/img/picks/Nephilim'sBlessingChallenges.png "Nephilim's Blessing") **Nephilim's Blessing**
+![Nephilim's Blessing](/realm/assets/img/picks/Nephilim'sBlessingChallenges.png "Nephilim's Blessing") **Nephilim's Blessing**
 
 The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals
 
@@ -66,7 +66,7 @@ The fallen nephilim have noticed your abilities and have entrusted you with a se
 
 **In-Game Challenge Final Reward**
 
-![God's Throne](/realm/img/picks/God'sThroneChallenges.png "God's Throne") **God's Throne**
+![God's Throne](/realm/assets/img/picks/God'sThroneChallenges.png "God's Throne") **God's Throne**
 
 **Effect**: Mana regeneration is increased by 50% while God's Hand is active.
 
