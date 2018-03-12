@@ -216,7 +216,7 @@
       - name: Drow
         colour: 9a0368
       - name: Dragon
-        colour: 006400
+        colour: '006400'
 
 - name: Events
   link: /realm/Events
