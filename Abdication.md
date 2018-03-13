@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Abdication]({{ site.baseurl }}/img/picks/Reset-Abdication.png "Abdication")
+![Abdication](/realm/assets/img/picks/Reset-Abdication.png "Abdication")
 
 **In-game description**
 
