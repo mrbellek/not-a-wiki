@@ -24,51 +24,110 @@ array_pop($lines);
 
 //replace tags
 for ($i = 0; $i < count($lines); $i++) {
+    $line = $lines[$i];
+    $skipMarkDownConversion = false;
+
     //skip some things because we want to leave those in html
-    if (strpos($lines[$i], 'usemap=') !== false ||
-        strpos($lines[$i], '<map ') !== false ||
-        strpos($lines[$i], '</map>') !== false ||
-        strpos($lines[$i], '<area ') !== false) {
+    if (strpos($line, 'usemap=') !== false ||
+        strpos($line, '<map ') !== false ||
+        strpos($line, '</map>') !== false ||
+        strpos($line, '<area ') !== false ||
+        strpos($line, '<div ') !== false ||
+        strpos($line, '</div>') !== false ||
+        strpos($line, '"shohid(') !== false) {
 
+        $skipMarkDownConversion = true;
+        $line = rtrim($line, PHP_EOL);
         print('x');
-        continue;
     }
-    print('.');
 
-    //headers
-    $lines[$i] = str_replace('<h6>', '###### ', $lines[$i]);
-    $lines[$i] = str_replace('</h6>', '', $lines[$i]);
+    if (!$skipMarkDownConversion) {
+        print('.');
 
-    //remove paragraphs
-    $lines[$i] = str_replace('<p>', '', $lines[$i]);
-    $lines[$i] = str_replace('</p>', '', $lines[$i]);
+        //headers
+        $line = str_replace('<h6>', '###### ', $line);
+        $line = str_replace('</h6>', '', $line);
 
-    //emphasis
-    $lines[$i] = preg_replace('/<b>\s*/', '**', $lines[$i]);
-    $lines[$i] = preg_replace('/\s*<\/b>/', '**', $lines[$i]);
-    $lines[$i] = preg_replace('/<i>\s*/', '*', $lines[$i]);
-    $lines[$i] = preg_replace('/\s*<\/i>/', '*', $lines[$i]);
+        //remove paragraphs
+        $line = str_replace('<p>', '', $line);
+        $line = str_replace('</p>', '', $line);
 
-    //image tags, try to preserve (meaningful) alt attribute into title attribute
-    if (preg_match('/<img src="(.+)" alt="(.+)" align="middle">/', $lines[$i], $matches)) {
-        if ($matches[2] == 'Smiley face') {
-            $matches[2] = '';
+        //emphasis
+        $line = preg_replace('/<b>\s*/', '**', $line);
+        $line = preg_replace('/\s*<\/b>/', '**', $line);
+        $line = preg_replace('/<i>\s*/', '*', $line);
+        $line = preg_replace('/\s*<\/i>/', '*', $line);
+
+        //image tags, try to preserve (meaningful) alt attribute into title attribute
+        if (preg_match('/<img src="(.+)" alt="(.+)" align="middle">/', $line, $matches)) {
+            if ($matches[2] == 'Smiley face') {
+                $matches[2] = '';
+            }
+            $line = preg_replace('/<img src="(.+)" alt="(.+)" align="middle">/', sprintf('![%1$s](%2$s "%1$s")', $matches[2], $matches[1]), $line);
+        } elseif (preg_match('/<img src="(.+)">/', $line, $matches)) {
+            $line = preg_replace('/<img src="(.+)">/', sprintf('![](%s)', $matches[1]), $line);
+        } else {
+            $line = str_replace('<img src="', '![](', $line);
+            $line = str_replace('" alt=', ' ', $line);
+            $line = str_replace(' align="middle">', ')', $line);
         }
-        $lines[$i] = preg_replace('/<img src="(.+)" alt="(.+)" align="middle">/', sprintf('![%1$s](%2$s "%1$s")', $matches[2], $matches[1]), $lines[$i]);
-    } elseif (preg_match('/<img src="(.+)">/', $lines[$i], $matches)) {
-        $lines[$i] = preg_replace('/<img src="(.+)">/', sprintf('![](%s)', $matches[1]), $lines[$i]);
-    } else {
-        $lines[$i] = str_replace('<img src="', '![](', $lines[$i]);
-        $lines[$i] = str_replace('" alt=', ' ', $lines[$i]);
-        $lines[$i] = str_replace(' align="middle">', ')', $lines[$i]);
+
+        //hyperlinks
+        if (preg_match('/<a target="_blank" href="(.+?)">(.+?)<\/a>/', $line, $matches)) {
+            //link with target
+            $line = preg_replace('/<a target="_blank" href="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s)', $matches[2], $matches[1]), $line);
+        } elseif (preg_match('/<a href="(.+?)" title="(.+?)">(.+?)<\/a>/', $line, $matches)) {
+            //link with title
+            $line = preg_replace('/<a href="(.+?)" title="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s "%s")', $matches[3], $matches[1], $matches[2]), $line);
+        } elseif (preg_match('/<a href="(.+?)">(.+?)<\/a>/', $line, $matches)) {
+            //regular link
+            $line = preg_replace('/<a href="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s)', $matches[2], $matches[1]), $line);
+        }
+
+        //stuff
+        $line = preg_replace('/^\*\*[-]+\*\*/', '---', $line);
+        $line = preg_replace('/^<hr\/?>/', '---', $line);
+        $line = trim($line, ' ');
+
+        //fix incorrectly formatted html results
+
+        //replace [**text**](link) with **[text](link)**
+        if (preg_match('/\[\*\*(.+)\*\*\]\((.+)\)/', $line, $matches)) {
+            $line = preg_replace('/\[\*\*(.+)\*\*\]\((.+)\)/', sprintf('**[%s](%s)**', $matches[1], $matches[2]), $line);
+        }
+
+        //replace **![text](link) text** with ![text](link) **text**
+        if (preg_match('/\*\*!\[(.*)\]\((.+)\) ?(.+)\*\*/', $line, $matches)) {
+            $line = preg_replace('/\*\*!\[(.*)\]\((.+)\) ?(.+)\*\*/', sprintf('![%s](%s) **%s**', $matches[1], $matches[2], $matches[3]), $line);
+        }
+
+        //replace <font> tags
+        if (preg_match('/<font color="(.+)">(.+)<\/font>/', $line, $matches)) {
+            $line = preg_replace('/<font color="(.+)">(.+)<\/font>/', sprintf('<span style="color: %s;">%s</span>', $matches[1], $matches[2]), $line);
+        }
+
+        //replace **<span style="">** with <span style="font-weight: bold">
+        if (preg_match('/\*\*<span style="(.+)">(.+)<\/span>\*\*/', $line, $matches)) {
+            $line = preg_replace('/\*\*<span style="(.+)">(.+)<\/span>\*\*/', sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
+        } elseif (preg_match('/\*\*<span style="(.+)">(.+)\*\*<\/span>/', $line, $matches)) {
+            //also replace malformed version <b><span>....</b></span>
+            $line = preg_replace('/\*\*<span style="(.+)">(.+)\*\*<\/span>/', sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
+        }
+
+        //remove comments
+        $line = preg_replace('/<\!--(.+)-->/', '', $line);
     }
 
     //replace absolute links
-    $lines[$i] = str_replace('http://musicfamily.org/realm/Factions/picks', '/realm/assets/img/picks', $lines[$i]);
+    $line = str_replace('http://musicfamily.org/realm/Factions/picks', '/realm/assets/img/picks', $line);
+    $line = str_replace('http://musicfamily.org/realm/', '/realm/', $line);
 
-    //stuff
-    $lines[$i] = preg_replace('/^\*\*[-]+\*\*/', '---', $lines[$i]);
-    $lines[$i] = trim($lines[$i], ' ');
+    //apply modified line
+    if (trim($line) == '') {
+        $lines[$i] = '';
+    } else {
+        $lines[$i] = $line;
+    }
 
     //replace two subsequent <br/> lines with &nbsp;, otherwise remove line
     if (preg_match('/^<br\/>/', $lines[$i])) {
@@ -83,10 +142,13 @@ for ($i = 0; $i < count($lines); $i++) {
      * TODO:
      * v double <br> lines
      * v images without alt/align attributes
-     * - hyperlinks
+     * v hyperlinks
      * - hyperlinked images
-     * - font tags
+     * v font tags
      * - images within <b> tags
+     * - unfuck /realm/img links
+     * - multiple <font> tags in a line (R16Guide)
+     * - multiple hyperlinks in a line (Kong)
      */
 }
 print(PHP_EOL);
@@ -102,7 +164,7 @@ define('DS', DIRECTORY_SEPARATOR);
 $pathinfo = pathinfo($argv[1]);
 $path = $pathinfo['dirname'] . DS . $pathinfo['filename'] . '.md';
 
-//by imploding contents read with file() we essentially add a blank line after every line
+//by imploding contents that were read with file() we essentially add a blank line after every line
 $contents = implode(PHP_EOL, $lines);
 
 file_put_contents($path, $contents);

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Dragons](/realm/assets/img/picks/DragonTopPage.png "Dragons")](/realm/Factions)
+###### [![Spellcraft](/realm/assets/img/picks/DragonTopPage.png "Spellcraft")](/realm/Factions/)
 
-![Champion Trophy](/realm/assets/img/picks/DragonChampionTrophy.png "Champion Trophy") **Champion Trophy**
+![](/realm/assets/img/picks/DragonChampionTrophy.png "")**Champion Trophy**
 
 **In-game description**
 
@@ -16,9 +16,9 @@ The Dragon faction cannot be combined with Good or Evil Factions.
 
 **Alignment**: Prestige (Neutral)
 
-**Spell Trophy &amp; Upgrade: ![Dragon's Roar](/realm/assets/img/picks/Dragon'sRoarFactionUpgrade.png "Dragon's Roar") Dragon's Roar** 
+**Spell Trophy &amp; Upgrade: ![God's Rest](/realm/assets/img/picks/Dragon'sRoarFactionUpgrade.png "God's Rest") Dragon's Roar**
 
-**Effect**: Dragon's Breath also produces Faction Coins at each cast based on it's activity time. 
+**Effect**: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
 
 **Formula**: floor(135 * x^0.98), x is all Rs activity time in seconds
 
@@ -26,25 +26,25 @@ The Dragon faction cannot be combined with Good or Evil Factions.
 
 **Effect**: Activates one of the following effects at random for
 
-<span style="color: darkred; font-weight: bold;">Red</span>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.
+<span style="font-weight: bold; color: darkred;">Red</span>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.
 
-<span style="color: darkred; font-weight: bold;">Formula</span>: 2 * (ln(1 + X) ^ 2),where x is Faction Coins found in this game.
+<span style="font-weight: bold; color: darkred;">Formula</span>: 2 * (ln(1 + X) ^ 2),where x is Faction Coins found in this game.
 
-<span style="color: darkgreen; font-weight: bold;">Green</span>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.
+<span style="font-weight: bold; color: darkgreen;">Green</span>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.
 
-<span style="color: darkgreen; font-weight: bold;">Formula</span>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).
+<span style="font-weight: bold; color: darkgreen;">Formula</span>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).
 
-<span style="color: darkgreen; font-weight: bold;">Formula</span>: (0.32 * x^0.625) Druid and Faceless boost with the above Formula.
+<span style="font-weight: bold; color: darkgreen;">Formula</span>: (0.32 * x^0.625) Druid and Faceless boost with the above Formula.
 
-<span style="color: darkblue; font-weight: bold;">Blue</span>: Increase your mana regeneration by 200%
+<span style="font-weight: bold; color: darkblue;">Blue</span>: Increase your mana regeneration by 200%
 
-<span style="color: white; font-weight: bold;">White</span>: Temporarily increase the amount of assistants based on total time spent being neutral.
+<span style="font-weight: bold; color: white;">White</span>: Temporarily increase the amount of assistants based on total time spent being neutral.
 
-<span style="color: white; font-weight: bold;">Formula</span>: (1.35 * floor(x / 60) ^ 0.7)
+<span style="font-weight: bold; color: white;">Formula</span>: (1.35 * floor(x / 60) ^ 0.7)
 
-<span style="color: black; font-weight: bold;">Black</span>: Increase the production of all buildings based on Dragon's Breath activity time.
+<span style="font-weight: bold; color: black;">Black</span>: Increase the production of all buildings based on Dragon's Breath activity time.
 
-<span style="color: black; font-weight: bold;">Formula</span>: (0.5 * x^0.75)%), where x is Dragon's Breath activity time.
+<span style="font-weight: bold; color: black;">Formula</span>: (0.5 * x^0.75)%), where x is Dragon's Breath activity time.
 
 ---
 
@@ -54,11 +54,11 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **You can Abdicate and Reincarnate during the 12 hour wait of all 4 stages.**
 
-![Spiky Rough Egg Artifact](/realm/assets/img/picks/SpikyRoughEggArtifact.png "Spiky Rough Egg Artifact") **Spiky Rough Egg Artifact**
+![](/realm/assets/img/picks/SpikyRoughEggArtifact.png "")**Spiky Rough Egg Artifact**
 
-**Requirement**: 1500+ Excavations (Chance 2%)
+**Requirement**: R46+, 1500+ Excavations (Chance 2%)
 
-![Hatch!](/realm/assets/img/picks/Hatch!Artifact.png "Hatch!") **Hatch!**
+![](/realm/assets/img/picks/Hatch!Artifact.png "")**Hatch!**
 
 **Description**: After waiting for a while... hatch the spiky egg and reveal what's inside!
 
@@ -68,7 +68,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Hatches the Egg
 
-![Drakeling](/realm/assets/img/picks/DrakelingFactionUpgrade.png "Drakeling") **Drakeling**
+![](/realm/assets/img/picks/DrakelingFactionUpgrade.png "")**Drakeling**
 
 **Description**: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.
 
@@ -80,7 +80,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Grows Drakeling into Dragon.
 
-![Dragon](/realm/assets/img/picks/DragonFactionUpgrade.png "Dragon") **Dragon**
+![](/realm/assets/img/picks/DragonFactionUpgrade.png "")**Dragon**
 
 **Description**: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.
 
@@ -90,7 +90,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Grows Dragon into Elder Dragon
 
-![ElderDragon](/realm/assets/img/picks/ElderDragonFactionUpgrade.png "ElderDragon") **ElderDragon**
+![](/realm/assets/img/picks/ElderDragonFactionUpgrade.png "")**ElderDragon**
 
 **Description**: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.
 
@@ -104,7 +104,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 1 Upgrades**
 
-![Dragons Trade Treaty](/realm/assets/img/picks/DragonsTradeTreatyFactionUpgrade.png "Dragons Trade Treaty") **Dragons Trade Treaty**
+![](/realm/assets/img/picks/DragonsTradeTreatyFactionUpgrade.png "") **Dragons Trade Treaty**
 
 **Description**: The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.
 
@@ -114,17 +114,17 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 1 Upgrades.
 
-![Dragonscales](/realm/assets/img/picks/DragonscalesFactionUpgrade.png "Dragonscales") **Dragonscales**
+![](/realm/assets/img/picks/DragonscalesFactionUpgrade.png "") **Dragonscales**
 
 **Requirement**: Dragons Trade Treaty
 
 **Cost**: 5 Uvg (5.0e66)
 
-**Effect**: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral. 
+**Effect**: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.
 
 **Formula**: (1.25 * t) ^ 0.55 where t is total amount of time spent as Neutral in minutes (this R).
 
-![Iron Flight](/realm/assets/img/picks/IronFlightFactionUpgrade.png "Iron Flight") **Iron Flight**
+![](/realm/assets/img/picks/IronFlightFactionUpgrade.png "") **Iron Flight**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -132,13 +132,13 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Increase the production of Iron Stronghold by 2000% when affected by any Spell.
 
-![Eternal Wisdom](/realm/assets/img/picks/EternalWisdomFactionUpgrade.png "Eternal Wisdom") **Eternal Wisdom**
+![](/realm/assets/img/picks/EternalWisdomFactionUpgrade.png "") **Eternal Wisdom**
 
 **Requirement**: Dragons Trade Treaty
 
 **Cost**: 500 Uvg (5.0e68)
 
-**Effect**: Increase the production of all buildings based on Royal Exchange bonus. 
+**Effect**: Increase the production of all buildings based on Royal Exchange bonus.
 
 **Formula**: 2 * (x ^ 1.15) where x is Royal Exchange bonus.
 
@@ -146,7 +146,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Tier 2 Upgrades**
 
-![Dragons Friendship Pact](/realm/assets/img/picks/DragonsFriendshipPactFactionUpgrade.png "Dragons Friendship Pact") **Dragons Friendship Pact**
+![](/realm/assets/img/picks/DragonsFriendshipPactFactionUpgrade.png "") **Dragons Friendship Pact**
 
 **Requirement**: Dragons Trade Treaty
 
@@ -154,27 +154,27 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 2 Upgrades.
 
-![Dragonborn](/realm/assets/img/picks/DragonbornFactionUpgrade.png "Dragonborn") **Dragonborn**
+![](/realm/assets/img/picks/DragonbornFactionUpgrade.png "") **Dragonborn**
 
 **Requirement**: Dragons Friendship Pact
 
 **Cost**: 50 Dvg (5.0e70)
 
-**Effect**: Increase assistants production based on time spent affiliated with Dragons. 
+**Effect**: Increase assistants production based on time spent affiliated with Dragons.
 
 **Formula**: 0.75 * (t ^ 0.55) where t is amount of time spent with Dragons (All game).
 
-![Bountiful Hoard](/realm/assets/img/picks/BountifulHoardFactionUpgrade.png "Bountiful Hoard") **Bountiful Hoard**
+![](/realm/assets/img/picks/BountifulHoardFactionUpgrade.png "") **Bountiful Hoard**
 
 **Requirement**: Dragons Friendship Pact
 
 **Cost**: 500 Dvg (5e71 DC)
 
-**Effect**: Increase the production of all buildings based on the amount of Artifacts you found. 
+**Effect**: Increase the production of all buildings based on the amount of Artifacts you found.
 
 **Formula**: 5 * (x ^ 1.25) where x is amount of artifacts you found.
 
-![Sharp Claws](/realm/assets/img/picks/SharpClawsFactionUpgrade.png "Sharp Claws") **Sharp Claws**
+![](/realm/assets/img/picks/SharpClawsFactionUpgrade.png "") **Sharp Claws**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -182,13 +182,13 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Gain additional assistants based on clicks made in this game.
 
-**Formula**: floor(0.1 * ln(1 + x)^2.75) 
+**Formula**: floor(0.1 * ln(1 + x)^2.75)
 
 ---
 
 **Tier 3 Upgrades**
 
-![Dragons Alliance](/realm/assets/img/picks/DragonsAllianceFactionUpgrade.png "Dragons Alliance") **Dragons Alliance**
+![](/realm/assets/img/picks/DragonsAllianceFactionUpgrade.png "") **Dragons Alliance**
 
 **Requirement**: Dragons Friendship Pact
 
@@ -196,17 +196,17 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Effect**: Unlocks Tier 3 Upgrades.
 
-![Ancient Hunger](/realm/assets/img/picks/AncientHungerFactionUpgrade.png "Ancient Hunger") **Ancient Hunger**
+![](/realm/assets/img/picks/AncientHungerFactionUpgrade.png "") **Ancient Hunger**
 
 **Requirement**: Dragons Alliance
 
 **Cost**: 500 Tvg (5.0e74)
 
-**Effect**: Increase maximum mana based on the amount of Faction Coins found in this game. 
+**Effect**: Increase maximum mana based on the amount of Faction Coins found in this game.
 
 **Formula**: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).
 
-![Imposing Presence](/realm/assets/img/picks/ImposingPresenceFactionUpgrade.png "Imposing Presence") **Imposing Presence**
+![](/realm/assets/img/picks/ImposingPresenceFactionUpgrade.png "") **Imposing Presence**
 
 **Requirement**: Dragons Alliance
 
@@ -216,19 +216,19 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Formula**: floor((x ^ 0.55)) / 10 where x is amount of neutral buildings.
 
-![Chromatic Scales](/realm/assets/img/picks/ChromaticScalesFactionUpgrade.png "Chromatic Scales") **Chromatic Scales**
+![](/realm/assets/img/picks/ChromaticScalesFactionUpgrade.png "") **Chromatic Scales**
 
 **Requirement**: Dragons Alliance
 
 **Cost**: 50 Qavg (5.0e76)
 
-**Effect**: Increase the production of all buildings based on the amount of active Dragon's Breath effects. 
+**Effect**: Increase the production of all buildings based on the amount of active Dragon's Breath effects.
 
 **Formula**: 100 * (x ^ 2) where x is amount of active Dragon's Breath effects.
 
 ---
 
-![Dragon Heritage](/realm/assets/img/picks/DragonHeritageFactionUpgrade.png "Dragon Heritage") **Dragon Heritage**
+![Drow Heritage](/realm/assets/img/picks/DragonHeritageFactionUpgrade.png "Drow Heritage")**Dragon Heritage**
 
 **Cost**: 400b (4e11) Dwarven and Drow coins
 
@@ -242,7 +242,7 @@ These Requirements can be done in separate game plays, and only need to be done 
 
 **Dragons Research Requirements**
 
-![Wyrm's Den Quest](/realm/assets/img/picks/Wyrm'sDenQuestFactionUpgrade.png "Wyrm's Den Quest") **Wyrm's Den Quest**
+![](/realm/assets/img/picks/Wyrm'sDenQuestFactionUpgrade.png "") **Wyrm's Den Quest**
 
 Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.
 
@@ -252,7 +252,7 @@ Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build 
 
 **Cost**: 100 Tvg (1.0e74)
 
-![Wyrm's Den](/realm/assets/img/picks/Wyrm'sDenFactionUpgrade.png "Wyrm's Den") **Wyrm's Den**
+![](/realm/assets/img/picks/Wyrm'sDenFactionUpgrade.png "") **Wyrm's Den**
 
 Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
 
@@ -266,7 +266,7 @@ Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the to
 
 ---
 
-![Dragon Unique Building](/realm/assets/img/picks/DragonUniqueBuilding.png "Dragon Unique Building")
+![Unique building drow](/realm/assets/img/picks/DragonUniqueBuilding.png "Unique building drow")
 
 Upgraded from Iron Stronghold
 

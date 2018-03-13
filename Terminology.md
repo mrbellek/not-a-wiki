@@ -14,7 +14,7 @@ Below is a list of acronyms and terms used in Realm Grinder.
 
 **This game and Current game**: started last abdication, and ends next abdication.
 
-**Total**: refers to the current reincarnation. 
+**Total**: refers to the current reincarnation.
 
 **All-Time**: covers all reincarnations.
 
@@ -50,7 +50,7 @@ Below is a list of acronyms and terms used in Realm Grinder.
 
 **Short and long names**
 
-**S**=Spellcraft, **C**=Craftsmanship, **D**=Divine, **E**=Economics, **A**=Alchemy, and **W**=Warfare, 
+**S**=Spellcraft, **C**=Craftsmanship, **D**=Divine, **E**=Economics, **A**=Alchemy, and **W**=Warfare,
 
 ###### Factions
 
@@ -126,7 +126,7 @@ Spells are shortened to their initials. Relies on context to differentiate ident
 
 **NT**: Night Time
 
-**HB**: Hellfire Blast
+**HB-HFB**: Hellfire Blast
 
 **LS**: Lightning Strike
 

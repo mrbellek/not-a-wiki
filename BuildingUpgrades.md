@@ -210,7 +210,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
     <area target="" research="Post Ascension Only<p>Upgrade 21: Lotus Form<p>Requirement: 4000 Monasteries<p>Cost: 207.3Ocd (2.073e59)<p>Increase Monasteries production by 50%." coords="5,112,50,161" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Absolute Meditation<p>Requirement: 10K Monastery<p>Cost: 22.91 Qaqag (2.291e136)<p>Increase Monastery by 50%" coords="54,110,107,162" shape="rect">
     <area target="" research="Unique Building <p>At R100, Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building. <p>Requirements: R100+, Neutral, Proof of Chaos, Forbidden Library Quest <p>Effect: Increase production based on spells cast. <p>Effect: Also grants access to Faction Union. <p>Formula: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast." coords="350,110,539,161" shape="rect">
-    </map>
+</map>
 
 **Labyrinth Upgrades (Alignment: Neutral)**
 
@@ -585,7 +585,7 @@ Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
     <area target="" research="Post Ascension Only<p>Upgrade 20: Nether Codex<p>Requirement: 3500 Witch Conclaves<p>Cost: 6.473Sxd (6.473e51)<p>Increase Witch Conclaves production by 50%." coords="485,58,536,107" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Tattered Cloaks<p>Requirement: 4000 Witch Conclaves<p>Cost: 17.82Ocd (1.782e58)<p>Increase Witch Conclaves production by 50%." coords="2,112,52,160" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Black Cats<p>Requirement: 10K Witch Conclaves<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Witch Conclave production by 50%" coords="56,110,107,162" shape="rect">
-    <area target="" research="Unique Building<p>At R16, The Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests. Boosting their production based on the amount of gold you own and unlocking more unique perks for the building.<p>Requirement: 1750 Witch Conclaves, Research, Play as Evil and Goblin, R16+<p>Formula: 650 + 10000 * log^1.5(1 + x), where x is your current amount of Coins. " coords="351,112,538,162" shape="rect">
+    <area target="" research="Unique Building<p>At R16, The Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests. Boosting their production based on the amount of gold you own and unlocking more unique perks for the building.<p>Requirement: 1750 Witch Conclaves, Research, Play as Evil and Goblin, R16+<p>Formula: floor(log(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.. " coords="351,112,538,162" shape="rect">
 </map>
 
 **Dark Temple Upgrades (Alignment: Evil)**

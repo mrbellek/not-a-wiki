@@ -2,13 +2,13 @@
 layout: default
 ---
 
-###### ![Excavation](/realm/assets/img/picks/ExcavationTopPage.png "Excavation")
+###### ![](/realm/assets/img/picks/ExcavationTopPage.png)
 
 **There are two kinds of artifacts**
 
-**[Quest Artifacts](/realm/QuestArtifacts)** and **[Lore Artifacts](/realm/LoreArtifacts)**
+**[Quest Artifacts](/realm/QuestArtifacts "Quest Artifacts")** and **[Lore Artifacts](/realm/LoreArtifacts "Lore Artifacts")**
 
-<p style="color: red; font-weight: bold">Artifact Sets at bottom</p>
+<span style="font-weight: bold; color: red;">Artifact Sets at bottom</span>
 
 **In-game description**
 
@@ -16,7 +16,7 @@ Enter the Archeology Association to control the progress of your Excavations. Th
 
 Archaeology was first implemented in the "Ancient Races" expansion for introducing the Neutral Factions.
 
-Excavating enables to find Rubies (See the **[Ruby](/realm/Rubies)** page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral &amp; Prestige Factions.
+Excavating enables to find Rubies (See the **[Ruby](/realm/Rubies/)** page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral & Prestige Factions.
 
 Some artifacts will reward direct bonuses and the amount of discovered artifacts take part in some Research upgrades.
 
@@ -24,7 +24,7 @@ Some artifacts will reward direct bonuses and the amount of discovered artifacts
 
 Archaeology is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the
 
-![Archaeology upgrade](/realm/assets/img/picks/Archeology-upgrade.png "Archeology Upgrade") **Archeology Upgrade**.
+![](/realm/assets/img/picks/Archeology-upgrade.png "") **Archeology Upgrade**.
 
 **Cost**: 100 Oc (1e29)
 
@@ -32,7 +32,7 @@ An "Excavation" button will then appear on the top left of the Upgrades tab and 
 
 The chance to find **Lore Artifacts** requires the
 
-![Survey Equipment Upgrade](/realm/assets/img/picks/SurveyEquipment.png "Survey Equipment Upgrade") **Survey Equipment Upgrade**
+![](/realm/assets/img/picks/SurveyEquipment.png "")**Survey Equipment Upgrade**
 
 **Requirements**: which requires 100 excavations and
 
@@ -58,7 +58,7 @@ The chance to find **Lore Artifacts** requires the
 
 **Note**: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.
 
-<img src="/realm/assets/img/picks/AllArtifacts.png" usemap="#AllArtifacts-map">
+<p><img src="/realm/assets/img/picks/AllArtifacts.png" usemap="#AllArtifacts-map">
 <map name="AllArtifacts-map">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/AncientStoneSlab1.png&quot; alt=&quot;Artifacts&quot; align=&quot;middle&quot;><b> Ancient Stone Slab 1</b></p> <p><b>Clues</b>: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.</p><p><b>Effect</b>: 1st clue required to unlock the Titan Alliance.</p> <p><b>Requirements</b>: 5th Excavation</p>" coords="6,47,62,103" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/FossilizedPieceofBark1.png&quot; alt=&quot;Artifacts&quot; align=&quot;middle&quot;><b> Fossilized Piece of Bark 1</b></p> <p><b>Clues</b>: We discovered a fossilized piece of Bark with the image of a Faction Coin carved into it.</p><p><b>Effect</b>: 1st clue required to unlock the Druid Alliance.</p> <p><b>Requirements</b>: 10th Excavation</p>" coords="69,48,126,103" shape="rect">
@@ -110,7 +110,7 @@ The chance to find **Lore Artifacts** requires the
     <area target="" research="<img src=&quot;/realm/assets/img/picks/VoodooDoll.png&quot; align=&quot;middle&quot;><b> Voodoo Doll</b></p> <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p> <p><b>Rewards</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p> <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p> <p><b>Cost</b>: 20 Qig (2E154) <p><b>Chance</b>: (number of Witch Conclaves / 10000)%</p> <p><b>Alignment</b>: Any" coords="391,470,447,526" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/WallFragment.png&quot; align=&quot;middle&quot;><b> Wall Fragment</b></p> <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p> <p><b>Rewards</b>: Increase the production of all buildings based on their tier.</p> <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms. <p><b>Requirement</b>: At least 1 Ascension <p><b>Chance</b>: 10%</p> <p><b>Cost</b>: 1 M (1E6) <p><b>Alignment</b>: Any" coords="5,534,60,590" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/FortuntTellerMachineArtifact.png&quot; align=&quot;middle&quot;><b> Fortune Teller Machine</b></p><p><b>Requirement</b>: Excavate (Chance 0.1%)</p> <p><b>Alignment</b>: Any (No Faction) <p><b>Description</b>: Will tell you 1 of 24 statements at random.<p>Upgrade Requirement: R42+<p>Cost: R42+ 1 No (1e32)<p>Cost: Post A2 Free<p>Effect: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)<p>Formula: 6.5 * x ^ 0.65, where x is time this R</p>" coords="69,534,127,592" shape="rect">
-    <area target="" research="<img src=&quot;/realm/assets/img/picks/DawnstoneArtifact.png&quot; align=&quot;middle&quot;><b> Dawnstone</b></p><p><b>Description</b>: Only found durung sunrise hours. Emits a faint glow.</p> <p><b>Rewards</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day.</p> <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Your local time)<p><b>Chance</b>: (Excavation count / 10,000)%</p><p>Click image for details" href="/realm/SunForce/" coords="134,535,189,592" shape="rect">
+    <area target="" research="<img src=&quot;/realm/assets/img/picks/DawnstoneArtifact.png&quot; align=&quot;middle&quot;><b> Dawnstone</b></p><p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p> <p><b>Rewards</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day.</p> <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Your local time)<p><b>Chance</b>: (Excavation count / 10,000)%</p><p>Click image for details" href="/realm/SunForce/" coords="134,535,189,592" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/DuskstoneArtifact.png&quot; align=&quot;middle&quot;><b> Duskstone</b></p><p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p> <p><b>Rewards</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day.</p> <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Your local time)<p><b>Chance</b>: (Excavation count / 10,000)%</p><p>Click image for details" href="/realm/SunForce/" coords="196,534,254,590" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/AncientHeirloomTrophy.png&quot; align=&quot;middle&quot;><b> Ancient Heirloom</b></p><p><b>Requirements</b>: Have at least 1 Lineage level purchased. <p><b>Chance</b>: (Total Lineage levels/20)% <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is  9x more per level) <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages) <p>Formula: With Ancient Heirloom (25 * 10^(15+lineages))^0.9<p><b>Cost</b>: 10 Dtg (1e100)" coords="262,535,320,590" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/KnowYourEnemyPart2.png&quot; align=&quot;middle&quot;><b> Know Your Enemy, Part 2</b></p><p><b>Description</b>: Much more knowledge than you need, stored in a handy book.<p><b>Reward</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.<p><b>Note</b>: Only available to Mercenaries<p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).<p><b>Requirement</b>: R76, Upgrade from all 12 Factions<p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)" coords="324,534,382,590" shape="rect">
@@ -128,21 +128,20 @@ The chance to find **Lore Artifacts** requires the
     <area target="" research="<img src=&quot;/realm/assets/img/picks/BranchoftheLifeTreeArtifact.png&quot; align=&quot;middle&quot;><b> Branch of the Life Tree</b><p>Description: Despite being torn from its source tree, it keeps growing buds and leaves.<p>Requirement: R100+, 3000+ Excavations<p>Effect: Unlocks Druid Set.<p>Chance:  ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage." coords="195,660,253,717" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/NightmareFigmentArtifact.png&quot; align=&quot;middle&quot;><b> Nightmare Figment</b><p>Description: An unshaped, ephemeral substance which is politely trying to corrupt your mind.<p>Requirement:  R100+, 3000+ Excavations<p>Effect: Unlocks Faceless Set.<p>Chance: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds." coords="262,659,319,716" shape="rect">
 </map>
-
 ###### Artifact Sets
 
 **Finding all the faction artifacts for a specific faction** will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
 
 **Requires all artifacts related to the faction to use its set.**
 
-<h6><img src="/realm/assets/img/picks/FactionSets.png" usemap="#FactionSets-map"></h6>
+<h6><center><img src="/realm/assets/img/picks/FactionSets.png" usemap="#FactionSets-map"></h6>
 <map name="FactionSets-map">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/FairySet.png&quot; align=&quot;middle&quot;><b> Fairy Set</b></p><p>Requirement: A2+<p>Artifacts Required: Silk Cloth, Pink Carrot, Bottled Voice<p>Cost: Free<p>Effect: Increase Farm, Inn and Blacksmith production based on number of assistants owned.<p>Formula: (0.75 * x ^ 0.75), where x is number of assistants owned." coords="6,7,54,56" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/ElvenSet.png&quot; align=&quot;middle&quot;><b> Elven Set</b></p><p>Requirement: A2+<p>Artifacts Required: Raw Emerald, Lucky Clover, Mini-treasure<p>Cost: Free<p>Effect: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).<p>Formula: (0.66 * x ^ 0.6), where x is amount of Elven Lucks triggered."  coords="59,7,110,57" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/AngelSet.png&quot; align=&quot;middle&quot;><b> Angel Set</b></p><p>Requirement: A2+<p>Artifacts Required: Fossilized Wing, Pillar Fragment, DivineSword<p>Cost: Free<p>Effect: Increase mana regen based on spells cast this game.<p>Formula: (0.32 * x ^ 0.32), where x is spells cast." coords="113,7,163,55" shape="rect">
-    <area target="" research="<img src=&quot;/realm/assets/img/picks/GoblinSet.png&quot; align=&quot;middle&quot;><b> Goblin Set</b></p><p>Requirement: A2+<p>Artifacts Required: Spiked Whip, Ancient Coin Piece, Goblin Purse<p>Cost: Free<p>Effect: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.<p>Formula: (x ^ 0.7), where x is seconds." coords="6,61,54,108" shape="rect">
+    <area target="" research="<img src=&quot;/realm/assets/img/picks/GoblinSet.png&quot; align=&quot;middle&quot;><b> Goblin Set</b></p><p>Requirement: A2+<p>Artifacts Required: Spiked Whip, Ancient Coin Piece, Goblin Purse<p>Cost: Free<p>Effect: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.<p>Formula: (1 + (0.01 * x ^ 0.7)), where x is seconds.<p>Note: Ingame tooltip is off by one (actual effect is 1 higher)" coords="6,61,54,108" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/UndeadSet.png&quot; align=&quot;middle&quot;><b> Undead Set</b></p><p>Requirement: A2+<p>Artifacts Required: DustyCoffin, Rotten Organ, JawBone<p>Cost: Free<p>Effect: Additively Increase max mana based on offline bonus.<p>Formula: (18 * x ^ 0.65), where x is offline Multiplier." coords="60,61,109,109" shape="rect">
-    <area target="" research="<img src=&quot;/realm/assets/img/picks/DemonSet.png&quot; align=&quot;middle&quot;><b> Demon Set</b></p><p>Requirement: A2+<p>Artifacts Required: CrystallizedLava, Demonic Figurine, Demon Horn<p>Cost: Free<p>Effect: Increase non unique building production based on the sum of your faction spells activity time.<p>Formula: (0.75 * x ^ 0.75), where x is faction spell activity time." coords="113,59,164,109" shape="rect">
+    <area target="" research="<img src=&quot;/realm/assets/img/picks/DemonSet.png&quot; align=&quot;middle&quot;><b> Demon Set</b></p><p>Requirement: A2+<p>Artifacts Required: CrystallizedLava, Demonic Figurine, Demon Horn<p>Cost: Free<p>Effect: Increase non unique building production based on the sum of your faction spells activity time. (This R)<p>Formula: (0.75 * x ^ 0.75), where x is faction spell activity time." coords="113,59,164,109" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/TitanSet.png&quot; align=&quot;middle&quot;><b> Titan Set</b></p><p>Requirement: A2+<p>Artifacts Required: Titan Helmet, Huge Titan Statue, Titan Shield<p>Cost: Free<p>Effect: Increase Unique building production based on time spent this game.<p>Formula: (0.07 * x ^ 0.7), where x is seconds."coords="6,114,54,163" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/DruidSet.png&quot; align=&quot;middle&quot;><b> Druid Set</b></p><p>Requirement: A2+<p>Artifacts Required: Branch of the Life Tree, Glyph Table, Stone Of Balance<p>Cost: Free<p>Effect: Increase production of all buildings based on their quantity.<p>Formula: (0.65 * x ^ 0.65), where x is building count." coords="60,113,110,164" shape="rect">
     <area target="" research="<img src=&quot;/realm/assets/img/picks/FacelessSet.png&quot; align=&quot;middle&quot;><b> Faceless Set</b></p><p>Requirement: A2+<p>Artifacts Required: Nightmare Figment, Translucent Goo, Octopus-shaped Helmet<p>Cost: Free<p>Effect: Increase production of all buildings based on highest amount of spells cast in a single game.<p>Formula: (0.32 * x ^ 0.32), where x is number of spells cast." coords="114,114,163,164" shape="rect">

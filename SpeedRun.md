@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-![](/realm/assets/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speed Run**
+![Speedrun](/realm/assets/img/picks/SpeedrunSecretTrophy.png "Speedrun") **Speed Run**
 
 **Requirement**: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.
 
@@ -22,7 +22,7 @@ Quite easy by following this guide.
 
 **Step by Step Guide**
 
-**Bye all upgrades as they become available**
+**Buy all upgrades as they become available**
 
 **Do Not Buy Gem Power**
 

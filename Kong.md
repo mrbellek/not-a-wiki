@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+
 <h6><a target="_blank" research="View all games on Kongregate" href="https://www.silvergames.com/en/"><img src="/realm/assets/img/picks/kongregate_anthill.png" alt="TrophiesTopPage" align="middle"></a></h6>
 
-**[REALM GRINDER Developer's Diary](http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-jan-8th-2018?page=2#posts-12170739)**
+**[REALM GRINDER Developers' Diary](http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-feb-19th-2018?page=3#posts-12433864)**
 
 **[Realm Grinder Support](http://www.divinegames.it/#support)**
 
@@ -22,5 +23,3 @@ layout: default
 **[Secret trophy guide (easiest to later)](http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later)**
 
 **[why_amihere (R0-R18 in 24h)](http://www.kongregate.com/forums/8945-realm-grinder/topics/607521)**
-
-

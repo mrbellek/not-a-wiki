@@ -2,9 +2,9 @@
 layout: default
 ---
 
-###### [![Challenges](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
+###### [![](/realm/assets/img/picks/ChallengesTopPage.png)](/realm/Challenges/)
 
-**Dragon Challenge 1**: 
+**Dragon Challenge 1**:
 
 ![Sky Monarch](/realm/assets/img/picks/SkyMonarchChallenges.png "Sky Monarch") **Sky Monarch**
 
@@ -12,7 +12,7 @@ layout: default
 
 **Requirements**: Reincarnations 48, Dragon's Roar upgrade, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 1, Play as Titan/Dragon
 
-**Challenge**: Have 7200 Halls of Legends. 
+**Challenge**: Have 7200 Halls of Legends.
 
 **Effect**: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.
 
@@ -24,7 +24,7 @@ layout: default
 
 ---
 
-**Dragon Challenge 2**: 
+**Dragon Challenge 2**:
 
 ![Barkscales](/realm/assets/img/picks/BarkscalesChallenges.png "Barkscales") **Barkscales**
 
@@ -32,7 +32,7 @@ layout: default
 
 **Requirements**: Reincarnation 51, Dragon Bloodline, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 2, Completion Dragon Challenge 1, Play as Druid/Dragon, Generate at least 1e10 mana in this game.
 
-**Challenge**: Have Grand Balance affect 7 buildings. 
+**Challenge**: Have Grand Balance affect 7 buildings.
 
 **Effect**: Increase Stone Pillars production based on the amount of Grand Balance targets.
 
@@ -46,7 +46,7 @@ layout: default
 
 ---
 
-**Dragon Challenge 3**: 
+**Dragon Challenge 3**:
 
 ![Serpent Queller](/realm/assets/img/picks/SerpentQuellerChallenges.png "Serpent Queller") **Serpent Queller**
 
@@ -66,7 +66,7 @@ layout: default
 
 ---
 
-**Dragon Challenge 4**: 
+**Dragon Challenge 4**:
 
 ![Draconstellation](/realm/assets/img/picks/DraconstellationChallenges.png "Draconstellation") **Draconstellation**
 
@@ -84,7 +84,7 @@ layout: default
 
 ---
 
-**Dragon Challenge 5**: 
+**Dragon Challenge 5**:
 
 ![Ancient Incantation](/realm/assets/img/picks/AncientIncantationChallenges.png "Ancient Incantation") **Ancient Incantation**
 
@@ -100,7 +100,7 @@ layout: default
 
 ---
 
-**Dragon Challenge 6**: 
+**Dragon Challenge 6**:
 
 ![Dracomet Vault](/realm/assets/img/picks/DracometVaultChallenges.png "Dracomet Vault") **Dracomet Vault**
 
@@ -108,7 +108,7 @@ layout: default
 
 **Requirements**: Reincarnation 63, Completion of Dragon challenge 5, 12,000 research points spent across all facilities
 
-**Challenge**: Gather 2.5e18 faction coins, 1e141 diamond coins, 125,000 buildings, 2e10 mana produced, 7500 excavations, 6000 assistants, 300,000 max mana and 175,000 mana regen.
+**Challenge**: Gather 2.5e18 faction coins, 1e141 diamond coins, 120,000 buildings, 2e10 mana produced, 7500 excavations, 6000 assistants, 300,000 max mana and 175,000 mana regen.
 
 **Effect**: Gem production is passively increased over time based on the amount of artifacts you own. Resets on Abdications.
 

@@ -3,6 +3,10 @@
       - name: Home
         link: /realm/
 
+      - name: Support This Site
+        link: /realm/Support
+        research: Your support will help keep this site ad free
+
       - name: G00f's not a Guest Book
         link: /realm/GuestBook/gbook.php
 
@@ -53,6 +57,9 @@
       - name: Changelog
         link: /realm/Changelog
 
+      - name: Premium Upgrades
+        link: /realm/PremiumUpgrades
+
       - name: Kongregate Links
         link: /realm/Kong
 
@@ -70,23 +77,32 @@
       - name: Building Upgrades
         link: /realm/BuildingUpgrades
 
-      - name: Heritages
-        link: /realm/Heritages
-
       - name: Factions
         link: /realm/Factions
 
       - name: Faction Upgrades
         link: /realm/FactionUpgrades
 
+      - name: Heritages
+        link: /realm/Heritages
+
+      - name: Artifacts
+        link: /realm/Artifacts
+
+      - name: Challenges
+        link: /realm/Challenges
+
       - name: Bloodlines
         link: /realm/Bloodline
 
-      - name: Lineages
-        link: /realm/Lineages
-
       - name: Research
         link: /realm/Research
+
+      - name: Research Tree
+        link: /realm/ResearchTree
+
+      - name: Lineages
+        link: /realm/Lineages
 
       - name: Mercenary Research
         link: /realm/MercResearch
@@ -94,8 +110,8 @@
       - name: Ascension 2
         link: /realm/Ascension2
 
-      - name: Research Tree
-        link: /realm/ResearchTree
+      - name: Artifact Sets
+        link: /realm/ArtifactSet
 
       - name: Spells and Tier Upgrades
         link: /realm/Spells

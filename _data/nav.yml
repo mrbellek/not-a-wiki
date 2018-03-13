@@ -79,7 +79,7 @@
         research: Total Buildings
 
       - name: Magic
-        link: /realm/Magic
+        link: /realm/Mana
         research: Mana, Arcane, Spell Upgrade Trophies
 
       - name: Spell
