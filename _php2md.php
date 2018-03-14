@@ -34,7 +34,8 @@ for ($i = 0; $i < count($lines); $i++) {
         strpos($line, '<area ') !== false ||
         strpos($line, '<div ') !== false ||
         strpos($line, '</div>') !== false ||
-        strpos($line, '"shohid(') !== false) {
+        strpos($line, '"shohid(') !== false ||
+        strpos($line, ' research=') !== false) {
 
         $skipMarkDownConversion = true;
         $line = rtrim($line, PHP_EOL);
@@ -63,9 +64,9 @@ for ($i = 0; $i < count($lines); $i++) {
             if ($matches[2] == 'Smiley face') {
                 $matches[2] = '';
             }
-            $line = preg_replace('/<img src="(.+)" alt="(.+)" align="middle">/', sprintf('![%1$s](%2$s "%1$s")', $matches[2], $matches[1]), $line);
+            $line = str_replace($matches[0], sprintf('![%1$s](%2$s "%1$s")', $matches[2], $matches[1]), $line);
         } elseif (preg_match('/<img src="(.+)">/', $line, $matches)) {
-            $line = preg_replace('/<img src="(.+)">/', sprintf('![](%s)', $matches[1]), $line);
+            $line = str_replace($matches[0], sprintf('![](%s)', $matches[1]), $line);
         } else {
             $line = str_replace('<img src="', '![](', $line);
             $line = str_replace('" alt=', ' ', $line);
@@ -73,15 +74,17 @@ for ($i = 0; $i < count($lines); $i++) {
         }
 
         //hyperlinks
-        if (preg_match('/<a target="_blank" href="(.+?)">(.+?)<\/a>/', $line, $matches)) {
+        if (preg_match_all('/<a target="_blank" href="(.+?)">(.+?)<\/a>/', $line, $matches)) {
             //link with target
-            $line = preg_replace('/<a target="_blank" href="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s)', $matches[2], $matches[1]), $line);
+            for ($j = 0; $j < count($matches[0]); $j++) {
+                $line = str_replace($matches[0][$j], sprintf('[%s](%s)', $matches[2][$j], $matches[1][$j]), $line);
+            }
         } elseif (preg_match('/<a href="(.+?)" title="(.+?)">(.+?)<\/a>/', $line, $matches)) {
             //link with title
-            $line = preg_replace('/<a href="(.+?)" title="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s "%s")', $matches[3], $matches[1], $matches[2]), $line);
+            $line = str_replace($matches[0], sprintf('[%s](%s "%s")', $matches[3], $matches[1], $matches[2]), $line);
         } elseif (preg_match('/<a href="(.+?)">(.+?)<\/a>/', $line, $matches)) {
             //regular link
-            $line = preg_replace('/<a href="(.+?)">(.+?)<\/a>/', sprintf('[%s](%s)', $matches[2], $matches[1]), $line);
+            $line = str_replace($matches[0], sprintf('[%s](%s)', $matches[2], $matches[1]), $line);
         }
 
         //stuff
@@ -93,29 +96,41 @@ for ($i = 0; $i < count($lines); $i++) {
 
         //replace [**text**](link) with **[text](link)**
         if (preg_match('/\[\*\*(.+)\*\*\]\((.+)\)/', $line, $matches)) {
-            $line = preg_replace('/\[\*\*(.+)\*\*\]\((.+)\)/', sprintf('**[%s](%s)**', $matches[1], $matches[2]), $line);
+            $line = str_replace($matches[0], sprintf('**[%s](%s)**', $matches[1], $matches[2]), $line);
         }
 
         //replace **![text](link) text** with ![text](link) **text**
         if (preg_match('/\*\*!\[(.*)\]\((.+)\) ?(.+)\*\*/', $line, $matches)) {
-            $line = preg_replace('/\*\*!\[(.*)\]\((.+)\) ?(.+)\*\*/', sprintf('![%s](%s) **%s**', $matches[1], $matches[2], $matches[3]), $line);
+            $line = str_replace($matches[0], sprintf('![%s](%s) **%s**', $matches[1], $matches[2], $matches[3]), $line);
+        }
+
+        //replace [ **text**](link) with **[text](link)**
+        if (preg_match('/\[ \*\*(.+?)\*\*\]\((.+?)\)/', $line, $matches)) {
+            $line = str_replace($matches[0], sprintf('**[%s](%s)**', $matches[1], $matches[2]), $line);
         }
 
         //replace <font> tags
-        if (preg_match('/<font color="(.+)">(.+)<\/font>/', $line, $matches)) {
-            $line = preg_replace('/<font color="(.+)">(.+)<\/font>/', sprintf('<span style="color: %s;">%s</span>', $matches[1], $matches[2]), $line);
+        if (preg_match_all('/<font color="(.+?)">(.+?)<\/font>/', $line, $matches)) {
+            for ($j = 0; $j < count($matches[0]); $j++) {
+                $line = str_replace($matches[0][$j], sprintf('<span style="color: %s;">%s</span>', $matches[1][$j], $matches[2][$j]), $line);
+            }
         }
 
-        //replace **<span style="">** with <span style="font-weight: bold">
+        //replace **<span style="">...</span>** with <span style="font-weight: bold">...</span>
         if (preg_match('/\*\*<span style="(.+)">(.+)<\/span>\*\*/', $line, $matches)) {
-            $line = preg_replace('/\*\*<span style="(.+)">(.+)<\/span>\*\*/', sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
+            $line = str_replace($matches[0], sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
         } elseif (preg_match('/\*\*<span style="(.+)">(.+)\*\*<\/span>/', $line, $matches)) {
-            //also replace malformed version <b><span>....</b></span>
-            $line = preg_replace('/\*\*<span style="(.+)">(.+)\*\*<\/span>/', sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
+            //also replace malformed version <b><span>...</b></span>
+            $line = str_replace($matches[0], sprintf('<span style="font-weight: bold; %s">%s</span>', $matches[1], $matches[2]), $line);
         }
 
         //remove comments
         $line = preg_replace('/<\!--(.+)-->/', '', $line);
+
+        //put spaces around single asterisks to prevent it being parsed as italic
+        $line = preg_replace('/([.a-zA-Z0-9])\*([.a-zA-Z0-9])/', '$1 * $2', $line);
+        $line = preg_replace('/ \*([.a-zA-Z0-9])/', '* $1', $line);
+        $line = preg_replace('/([.a-zA-Z0-9])\* /', '$1 *', $line);
     }
 
     //replace absolute links
@@ -143,12 +158,11 @@ for ($i = 0; $i < count($lines); $i++) {
      * v double <br> lines
      * v images without alt/align attributes
      * v hyperlinks
-     * - hyperlinked images
+     * v multiple <font> tags in a line (R16Guide)
      * v font tags
+     * v multiple hyperlinks in a line (Kong)
+     * ? hyperlinked images (likely already covered)
      * - images within <b> tags
-     * - unfuck /realm/img links
-     * - multiple <font> tags in a line (R16Guide)
-     * - multiple hyperlinks in a line (Kong)
      */
 }
 print(PHP_EOL);
