@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-###### ![](http://musicfamily.org/realm/Factions/picks/ExcavationTopPage.png)
+###### ![](/realm/assets/img/picks/ExcavationTopPage.png)
 
-![](http://musicfamily.org/realm/Factions/picks/FairySet.png") **Fairy Set**
+![](/realm/assets/img/picks/FairySet.png) **Fairy Set**
 
 **Requirement**: A2+
 
@@ -17,7 +17,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/PinkCarrot.png") **Pink Carrot**
+![](/realm/assets/img/picks/PinkCarrot.png) **Pink Carrot**
 
 **Description**: The main product of properly nurtured Farms.
 
@@ -27,7 +27,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/BottledVoice.png "Smiley face") **Bottled Voice**
+![](/realm/assets/img/picks/BottledVoice.png "Smiley face") **Bottled Voice**
 
 **Description**: The essence of a melodic Fairy voice.
 
@@ -37,7 +37,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png") **Silk Cloth**
+![](/realm/assets/img/picks/SilkClothArtifact.png) **Silk Cloth**
 
 **Description**: The purest silk made for Fairies, by Fairies, of Fairies.
 
@@ -47,7 +47,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/ElvenSet.png") **Elven Set**
+![](/realm/assets/img/picks/ElvenSet.png) **Elven Set**
 
 **Requirement**: A2+
 
@@ -61,7 +61,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/LuckyClover.png "Smiley face") **Lucky Clover**
+![](/realm/assets/img/picks/LuckyClover.png "Smiley face") **Lucky Clover**
 
 **Description**: A perfectly shaped four leaf clover. Each leaf is almost unnaturally identical to the other three.
 
@@ -71,7 +71,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/Mini-treasure.png "Smiley face") **Mini-treasure**
+![](/realm/assets/img/picks/Mini-treasure.png "Smiley face") **Mini-treasure**
 
 **Description**: It's a small perfect replica of our gold-filled treasure.
 
@@ -81,7 +81,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png") **Raw Emerald**
+![](/realm/assets/img/picks/RawEmeraldArtifact.png) **Raw Emerald**
 
 **Description**: Just slightly less precious than a raw Ruby.
 
@@ -91,7 +91,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/AngelSet.png") **Angel Set**
+![](/realm/assets/img/picks/AngelSet.png) **Angel Set**
 
 **Requirement**: A2+
 
@@ -105,7 +105,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/Pillarfragment.png "Smiley face") **Pillar Fragment**
+![](/realm/assets/img/picks/Pillarfragment.png "Smiley face") **Pillar Fragment**
 
 **Description**: A tiny piece of the legendary pillars which sustain all the Heavens.
 
@@ -115,7 +115,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/DivineSword.png "Smiley face") **Divine Sword**
+![](/realm/assets/img/picks/DivineSword.png "Smiley face") **Divine Sword**
 
 **Description**: The shining golden sword of an Archangel. Its hilt feels pleasantly warm to the pure of heart and burning hot for the villain.
 
@@ -125,7 +125,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png") **Fossilized Wing**
+![](/realm/assets/img/picks/FossilizedWingArtifact.png) **Fossilized Wing**
 
 **Description**: The remains of an Angel fallen to earth.
 
@@ -135,7 +135,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/GoblinSet.png") **Goblin Set**
+![](/realm/assets/img/picks/GoblinSet.png) **Goblin Set**
 
 **Requirement**: A2+
 
@@ -151,7 +151,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/AncientCoinPiece.png "Artifacts") **Ancient Coin Piece**
+![](/realm/assets/img/picks/AncientCoinPiece.png "Artifacts") **Ancient Coin Piece**
 
 **Description**: A common goblin lucky charm. The older it is, the luckier you are, or so they say.
 
@@ -161,7 +161,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/GoblinPurse.png "Artifacts") **Goblin Purse**
+![](/realm/assets/img/picks/GoblinPurse.png "Artifacts") **Goblin Purse**
 
 **Description**: Heavy and roomy. Definitely too big for just pocket change.
 
@@ -171,7 +171,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png") **Spiked Whip**
+![](/realm/assets/img/picks/SpikedWhipArtifact.png) **Spiked Whip**
 
 **Description**: Use with caution. You do not want to exterminate all your slaves.
 
@@ -181,7 +181,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/UndeadSet.png") **Undead Set**
+![](/realm/assets/img/picks/UndeadSet.png) **Undead Set**
 
 **Requirement**: A2+
 
@@ -195,7 +195,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/RottenOrgan.png "Artifacts") **Rotten Organ**
+![](/realm/assets/img/picks/RottenOrgan.png "Artifacts") **Rotten Organ**
 
 **Description**: Ew... disgusting. It still pulses.
 
@@ -205,7 +205,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/JawBone.png "Artifacts") **Jaw Bone**
+![](/realm/assets/img/picks/JawBone.png "Artifacts") **Jaw Bone**
 
 **Description**: A jaw, missing more than half of its teeth.
 
@@ -215,7 +215,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png") **Dusty Coffin**
+![](/realm/assets/img/picks/DustyCoffinArtifact.png) **Dusty Coffin**
 
 **Description**: Sealed since forever, yet you can hear a strange noise from within.
 
@@ -227,7 +227,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/DemonSet.png") **Demon Set**
+![](/realm/assets/img/picks/DemonSet.png) **Demon Set**
 
 **Requirement**: A2+
 
@@ -241,7 +241,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/DemonicFigurine.png "Artifacts") **Demonic Figurine**
+![](/realm/assets/img/picks/DemonicFigurine.png "Artifacts") **Demonic Figurine**
 
 **Description**: An intricate figurine representing the evil face of a lesser demon.
 
@@ -251,7 +251,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/DemonHorn.png "Artifacts") **Demon Horn**
+![](/realm/assets/img/picks/DemonHorn.png "Artifacts") **Demon Horn**
 
 **Description**: Still blazing with the flames of Hell. Handle with care.
 
@@ -261,7 +261,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png") **Crystallized Lava**
+![](/realm/assets/img/picks/CrystallizedLavaArtifact.png) **Crystallized Lava**
 
 **Description**: Incandescent but still. Can be used efficiently as a desk lamp.
 
@@ -271,7 +271,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/TitanSet.png") **Titan Set**
+![](/realm/assets/img/picks/TitanSet.png) **Titan Set**
 
 **Requirement**: A2+
 
@@ -285,7 +285,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/HugeTitanStatue.png "Artifacts") **Huge Titan Statue**
+![](/realm/assets/img/picks/HugeTitanStatue.png "Artifacts") **Huge Titan Statue**
 
 **Description**: The granite representation of a giant wielding a lightning bolt in its fist. A foot appears to be missing.
 
@@ -295,7 +295,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/TitanShield.png "Artifacts") **Titan Shield**
+![](/realm/assets/img/picks/TitanShield.png "Artifacts") **Titan Shield**
 
 **Description**: A gargantuan metal shield, twice as tall as a common human.
 
@@ -305,7 +305,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png") **Titan Helmet**
+![](/realm/assets/img/picks/TitanHelmetArtifact.png) **Titan Helmet**
 
 **Description**: Made of enough metal to craft a human-sized full plate.
 
@@ -315,7 +315,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/DruidSet.png") **Druid Set**
+![](/realm/assets/img/picks/DruidSet.png) **Druid Set**
 
 **Requirement**: A2+
 
@@ -329,7 +329,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/GlyphTable.png "Artifacts") **Glyph Table**
+![](/realm/assets/img/picks/GlyphTable.png "Artifacts") **Glyph Table**
 
 **Description**: Contains all the secrets of the Druidic Alphabet.
 
@@ -339,7 +339,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/StoneOfBalance.png "Artifacts") **Stone of Balance**
+![](/realm/assets/img/picks/StoneOfBalance.png "Artifacts") **Stone of Balance**
 
 **Description**: A carved stone hovering above its pedestal.
 
@@ -349,7 +349,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png") **Branch of the Life Tree**
+![](/realm/assets/img/picks/BranchoftheLifeTreeArtifact.png) **Branch of the Life Tree**
 
 **Description**: Despite being torn from its source tree, it keeps growing buds and leaves.
 
@@ -359,7 +359,7 @@ layout: default
 
 ---
 
-![](http://musicfamily.org/realm/Factions/picks/FacelessSet.png") **Faceless Set**
+![](/realm/assets/img/picks/FacelessSet.png) **Faceless Set**
 
 **Requirement**: A2+
 
@@ -373,7 +373,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/TranslucentGoo.png "Artifacts") **Translucent Goo**
+![](/realm/assets/img/picks/TranslucentGoo.png "Artifacts") **Translucent Goo**
 
 **Description**: A completely odorless sticky substance with a diaphanous, unsettling glow.
 
@@ -383,7 +383,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/Octopus-shapedHelmet.png "Artifacts") **Octopus-shaped Helmet**
+![](/realm/assets/img/picks/Octopus-shapedHelmet.png "Artifacts") **Octopus-shaped Helmet**
 
 **Description**: A large helmet with empty metal prongs to accomodate tentacular appendages.
 
@@ -393,7 +393,7 @@ layout: default
 
 &nbsp;
 
-![](http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png") **Nightmare Figment**
+![](/realm/assets/img/picks/NightmareFigmentArtifact.png) **Nightmare Figment**
 
 **Description**: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
 
